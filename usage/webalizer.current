@@ -1,0 +1,1080 @@
+# Webalizer V2.23-08 Incremental Data - 10/21/2017 22:28:12
+2017 10 21 22 28 12
+344 140 195 1 18 84 159341 293 252 0 0 0
+12 1 9 1 21
+12 2 4749 6 12 8 0 0
+23 4 8325 18 17 15 0 0
+31 7 11553 23 21 16 0 0
+33 7 14898 22 18 15 0 0
+32 13 18218 23 19 12 0 0
+15 6 6966 11 15 14 0 0
+15 9 10804 10 15 12 0 0
+17 11 12474 11 17 14 0 0
+14 7 5315 13 14 14 0 0
+10 4 3711 8 10 10 0 0
+21 12 10473 17 21 17 0 0
+14 3 4982 8 13 8 0 0
+15 7 5332 14 14 14 0 0
+15 6 4148 14 15 15 0 0
+11 7 8692 9 11 9 0 0
+12 8 6594 12 10 10 0 0
+8 5 5391 8 7 7 0 0
+10 2 1541 10 10 10 0 0
+9 5 2328 9 9 9 0 0
+13 8 5599 13 13 13 0 0
+14 7 7248 12 12 10 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+7 1 1296 7 0 0
+15 2 4015 12 0 0
+16 9 9356 16 0 0
+16 6 5511 14 0 0
+13 7 7978 13 0 0
+8 5 5361 7 0 0
+7 4 3464 6 0 0
+11 3 4138 11 0 0
+15 6 7177 13 0 0
+19 8 10459 16 0 0
+14 5 5264 8 0 0
+12 2 3428 9 0 0
+14 6 5486 12 0 0
+14 7 5798 12 0 0
+9 3 4629 7 0 0
+21 8 9683 16 0 0
+19 6 8937 18 0 0
+21 13 15813 19 0 0
+11 6 6504 9 0 0
+12 3 3620 11 0 0
+24 9 11389 17 0 0
+17 6 6867 14 0 0
+12 7 5837 11 0 0
+17 8 7331 15 0 0
+0
+0
+0
+140
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0
+0
+98
+90
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 156 0 118756 142 24 0 0
+# End Of Table - urls
+# -sites- (monthly)
+173.234.234.210
+0 1 1 0 1 1507762036 0 0
+/
+akl48.rev.netart.pl
+0 1 0 208 0 0 0 0
+-
+ec2-54-189-154-7.us-west-2.compute.amazonaws.com
+0 1 1 943 1 1507347323 0 0
+/
+74.115.214.138
+0 1 1 0 1 1507745691 0 0
+/
+near.localoffersforyou.com
+0 2 0 442 2 1508601754 0 0
+-
+36.74.120.174
+0 1 0 207 0 0 0 0
+-
+74.115.214.132
+0 2 2 0 2 1508539407 0 0
+/
+239.145.dynamic.pppoe.fregat.ua
+0 2 1 1146 1 1508029847 0 0
+-
+p3nlhg1315.shr.prod.phx3.secureserver.net
+0 2 0 418 0 0 0 0
+-
+202.46.50.123
+0 1 0 0 1 1507620274 0 0
+/
+36.83.194.136
+0 1 0 208 1 1506930971 0 0
+-
+gdfert133.mailduyum.net
+0 7 0 1547 7 1508302405 0 0
+-
+crawl-66-249-70-24.googlebot.com
+0 7 7 6601 7 1508624892 0 0
+/
+202.46.56.14
+0 1 0 0 1 1507946245 0 0
+/
+n3nlwpweb038.prod.ams3.secureserver.net
+0 1 0 206 0 0 0 0
+-
+p3nlwpweb150.shr.prod.phx3.secureserver.net
+0 1 0 206 0 0 0 0
+-
+crawl-66-249-70-26.googlebot.com
+0 4 2 2302 4 1508390435 0 0
+/
+213-13-86-185.ip.idealhosting.net.tr
+0 3 0 663 3 1507014952 0 0
+-
+mail.nakato.com.vn
+0 1 0 211 0 0 0 0
+-
+195-164.86.185.ip.idealhosting.net.tr
+0 4 0 884 4 1508088929 0 0
+-
+ec2-52-55-96-26.compute-1.amazonaws.com
+0 1 0 0 1 1507895698 0 0
+-
+webhost.nameserver.sk
+0 2 0 410 0 0 0 0
+-
+202.46.52.109
+0 1 0 0 1 1507944245 0 0
+/
+163-172-4-153.rev.poneytelecom.eu
+0 3 3 2829 3 1508191483 0 0
+/
+customer.worldstream.nl
+0 1 1 943 1 1508090979 0 0
+/
+box710.bluehost.com
+0 1 0 206 0 0 0 0
+-
+199.58.164.114
+0 1 1 0 1 1507890464 0 0
+/
+202.46.57.72
+0 1 0 0 1 1507712337 0 0
+/
+69.164.111.198
+0 1 1 1666 1 1508091157 0 0
+/
+144.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1507352277 0 0
+/
+74.115.214.130
+0 1 1 0 1 1508112798 0 0
+/
+b99be.ishminst.info
+0 1 1 943 1 1508446922 0 0
+/
+p3nlhg484.shr.prod.phx3.secureserver.net
+0 1 0 204 0 0 0 0
+-
+unspecified.mtw.ru
+0 2 1 1889 1 1507196334 0 0
+-
+millen860.fvds.ru
+0 1 1 943 1 1507456345 0 0
+/
+173.234.234.199
+0 3 3 0 3 1508498971 0 0
+/
+173.234.234.205
+0 1 1 0 1 1507984229 0 0
+/
+131.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1507478188 0 0
+/
+exit1.ipredator.se
+0 1 0 219 1 1507089946 0 0
+-
+74.115.214.142
+0 1 1 0 1 1508381210 0 0
+/
+p3nlhg765.shr.prod.phx3.secureserver.net
+0 1 0 208 0 0 0 0
+-
+mta-01-spark3.requestedoffers.clu
+0 2 0 442 2 1508189054 0 0
+-
+ip-107-180-113-57.ip.secureserver.net
+0 1 0 204 0 0 0 0
+-
+a2plcpnl0518.prod.iad2.secureserver.net
+0 1 0 209 0 0 0 0
+-
+199.58.164.119
+0 1 1 0 1 1507714342 0 0
+/
+hsi-kbw-134-3-254-69.hsi14.kabel-badenwuerttemberg.de
+0 1 1 943 1 1508619093 0 0
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 2 1 943 2 1507253645 0 0
+/
+161.69.99.11
+0 2 2 1886 1 1508061596 0 0
+/
+210.87.255.226
+0 1 0 214 1 1508006946 0 0
+-
+38.145.85.134
+0 1 1 943 1 1507015591 0 0
+/
+74.115.214.145
+0 1 1 943 1 1507993423 0 0
+/
+infongp-us81.lxa.perfora.net
+0 2 1 1874 1 1507110485 0 0
+-
+165.227.74.3
+0 1 1 1666 1 1507743698 0 0
+/
+217.118.136.171
+0 1 1 1666 1 1508080112 0 0
+/
+163-172-255-19.rev.poneytelecom.eu
+0 1 0 221 1 1508406254 0 0
+-
+74.115.214.129
+0 2 2 0 2 1508558934 0 0
+/
+crawl-66-249-69-155.googlebot.com
+0 2 2 1886 2 1507321370 0 0
+/
+p3nlhg656.shr.prod.phx3.secureserver.net
+0 1 0 204 0 0 0 0
+-
+46x0x193x126.static-customer.samara.ertelecom.ru
+0 1 1 943 1 1508253966 0 0
+/
+74.115.214.133
+0 1 1 0 1 1507900599 0 0
+/
+gdfert134.mailduyum.net
+0 6 0 1326 6 1507790731 0 0
+-
+36.84.64.129
+0 1 0 208 1 1506963550 0 0
+-
+p3nlhg512.shr.prod.phx3.secureserver.net
+0 1 0 211 0 0 0 0
+-
+4-189-85-185.ip.idealhosting.net.tr
+0 4 0 884 4 1507839226 0 0
+-
+web.saturno.vhosting-it.com
+0 1 0 216 1 1507775763 0 0
+-
+ec2-52-53-231-176.us-west-1.compute.amazonaws.com
+0 2 2 1886 2 1508261969 0 0
+/
+a2plcpnl0876.prod.iad2.secureserver.net
+0 1 0 209 0 0 0 0
+-
+chulak.enn.lu
+0 1 1 943 1 1507869721 0 0
+/
+hosted-by.leaseweb.com
+0 1 1 1666 1 1507412000 0 0
+/
+tproxy1102.nic.ru
+0 1 0 208 0 0 0 0
+-
+202.46.56.33
+0 1 0 0 1 1508399370 0 0
+/
+202.46.52.151
+0 1 0 0 1 1508336912 0 0
+/
+static.132.145.9.5.clients.your-server.de
+0 4 3 5210 1 1507225556 0 0
+/
+sg2plcpnl0259.prod.sin2.secureserver.net
+0 1 0 207 0 0 0 0
+-
+136.30.120.64.reverse.shredvirtual.com
+0 1 1 0 1 1507334149 0 0
+/
+74.115.214.144
+0 2 2 0 2 1508470143 0 0
+/
+p3nw8shg340.shr.prod.phx3.secureserver.net
+0 1 0 210 0 0 0 0
+-
+5.101.191.21
+0 1 0 221 1 1507942736 0 0
+-
+38.100.21.78
+0 1 1 1666 1 1507116134 0 0
+/
+202.46.51.203
+0 1 0 0 1 1507999430 0 0
+/
+175.140.181.214
+0 1 0 207 1 1507096855 0 0
+/
+5.101.191.19
+0 1 0 221 1 1507761343 0 0
+-
+box904.bluehost.com
+0 1 0 207 0 0 0 0
+-
+202.10.76.80
+0 1 0 206 0 0 0 0
+-
+lh28409.voxility.net
+0 2 1 1154 1 1507035277 0 0
+-
+108-174-5-117.fwd.linkedin.com
+0 1 0 247 0 0 0 0
+-
+tor-exit4-readme.dfri.se
+0 1 0 219 1 1507030907 0 0
+-
+p3plcpnl0914.prod.phx3.secureserver.net
+0 1 0 208 0 0 0 0
+-
+74.115.214.147
+0 1 1 0 1 1507550893 0 0
+/
+ec2-34-211-57-134.us-west-2.compute.amazonaws.com
+0 3 3 2829 1 1507245218 0 0
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 1 943 1 1507355234 0 0
+/
+tor-exit.talyn.se
+0 5 3 3257 1 1507035274 0 0
+/
+69.171.209.195
+0 1 1 943 1 1507858741 0 0
+/
+ec2-54-67-67-222.us-west-1.compute.amazonaws.com
+0 1 1 943 1 1508607020 0 0
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 2 1 943 2 1507257645 0 0
+/
+box707.bluehost.com
+0 1 0 211 0 0 0 0
+-
+110-164.86.185.ip.idealhosting.net.tr
+0 2 0 442 2 1508529786 0 0
+-
+185.70.187.155
+0 5 1 2486 1 1507763082 0 0
+-
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 0 0 1 1507310722 0 0
+/
+202.46.51.105
+0 1 0 0 1 1507606030 0 0
+/
+support11.besteviewoption1.top
+0 3 0 663 3 1508518478 0 0
+-
+baiduspider-180-76-15-12.crawl.baidu.com
+0 1 1 943 1 1506951695 0 0
+/
+74.115.214.143
+0 1 1 0 1 1507993423 0 0
+/
+mx00.wo22.wiroos.host
+0 2 1 1874 1 1506973896 0 0
+-
+exit.tor.uwaterloo.ca
+0 1 0 219 1 1506973812 0 0
+-
+static.209.16.9.176.clients.your-server.de
+0 1 1 943 1 1508109587 0 0
+/
+crawl-66-249-70-22.googlebot.com
+0 2 2 1886 2 1508517166 0 0
+/
+173.234.234.215
+0 1 1 0 1 1507231525 0 0
+/
+p3nlwpweb368.prod.phx3.secureserver.net
+0 1 0 205 0 0 0 0
+-
+host02.thehoster.host
+0 1 1 0 1 1507159499 0 0
+/
+27.254.96.18
+0 1 0 206 0 0 0 0
+-
+dreamatorium.badexample.net
+0 1 0 219 1 1508358754 0 0
+-
+crawl-66-249-64-82.googlebot.com
+0 3 3 2829 2 1508617190 0 0
+/
+202.46.52.170
+0 1 1 943 1 1508487550 0 0
+/
+dns.rbops.dotnice.com
+0 2 2 1886 1 1507223886 0 0
+/
+163-172-255-139.rev.poneytelecom.eu
+0 5 0 1085 4 1508546348 0 0
+-
+p3nlwpweb203.prod.phx3.secureserver.net
+0 1 0 207 0 0 0 0
+-
+93.123.73.123
+0 1 1 943 1 1507674832 0 0
+/
+69.58.178.57
+0 1 1 1666 1 1507105073 0 0
+/
+box975.bluehost.com
+0 1 0 205 0 0 0 0
+-
+msnbot-207-46-13-178.search.msn.com
+0 2 2 1886 2 1507186022 0 0
+/
+better8.betterthansummery.club
+0 3 0 663 3 1508340979 0 0
+-
+p3plcpnl0739.prod.phx3.secureserver.net
+0 1 0 210 0 0 0 0
+-
+199.58.164.115
+0 1 1 943 1 1507714343 0 0
+/
+static.6.112.9.5.clients.your-server.de
+0 4 3 5210 1 1507342755 0 0
+/
+app6.cooloptionsreview.co
+0 3 0 663 3 1507705381 0 0
+-
+box796.bluehost.com
+0 1 0 205 0 0 0 0
+-
+ec2-34-197-246-236.compute-1.amazonaws.com
+0 1 0 210 0 0 0 0
+-
+173.234.234.207
+0 1 1 0 1 1508346466 0 0
+/
+msnbot-157-55-39-4.search.msn.com
+0 1 1 943 1 1507565004 0 0
+/
+108-174-2-200.fwd.linkedin.com
+0 2 0 494 0 0 0 0
+-
+199.249.223.78
+0 1 1 943 1 1508465633 0 0
+/
+202.46.55.87
+0 1 0 0 1 1508408815 0 0
+/
+67.215.230.90.static.quadranet.com
+0 1 1 0 1 1508384942 0 0
+/
+profitserver1.domengood.ru
+0 7 2 2718 1 1507822707 0 0
+-
+a2plcpnl0485.prod.iad2.secureserver.net
+0 1 0 207 0 0 0 0
+-
+aurora.enn.lu
+0 1 0 219 1 1508319801 0 0
+-
+195.22.127.96
+0 2 2 1886 2 1508163249 0 0
+/
+ec2-54-234-52-127.compute-1.amazonaws.com
+0 1 1 943 1 1507758589 0 0
+/
+crawl-66-249-65-214.googlebot.com
+0 1 1 943 1 1507748042 0 0
+/
+202.46.51.167
+0 1 0 0 1 1507726824 0 0
+/
+45.32.129.200.vultr.com
+0 1 1 1666 1 1507476452 0 0
+/
+www.whois.sc
+0 1 1 943 1 1507988866 0 0
+/
+p3nlhg1260.shr.prod.phx3.secureserver.net
+0 1 0 205 0 0 0 0
+-
+77.123.2.4
+0 1 1 943 1 1508604748 0 0
+/
+202.46.53.48
+0 1 0 0 1 1508500378 0 0
+/
+108.60.209.91
+0 1 0 208 0 0 0 0
+-
+mdaa.globaltrust.club
+0 1 0 221 1 1508462998 0 0
+-
+server.techajans.net
+0 2 0 442 2 1508332834 0 0
+-
+kaersf125.royaladventure.net
+0 1 0 221 1 1508553633 0 0
+-
+tor00.telenet.unc.edu
+0 1 0 219 1 1508340461 0 0
+-
+static.118.17.9.5.clients.your-server.de
+0 4 3 5210 1 1507437735 0 0
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 0 0 1 1506918481 0 0
+/
+no-reverse-dns-configured.com
+0 1 0 219 1 1507160900 0 0
+-
+173.234.234.194
+0 1 1 0 1 1507756597 0 0
+/
+crawl-66-249-64-80.googlebot.com
+0 1 1 943 1 1507482571 0 0
+/
+n3nlwpweb036.prod.ams3.secureserver.net
+0 1 0 207 0 0 0 0
+-
+74.115.214.153
+0 1 1 0 1 1508359894 0 0
+/
+108-174-5-114.fwd.linkedin.com
+0 1 0 247 0 0 0 0
+-
+demur192.vds
+0 1 1 943 1 1508208371 0 0
+/
+box5034.bluehost.com
+0 1 0 205 0 0 0 0
+-
+vm179240.had.su
+0 1 1 943 1 1508220199 0 0
+/
+srv1.servers.com.tr
+0 4 0 884 4 1508589271 0 0
+-
+srv3.servers.com.tr
+0 4 0 884 4 1508528330 0 0
+-
+104.156.231.254.vultr.com
+0 1 1 1666 1 1507474192 0 0
+/
+185.61.211.174
+0 2 2 1886 2 1508147747 0 0
+/
+93.179.91.15
+0 1 1 943 1 1507190766 0 0
+/
+li626-113.members.linode.com
+0 1 1 0 1 1507430021 0 0
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 1 1 943 1 1507004695 0 0
+/
+5.39.216.131
+0 5 1 2486 1 1506876486 0 0
+-
+178.33.213.104
+0 1 0 251 1 1507070467 0 0
+-
+vh50.hosterby.com
+0 1 0 206 0 0 0 0
+-
+msnbot-207-46-13-137.search.msn.com
+0 1 1 943 1 1507382971 0 0
+/
+38.145.85.79
+0 1 1 943 1 1507744324 0 0
+/
+200-204-167-121.dsl.telesp.net.br
+0 9 2 4928 1 1507147822 0 0
+/
+202.46.51.39
+0 1 0 0 1 1508039400 0 0
+/
+sg2plcpnl0250.prod.sin2.secureserver.net
+0 2 1 1874 1 1507285106 0 0
+-
+crawl-66-249-64-154.googlebot.com
+0 1 1 943 1 1507786043 0 0
+/
+static.32.53.201.138.clients.your-server.de
+0 1 1 943 1 1508519039 0 0
+/
+173.234.234.202
+0 1 1 0 1 1508121286 0 0
+/
+202.46.50.138
+0 1 1 943 1 1507718342 0 0
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 943 1 1507128774 0 0
+/
+smtp-01-a24.happyoffer.club
+0 8 0 1768 8 1508337430 0 0
+-
+199.19.104.163
+0 2 1 1150 1 1506932695 0 0
+-
+67.215.230.91.static.quadranet.com
+0 1 1 0 1 1508441705 0 0
+/
+msnbot-157-55-39-76.search.msn.com
+0 1 1 943 1 1507574066 0 0
+/
+static-ip-188-138-105-42.inaddr.ip-pool.com
+0 1 0 264 0 0 0 0
+-
+msnbot-40-77-167-135.search.msn.com
+0 1 1 943 1 1506841433 0 0
+/
+chomsky.torservers.net
+0 1 1 943 1 1508477801 0 0
+/
+173.234.234.195
+0 2 2 0 2 1507988974 0 0
+/
+103.240.17.73
+0 28 0 6132 28 1507596932 0 0
+-
+108-174-5-115.fwd.linkedin.com
+0 1 0 247 0 0 0 0
+-
+201-191-85-185.ip.idealhosting.net.tr
+0 1 0 221 1 1506946447 0 0
+-
+sabrina.timeweb.ru
+0 1 0 209 0 0 0 0
+-
+185.100.87.206
+0 1 1 943 1 1507891280 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+near.localoffersforyou.com
+0 1 0 221 1 1508601754 0 0
+-
+crawl-66-249-70-24.googlebot.com
+0 1 1 943 1 1508624892 0 0
+/
+hsi-kbw-134-3-254-69.hsi14.kabel-badenwuerttemberg.de
+0 1 1 943 1 1508619093 0 0
+/
+74.115.214.129
+0 1 1 0 1 1508558934 0 0
+/
+ec2-54-67-67-222.us-west-1.compute.amazonaws.com
+0 1 1 943 1 1508607020 0 0
+/
+crawl-66-249-64-82.googlebot.com
+0 2 2 1886 1 1508617190 0 0
+/
+163-172-255-139.rev.poneytelecom.eu
+0 2 0 416 1 1508546348 0 0
+-
+108-174-2-200.fwd.linkedin.com
+0 1 0 247 0 0 0 0
+-
+77.123.2.4
+0 1 1 943 1 1508604748 0 0
+/
+kaersf125.royaladventure.net
+0 1 0 221 1 1508553633 0 0
+-
+srv1.servers.com.tr
+0 1 0 221 1 1508589271 0 0
+-
+static-ip-188-138-105-42.inaddr.ip-pool.com
+0 1 0 264 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://uptime-beta.net/boraoenal.com
+1 7
+http://pizza-tycoon.com/
+0 4
+http://boraoenal.com/wp-tmp.php
+1 1
+http://boraoenal.com/blog/
+1 1
+http://www.boraoenal.com
+1 1
+- (Direct Request)
+0 250
+http://www.boraoenal.com/wp-content/uploader.php
+1 3
+http://boraoenal.com/hivcxa.php
+1 1
+http://uptime-alpha.net/boraoenal.com
+1 11
+boraoenal.com
+1 2
+http://whois.domaintools.com/boraoenal.com
+1 1
+http://burger-imperia.com/
+0 1
+http://www.boraoenal.com/wp-content/plugins/ubh/up.php
+1 1
+http://uptime-gamma.net/boraoenal.com
+1 6
+http://boraoenal.com/
+1 5
+http://uptime-delta.net/boraoenal.com
+1 7
+http://boraoenal.com/index.php
+1 1
+http://boraoenal.com
+1 41
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 107) AppleWebKit/534.48.3 (KHTML like Gecko) Version/5.1 Safari/534.48.3
+1 1
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+1 2
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+1 3
+Spider: Googlebot
+2 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+1 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+1 9
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+1 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
+1 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+1 28
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+1 1
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.12 Safari/534.24
+1 1
+python-requests/2.8.1
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+1 1
+Browser: MSIE
+2 19
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.32
+1 10
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+1 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 16
+Mozilla/5.0 (compatible; IDBot/1.1; +http://www.id-search.xyz/bot.html)
+0 1
+Browser: Firefox
+2 65
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+1 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 1084) AppleWebKit/536.28.10 (KHTML like Gecko) Version/6.0.3 Safari/536.28.10
+1 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+1 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0
+1 1
+Opera/9.80 (Windows NT 5.1; U; Edition Yx; ru) Presto/2.10.229 Version/11.60
+1 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+1 1
+Poster
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+1 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+1 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+1 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0) Opera 12.14
+1 1
+WordPress
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+1 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+1 4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko Firefox/11.0
+1 1
+Mozilla/5.0 (Windows NT 6.1.7600; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+1 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+1 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.2
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview Analytics) Chrome/41.0.2272.118 Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 1
+redback/v0-570-g26f8c96
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
+1 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 4
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+1 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)
+1 1
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 33
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; FDM)
+1 1
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Jakarta Commons-HttpClient/4.3 +http://www.linkedin.com)
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.2; MS-RTC LM 8; .NET CLR 3.5.21022; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
+1 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+1 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 60
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+1 2
+wp-android
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB6.4; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.1.4322)
+1 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+1 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; InfoPath.1; .NET CLR 2.0.50727)
+1 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+1 1
+Mozilla/5.0 (compatible; ips-agent)
+0 1
+Companybook-Crawler (+https://www.companybooknetworking.com/)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+1 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+1 5
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/10.0
+1 1
+Browser: Safari
+2 132
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 1.1.4322; .NET CLR 3.5.21022; .NET CLR 3.5.30
+1 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+1 1
+libwww-perl/5.833
+0 1
+Opera/9.80 (iPhone; Opera Mini/6.5.1.23995/26.1424; U; ru) Presto/2.8.119 Version/10.54
+1 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+1 2
+Spider: MJ12bot
+2 1
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+1 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MDDC)
+1 1
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+1 7
+Browser: Opera
+2 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+1 1
+Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 1
+Mozilla/3.0 (compatible; Indy Library)
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/ 20120405 Firefox/14.0.1
+1 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+1 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.50
+1 2
+python-requests/2.18.1
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+62
+# -notfounderrors- 
+/xmlrpc.php
+5
+/blog/
+2
+/wordpress/
+1
+/wp/
+1
+/wp-tmp.php
+0
+/wordpress
+0
+/dump.sql
+0
+/backup.sql
+0
+/hivcxa.php
+0
+/sql.sql
+0
+/sql.tar
+1
+/dump.sql.zip
+0
+/db.sql.bz2
+0
+/mysql.zip
+0
+/backup.sql.bz2
+0
+/dump.sql.tgz
+1
+/
+1
+/user/register
+0
+/dbdump.sql.gz
+0
+/dump.tgz
+0
+/db.tar
+0
+/dump.gz
+0
+/administrator/components/com_joomlaupdate/restore.php
+0
+/db.sql.zip
+0
+/sql.zip
+0
+/dump.zip
+0
+/sql.tar.gz
+0
+/site.sql
+0
+/data.sql
+1
+/dbdump.sql
+0
+/wp-includes/wlwmanifest.xml
+0
+/blog/wp-includes/wlwmanifest.xml
+0
+/wordpress/wp-includes/wlwmanifest.xml
+0
+/wp/wp-includes/wlwmanifest.xml
+0
+/site/wp-includes/wlwmanifest.xml
+0
+/cms/wp-includes/wlwmanifest.xml
+0
+/db.tar.gz
+0
+/wp-content/uploader.php
+2
+/db.zip
+0
+/temp.sql
+0
+/db_backup.sql
+0
+/sql.gz
+0
+/backup.sql.gz
+0
+/db.sql.gz
+1
+/sql.tgz
+1
+/dump.tar.gz
+1
+/dump.sql.gz
+0
+/users.sql
+1
+/impressum.html
+2
+/wp-content/plugins/ubh/up.php
+0
+/wp-admin/admin-ajax.php
+1
+/skin/Signedint.php
+0
+/admin/
+0
+/manager/
+0
+/admin/content/sitetree/
+0
+/simpla/
+0
+/js/mage/cookies.js
+0
+/wp-content/themes/boraoenal/images/responsive.png
+4
+/impressum/
+1
+/new/wp-login.php
+0
+/about-usi/
+1
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css
+0
+# End Of Table - notfounderrors
