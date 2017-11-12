@@ -79,8 +79,6 @@
                     <a class="navbar-brand" href="/">
                         <img src="<?php bloginfo('template_url');?>/images/logo.png" alt="Bora Önal">
                     </a>
-                    <!-- <div class="site-title">Bora <span>Önal</span></div>
-                    </div> -->
 
                     <!-- Navigation -->
                     <div class="site-nav">
@@ -104,6 +102,9 @@
                             </li>
                             <li>
                                 <a class="pt-trigger" href="#kontakt">Kontakt</a>
+                            </li>
+                            <li>
+                                <a class="pt-trigger" href="#extra" data-animation="62">Extra</a>
                             </li>
                             
                         

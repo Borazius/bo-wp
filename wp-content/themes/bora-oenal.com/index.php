@@ -330,7 +330,7 @@
             <!-- End of Resume Subpage -->
 
             <!-- Services Subpage -->
-            <section class="pt-page" data-id="leistungen">
+            <section class="pt-page" data-id="leistungen">      
                 <div class="section-inner custom-page-content">
                     <div class="page-header color-1">
                         <h2>Leistungen</h2>
@@ -433,7 +433,7 @@
                             <div class="col-md-6 centPic">
                                 <div class="leistungen-img">
                                     <!--   <img class="img-responsive" src="images/webleistungen-pforzheim.png" alt="Web-Design und Homepage-Erstellung Raum Pforzheim Enzkreis">
-<img src="<?php bloginfo('template_url');?>/images/leistungen/webleistungen-pforzheim.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded"> -->
+                                    <img src="<?php bloginfo('template_url');?>/images/leistungen/webleistungen-pforzheim.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded"> -->
 
 
                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/webdesigner-pforzheim-bora.png" alt="Online Marketing Pforzheim"
@@ -453,7 +453,7 @@
 
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-            padding-right: 10px;font-weight:bold;}">1</span>
+                                padding-right: 10px;font-weight:bold;}">1</span>
                                 <h5 class="steps">VORGESPRÄCH</h5>
                                 <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem ausführlichen
                                     Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts. Gemeinsam
@@ -469,7 +469,7 @@
 
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-            padding-right: 10px;font-weight:bold;}">2</span>
+                                padding-right: 10px;font-weight:bold;}">2</span>
                                 <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
                                 <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
                                     vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
@@ -490,7 +490,7 @@
 
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-            padding-right: 10px; font-weight:bold;}">3</span>
+                                padding-right: 10px; font-weight:bold;}">3</span>
                                 <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
                                 <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
                                     Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der nächste
@@ -509,7 +509,7 @@
 
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-            padding-right: 10px; font-weight:bold;}">4</span>
+                                padding-right: 10px; font-weight:bold;}">4</span>
                                 <h5 class="steps">GO-LIVE</h5>
                                 <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
                                     Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
@@ -1366,6 +1366,22 @@
             </section>
             <!-- End Contact Subpage -->
 
+            <!-- Extra Subpage -->
+            <section class="pt-page" data-id="extra">
+                <div class="section-inner custom-page-content">
+                    <div class="page-header color-1">
+                        <h2>Extra</h2>
+                    </div>
+                    <div class="page-content">
+
+                        <div class="row">
+                            Our columns with content.
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+            <!-- End Extra Subpage -->
         </div>
     </div>
     <!-- /Page changer wrapper -->
