@@ -415,7 +415,7 @@ body>footer {
 
 body>footer .copyrights {
     display: block;
-    margin-bottom: 12px;
+    margin-bottom: 7px;
     text-align: center;
     font-size: 0.7rem;
     line-height: 1.1rem;
@@ -3099,4 +3099,11 @@ div.test-unten{
 	font-size: 6rem;
 	color: #2196F3;
     margin-top: 12px;
+}
+
+.img-imprint {
+    width: 60%;
+	position: relative;
+    left: -10px;
+	top: -16px;
 }

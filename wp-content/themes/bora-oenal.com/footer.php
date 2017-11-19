@@ -6,10 +6,9 @@
 	
         © 2017 Mit
         <span class="fa fa-heart"></span> gemacht |
-        <?php bloginfo('name') ?> | <a href="http://www.boraoenal.de/impressum" class="link-imprint">Impressum</a> | Web-Programmierer & WordPress Freelancer Pforzheim</br>
+        <?php bloginfo('name') ?> |  <a class="pt-trigger" href="#impressum">Impressum</a> | Web-Programmierer & WordPress Freelancer Pforzheim</br>
         <?php bloginfo('description') ?></br>		
     </div>
-
 
 </footer>
 

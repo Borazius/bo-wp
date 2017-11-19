@@ -19,8 +19,8 @@
                             <div class="col-sm-8 col-md-8 col-lg-8">
 
                                 <div class="title-block">
-                                    <h2 class="h2-upline">Ihr Spezialist für
-                                        <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihre Websites.", " Ihre Internetpräsenz.", " Webprogrammierung.", " Webdesign.", " Online-Markteting" ]'></span>
+                                    <h2 class="h2-upline">Professionelle Webseite für
+                                        <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen", " Ihr Business", " Ihr Produkt", " Ihre Veranstaltung", " Ihre Praxis", " Ihr Hotel", " Ihr Restaurant", " Ihr Verein", " und, und ,und..." ]'></span>
                                     </h2>
                                     <h1>WEBDESIGN PFORZHEIM</h1>
                                     <div>
@@ -330,7 +330,7 @@
             <!-- End of Resume Subpage -->
 
             <!-- Services Subpage -->
-            <section class="pt-page" data-id="leistungen">      
+            <section class="pt-page" data-id="leistungen">
                 <div class="section-inner custom-page-content">
                     <div class="page-header color-1">
                         <h2>Leistungen</h2>
@@ -351,8 +351,8 @@
                                     <div class="service-info">
                                         <!--<i class="service-icon fa fa-shopping-cart"></i>-->
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/concept3.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded"> 
-                                         <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/concept3.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
+                                            <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
 
                                         </div>
                                         <h4>Konzeption</h4>
@@ -366,9 +366,9 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/web_design_icon.png" alt="Webdesigner Pforzheim" class="mCS_img_loaded">
-  
-                                        <!--      <i class="fa fa-pencil large-icons"></i>   -->
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/web_design_icon.png" alt="Webdesigner Pforzheim" class="mCS_img_loaded">
+
+                                            <!--      <i class="fa fa-pencil large-icons"></i>   -->
                                         </div>
                                         <h4>Webdesign</h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
@@ -381,8 +381,8 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                           <img src="<?php bloginfo('template_url');?>/images/leistungen/creativity_icon.png" alt="Webprogrammierung Pforzheim" class="mCS_img_loaded">
-                                           <!--      <i class="fa fa-file-code-o large-icons"></i> -->
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/creativity_icon.png" alt="Webprogrammierung Pforzheim" class="mCS_img_loaded">
+                                            <!--      <i class="fa fa-file-code-o large-icons"></i> -->
                                         </div>
                                         <h4>Programmierung</h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
@@ -395,8 +395,8 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/advetising_icon.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded"> 
-                                        <!--            <i class="fa fa-volume-up large-icons"></i>-->
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/advetising_icon.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded">
+                                            <!--            <i class="fa fa-volume-up large-icons"></i>-->
                                         </div>
                                         <h4>Online Marketing</h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
@@ -1378,6 +1378,241 @@
                             Our columns with content.
                         </div>
 
+                    </div>
+                </div>
+            </section>
+            <!-- End Extra Subpage -->
+
+            <!-- Impressum Subpage -->
+            <section class="pt-page" data-id="impressum">
+                <div class="section-inner custom-page-content">
+                    <div class="page-header color-1">
+                        <h2>Impressum</h2>
+                    </div>
+                    <div class="page-content">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>Impressum
+                                    </h3>
+                                </div>
+                                <br>
+                                <strong>
+                                    Angaben gemäß § 5 TMG:
+                                    <br>
+                                </strong>
+                                <div>
+                                    <p>Bora Önal
+                                        <br>August-Kayser-Straße 10
+                                        <br> 75175 Pforzheim
+                                    </p>
+                                    <br>
+                                    <strong>
+                                        Kontakt:
+                                    </strong>
+                                    <br>
+                                    <div>
+                                        <p>
+                                            <i class="fa fa-phone" aria-hidden="true"></i>: 0176-64343412
+                                            <br>
+                                            <i class="fa fa-envelope-o" aria-hidden="true"></i>: info@boraoenal.com</p>
+                                        <br>
+                                        <strong>Steuer-Nr:</strong>
+                                        <p>41800 / 70186</p>
+
+                                        <br>
+                                        <strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong>
+                                        <p>Bora Önal
+                                            <br>August-Kayser-Straße 10
+                                            <br> 75175 Pforzheim
+                                            <br>
+                                        </p>
+                                        <br>
+                                        <strong>Quellenangaben für die verwendeten Bilder und Grafiken:</strong>
+                                        <p>http://www.fotolia.de</p>
+                                        <br>
+                                        <strong>Quelle:</strong>
+                                        <p>
+                                            Impressum-Generator von e-recht24.de</p>
+                                        <br>
+                                        <br>
+                                        <img src="http://boraoenal.com/wp-content/uploads/2017/10/logo.png" class="img-imprint" alt="Bora Önal">
+                                        <br>
+                                        <br>
+                                        <br>
+                                        <div class="block-title">
+
+                                            <h3>Haftungshinweis
+                                            </h3>
+                                        </div>
+
+                                        <h4>Haftung für Inhalte
+                                            <br>
+                                        </h4>
+                                        <p>
+                                            Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der
+                                            Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir
+                                            gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
+                                            Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch
+                                            nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen
+                                            oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+                                            Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach
+                                            den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung
+                                            ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung
+                                            möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese
+                                            Inhalte umgehend entfernen.
+                                        </p>
+                                        <br>
+                                        <p>
+                                            <h4>Haftung für Links
+                                                <br>
+                                            </h4>
+                                            Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir
+                                            für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
+                                            Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
+                                            Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
+                                            überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+                                            Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
+                                            Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen
+                                            werden wir derartige Links umgehend entfernen.
+                                        </p>
+                                        <br>
+                                        <p>
+                                            <h4>Urheberrecht
+                                                <br>
+                                            </h4>
+                                            Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die
+                                            Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb
+                                            der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen
+                                            Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten,
+                                            nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht
+                                            vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere
+                                            werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
+                                            Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden
+                                            Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte
+                                            umgehend entfernen.
+                                        </p>
+                                        <br>
+                                        <h4>Datenschutz
+                                            <br>
+                                        </h4>
+                                        <p>
+                                            Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene
+                                            Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt
+                                            dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre
+                                            ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin,
+                                            dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
+                                            Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff
+                                            durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht
+                                            veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
+                                            angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen.
+                                            Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle
+                                            der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+                                        </p>
+
+
+                                        <br>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>Haftungshinweis
+                                    </h3>
+                                </div>
+                                <div>
+                                    <h4>Google Analytics
+                                        <br>
+                                    </h4>
+                                    <p>
+                                        Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (Google). Google Analytics verwendet sog.
+                                        Cookies, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse
+                                        der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+                                        über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen
+                                        Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen
+                                        benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten
+                                        für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung
+                                        und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google
+                                        diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben
+                                        oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in
+                                        keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie
+                                        können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser
+                                        Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls
+                                        nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Durch die
+                                        Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen
+                                        Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten
+                                        Zweck einverstanden.
+                                    </p>
+                                    <br>
+                                    <p>
+                                        <h4>Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button)
+                                            <br>
+                                        </h4>
+                                        Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA integriert.
+                                        Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem “Like-Button” (“Gefällt
+                                        mir”) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier:
+                                        http://developers.facebook.com/docs/plugins/. Wenn Sie unsere Seiten besuchen, wird
+                                        über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server
+                                        hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse
+                                        unsere Seite besucht haben. Wenn Sie den Facebook “Like-Button” anklicken während
+                                        Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten
+                                        auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten
+                                        Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten
+                                        keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook
+                                        erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von
+                                        facebook unter http://de-de.facebook.com/policy.php
+                                        <br> Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto
+                                        zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.
+                                    </p>
+                                    <br>
+                                    <p>
+                                        <h4>Datenschutzerklärung für die Nutzung von Google +1
+                                            <br>
+                                        </h4>
+                                        Erfassung und Weitergabe von Informationen: Mithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen.
+                                        über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte
+                                        von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie
+                                        für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie
+                                        beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem
+                                        Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in
+                                        Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet
+                                        eingeblendet werden. Google zeichnet Informationen über Ihre +1-Aktivitäten auf,
+                                        um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche
+                                        verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil,
+                                        das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird
+                                        in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen
+                                        anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet
+                                        haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre
+                                        E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.
+                                        <br> Verwendung der erfassten Informationen: Neben den oben erläuterten Verwendungszwecken
+                                        werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutz-bestimmungen
+                                        genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die
+                                        +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa
+                                        Publisher, Inserenten oder verbundene Websites.
+                                    </p>
+                                    <br>
+                                    <p>
+                                        <h4>Datenschutzerklärung für die Nutzung von Twitter
+                                            <br>
+                                        </h4>
+                                        Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter
+                                        Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Durch das Benutzen
+                                        von Twitter und der Funktion “Re-Tweet” werden die von Ihnen besuchten Webseiten
+                                        mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden
+                                        auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der
+                                        Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch
+                                        Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung
+                                        von Twitter unter http://twitter.com/privacy. Ihre Datenschutzeinstellungen bei Twitter
+                                        können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.
+                                        <br>
+                                        <br> Quellverweis:
+                                        <br>Disclaimer eRecht24, eRecht24 Datenschutzerklärung für Facebook, Datenschutzerklärung
+                                        für Google Analytics,Datenschutzerklärung für Google Adsense, Datenschutzerklärung
+                                        Google +1, Twitter Bedingungen
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
