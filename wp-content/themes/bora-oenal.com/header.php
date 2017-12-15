@@ -35,12 +35,14 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/images/favicon/favicon.ico">
 
-    <!--    CSS -->
+    <!--    CSS --> 
+    
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/normalize.css" type="text/css">
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/transition-animations.css" type="text/css">
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/owl.carousel.css" type="text/css">
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="<?php bloginfo('template_url');?>/css/meine-arbeiten.css" type="text/css">
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/style.css" type="text/css">
 
     <!-- JS -->
@@ -88,12 +90,12 @@
                                 <a class="pt-trigger" href="#home">Startseite</a>
                                 <!-- href value = data-id without # of .pt-page. -->
                             </li>
-                            <li>
-                                <a class="pt-trigger" href="#cv">Lebenslauf</a>
-                            </li>
-                            <li>
+							<li>
                                 <a class="pt-trigger" href="#leistungen">Leistungen</a>
                             </li>
+                            <li>
+                                <a class="pt-trigger" href="#cv">Historie</a>
+                            </li>                    
                             <li>
                                 <a class="pt-trigger" href="#portfolio">Portfolio</a>
                             </li>
@@ -103,11 +105,6 @@
                             <li>
                                 <a class="pt-trigger" href="#kontakt">Kontakt</a>
                             </li>
-                            <li>
-                                <a class="pt-trigger" href="#extra" data-animation="62">Extra</a>
-                            </li>
-                            
-                        
                         </ul>
                         <!-- /Main menu -->
                        

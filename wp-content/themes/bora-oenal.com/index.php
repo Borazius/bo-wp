@@ -17,7 +17,6 @@
                                 </div>
                             </div>
                             <div class="col-sm-8 col-md-8 col-lg-8">
-
                                 <div class="title-block">
                                     <h2 class="h2-upline">Professionelle Webseite für
                                         <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen", " Ihr Business", " Ihr Produkt", " Ihre Veranstaltung", " Ihre Praxis", " Ihr Hotel", " Ihr Restaurant", " Ihr Verein", " und, und ,und..." ]'></span>
@@ -69,8 +68,8 @@
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>Zwischenüberschrift</br>
-                                        <span>Lorem</span>
+                                    <h3>WordPress Freelancer</br>
+                                        <span>individuell, nachhaltig und professionell</span>
                                     </h3>
                                 </div>
                                 <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
@@ -86,11 +85,504 @@
                                     </br>
                                 </p>
                             </div>
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block-title">
+                                    <h3>Webdesign zu fairen Preisen für die Region</br>
+                                        <span>Karlsruhe / Pforzheim & Stuttgart</span>
+                                    </h3>
+                                </div>
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive2.png"
+                                    alt="blog-post-1">
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block-title">
+                                    <h3>Meine</br>
+                                        <span>Arbeiten</span>
+                                    </h3>
+                                </div>
+                                <!-- Meine Arbeiten -->
+                                <section id="projects" class="c-section   o-section">
+                                    <div class="c-section__wrap   o-section__wrap">
+                                        <div class="o-section__content">
+                                            <div class="c-project-list   o-grid   u-text--center" data-accordion="" data-accordion-show-multiple="false">
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-drk" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-drk.jpg" alt="Screenshot der Website drk.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-drk.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Deutsches Rotes Kreuz</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-drk" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen Prototypen zur späteren Integration
+                                                                im CMS TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Inuit CSS, Foundation,
+                                                                RWD, Responsive Webdesign, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-bundspenden" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bundspenden.jpg" alt="Screenshot der Website spenden.bund.net" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bundspenden.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">BUND: Spendenformulare</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-bundspenden" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen Prototypen und spätere Integration
+                                                                im CMS TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Pattern Lab,
+                                                                TYPO3-Integration, RWD, Responsive Webdesign, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-bmbf" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmbf.jpg" alt="Screenshot der Website des BMBF" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmbf.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">BMBF</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-bmbf" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen HTML-Prototypen für den Web-Relaunch
+                                                                des Bundesministeriums für Bildung und Forschung</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Prototyping, HTML, RWD, Responsive Webdesign,
+                                                                Sass, FE-Architektur, BITV, Accessibility, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-bmub" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmub.jpg" alt="Screenshot der Website des BMUB" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmub.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">BMUB: Weihnachtsanimation</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-bmub" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung einer interaktiven Weihnachtsszene als Spezialbühne
+                                                                für die Website des Bundesumweltministeriums</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> SVG, Animation, Javascript, Snap.svg, CSS,
+                                                                RWD
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-paradieschen" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-paradieschen.jpg" alt="Screenshot der Website paradieschen.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-paradieschen.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Paradieschen</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-paradieschen" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen HTML-Prototypen zur späteren Integration
+                                                                in TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Frontend-Entwicklung, Prototyping, HTML,
+                                                                Responsive Webdesign, Pattern Lab, Sass, CSS, Gulp, SVG,
+                                                                Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> marketingworkx
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-hsmannheim" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsmannheim.jpg" alt="Screenshot der Website hs-mannheim.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsmannheim.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Hochschule Mannheim</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-hsmannheim" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen Prototypen und Unterstützung bei
+                                                                der Integration in TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> FE-Architektur, CSS, ITCSS, RWD, Pattern
+                                                                Lab, TYPO3, Seamless Relaunch, Responsive Webdesign, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-soziopolis" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-soziopolis.jpg" alt="Screenshot der Website soziopolis.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-soziopolis.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Soziopolis</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-soziopolis" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Integration eines fertigen statischen Prototypen ins CMS TYPO3.</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> TYPO3-Integration, technisches Konzept TYPO3,
+                                                                Frontend-Anpassungen
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-pitbau" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-pitbau.jpg" alt="Screenshot der Website pitbau.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-pitbau.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Ingenieurbüro Pitbau</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-pitbau" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen Prototypen und anschließende Integration
+                                                                in TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> FE-Architektur, CSS, ITCSS, RWD, TYPO3,
+                                                                Responsive Webdesign, Multidomain, laufender Support, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> Ingenieurbüro Pitbau
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-umweltnrw" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw.jpg" alt="Screenshot der Website umwelt.nrw.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Umwelt.NRW: Presseportal</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-umweltnrw" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines statischen Prototypen und spätere Integration
+                                                                im CMS TYPO3</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Pattern Lab,
+                                                                TYPO3-Integration, RWD, Responsive Webdesign, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-zew" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-zew.jpg" alt="Screenshot der Website zew.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-zew.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">ZEW: Interaktive Infografik</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-zew" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines interaktiven Bühnenelements für den Webauftritt
+                                                                des Zentrums für Europäische Wirtschaftsforschung
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Prototyping, HTML, CSS, Sass, Animation,
+                                                                SVG, RWD, Responsive Webdesign, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-adh" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-adh.jpg" alt="Screenshot der Website adh.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-adh.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">ADH</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-adh" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Komplette technische Umsetzung des Web-Relaunchs des Allgemeinen
+                                                                Deutschen Hochschulsportverbands im Jahre 2009</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Frontend, TYPO3, HTML, CSS, Javascript,
+                                                                Extension-Integration, technisches Konzept
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> mobile-ad-media GmbH
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-healthweek" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-healthweek.jpg" alt="Screenshot der Website health-week.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-healthweek.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Health Week</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-healthweek" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Unterstützung bei der TYPO3-Integration</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> TYPO3, Extension-Integration, Kalender,
+                                                                Frontend-Anpassungen
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-cebitaward" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-cebitaward.jpg" alt="Screenshot der Website cebitaward.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-cebitaward.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">CeBIT Award</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-cebitaward" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Frontend-Entwicklung und TYPO3-Integration zur Erstellung des
+                                                                Webauftritts zum CeBIT Award</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Frontend, HTML, CSS, Sass, TYPO3, Extension-Integration,
+                                                                Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-umweltnrw-newsletter" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw-newsletter.jpg" alt="Screenshot des Umwelt.NRW-Newsletters" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw-newsletter.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Umwelt.NRW: Newsletter</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-umweltnrw-newsletter" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Erstellung eines HTML-Newsletters für das Umweltministerium Nordrhein-Westfalen</p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> Prototyping, HTML, Newsletter, CSS, Sass,
+                                                                RWD
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-hsbremerhaven" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsbremerhaven.jpg" alt="Screenshot der Website hs-bremerhaven.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsbremerhaven.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Hochschule Bremerhaven</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-hsbremerhaven" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Unterstützung bei der technischen Umsetzung (Frontend-Entwicklung,
+                                                                TYPO3-Integration) des Web-Relaunches
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> TYPO3, Extension-Integration, Benutzer &amp;
+                                                                Rechte, Frontend, RWD, Sass, Javascript
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#project-t3cb" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-t3cb.jpg" alt="Screenshot der Website typo3camp-berlin.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-t3cb.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">TYPO3camp Berlin</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div id="project-t3cb" class="c-project__content" data-accordion-content="" style="display: none;">
+                                                            <p>Technische Umsetzung (Frontend, TYPO3-Integration, Support) des
+                                                                Webauftritts des TYPO3camp Berlins
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Themen:</strong> HTML-Prototyping, Sass, Javascript, CSS,
+                                                                TYPO3, Redaktion, Administration
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Im Auftrag von:</strong> TYPO3camp Berlin
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                            </div>
+                                            <!-- /portfolio-items -->
+                                        </div>
+                                    </div>
+
+                                </section>
+                                <!-- END Meine Arbeiten -->
+                            </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="about-me">
                                     <div class="block-title">
-                                        <h3>Über
-                                            <span>Mich</span>
+                                        <h3>Mein
+                                            <span>Service</span>
                                         </h3>
                                     </div>
                                     <p>Hallo, mein Name ist
@@ -103,19 +595,12 @@
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
                                         <br>
-                                        <br> Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
-                                        Pforzheim fokusierte ich mich auf die Themen Internet und E-Commerce. Nach meinem
-                                        Studium war ich in diversen Agenturen und IT-Beratungshäuser tätig. Schwerpunkt meiner
-                                        Tätigkeiten lagen in den Bereichen Beratung, Entwicklung und Qualitätssicherung.
-                                        Durch regelmäßige Weiterbildung verfolge ich das Ziel, meinen Kunden weiterhin innovative
-                                        und qualitative Lösungen zu bieten.
+                                        <br> Seit über 10 Jahren greifen Agenturen und mittelständische Unternehmen auf mich
+                                        als Freelancer zurück und profitieren dabei von meiner Expertise in den Bereichen
+                                        Frontend-Entwicklung und WordPress.
                                         <br>
                                         <br>
                                     </p>
-                                </div>
-                                <div class="download-resume">
-                                    <a href="" class="btn btn-secondary">Download Resume</a>
-
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
@@ -166,9 +651,16 @@
                                     </ul>
                                 </div>
                             </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="download-resume">
+                                    <a href="" class="btn btn-secondary">Download Resume</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
             </section>
             <!-- End of Home Subpage -->
 
@@ -176,9 +668,142 @@
             <section class="pt-page" data-id="cv">
                 <div class="section-inner custom-page-content">
                     <div class="page-header color-1">
-                        <h2>Lebenslauf</h2>
+                        <h2>Historie</h2>
                     </div>
                     <div class="page-content">
+                        <div class="row">
+                            <!-- <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block">
+                                    <div class="block-title">
+                                        <h3>Coding
+                                            <span>Skills</span>
+                                        </h3>
+                                    </div>
+                                    <div class="skills-info">
+                                        <h4>Konzeption</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>Web-Design (Responsive)</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>WordPress</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>Bootstrap</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>HTML5</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>CSS3/LESS/SASS</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>JavaScript</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>jQuery</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>PHP</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                        <h4>SQL</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-0"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="about-me">
+                                    <div class="block-title">
+                                        <h3>Über
+                                            <span>Mich</span>
+                                        </h3>
+                                    </div>
+
+                                    <p>Hallo, mein Name ist
+                                        <span class="highline">Bora Önal </span>und ich bin
+                                        <span class="highline"> freier Web-Berater </span>. und
+                                        <span class="highline">Web-Entwickler aus Pforzheim. </span>. Seit über 10 Jahren helfe ich Unternehmen
+                                        Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
+                                        und qualitativ besser zu gestalten.
+
+                                        <br>
+                                        <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
+                                        <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
+                                        <br>
+                                        <br> Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
+                                        Pforzheim fokusierte ich mich auf die Themen Internet und E-Commerce. Nach meinem
+                                        Studium war ich in diversen Agenturen und IT-Beratungshäuser tätig. Schwerpunkt meiner
+                                        Tätigkeiten lagen in den Bereichen Beratung, Entwicklung und Qualitätssicherung.
+                                        Durch regelmäßige Weiterbildung verfolge ich das Ziel, meinen Kunden weiterhin innovative
+                                        und qualitative Lösungen zu bieten.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block">
+                                    <div class="about-me">
+                                        <div class="block-title">
+                                            <h3>Kurz
+                                                <span>&</span> Bündig
+                                            </h3>
+                                        </div>
+                                        <ul class="info-list">
+                                            <p>
+                                                <span class="numbers">228 </span> Erfolgreiche Projekte</p>
+                                            <p>
+                                                <span class="numbers">86 </span> Glückliche Kunden</p>
+                                            <p>
+                                                <span class="numbers">10+ </span> Jahre Erfahrung</p>
+                                            </br>
+                                            </br>
+                                            <li>
+                                                <i class="fa fa-user"></i>
+                                                <strong>Tätig als</strong> : </br>Selbstständiger Web-Berater, Web-Designer und Web-Entwickler</li>
+                                            <li>
+                                                <i class="fa fa-search"></i>
+                                                <strong>Schwerpunkte</strong> : </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
+                                                Wordpress
+                                                </br>
+                                                </br>
+                                                <li>
+                                                    <i class="fa fa-home title"></i>
+                                                    <span class="value">Webdesign & Webprogrammierung Pforzheim</span>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-phone title"></i>
+                                                    <span class="value">0176 64 34 34 12</span>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-map-marker title"></i>
+                                                    <span class="value">Karlsruhe, Pforzheim, Stuttgart</span>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-envelope-o title"></i>
+                                                    <a href "mailto:info@boraoenal.com">info@boraoenal.com</a>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-globe title"></i>
+                                                    <span class="value">www.BoraOenal.com</span>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
@@ -213,7 +838,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
                                     <div class="block-title">
@@ -229,7 +853,6 @@
                                                 Business Transformation. Frontend-Development in agilen Projekten</p>
                                         </div>
                                         <!-- / Experience 1 -->
-
                                         <!-- Experience 2 -->
                                         <div class="timeline-item">
                                             <h4 class="item-title">Web Designer</h4>
@@ -239,7 +862,6 @@
                                             </p>
                                         </div>
                                         <!-- / Experience 2 -->
-
                                         <!-- Experience 3 -->
                                         <div class="timeline-item">
                                             <h4 class="item-title">Graphic Designer</h4>
@@ -252,68 +874,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="block-title">
-                                        <h3>Design
-                                            <span>Skills</span>
-                                        </h3>
-                                    </div>
-
-                                    <div class="skills-info">
-                                        <h4>Konzeption</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-1"></div>
-                                        </div>
-
-                                        <h4>Graphic Design</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-2"></div>
-                                        </div>
-
-                                        <h4>Print Design</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-3"></div>
-                                        </div>
-                                    </div>
-
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block-title">
+                                    <h3>WordPress Freelancer</br>
+                                        <span>individuell, nachhaltig und professionell</span>
+                                    </h3>
+                                    <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/ich-erstelle-webseiten-pforzheim-sw.jpg"
+                                        alt="blog-post-1">
                                 </div>
                             </div>
-
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="block-title">
-                                        <h3>Coding
-                                            <span>Skills</span>
-                                        </h3>
-                                    </div>
-
-                                    <div class="skills-info">
-                                        <h4>HTML5</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-4"></div>
-                                        </div>
-
-                                        <h4>CSS3/LESS/SASS</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-5"></div>
-                                        </div>
-
-                                        <h4>jQuery</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-6"></div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Download Resume Button -->
-                        <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block">
                                     <div class="center download-resume">
@@ -322,8 +891,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- End of Download Resume Button -->
-
                     </div>
                 </div>
             </section>
@@ -345,7 +912,6 @@
                                     </h3>
                                 </div>
                             </div>
-
                             <div class="col-sm-6 col-md-3">
                                 <div class="service-block">
                                     <div class="service-info">
@@ -353,7 +919,6 @@
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/concept3.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
                                             <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
-
                                         </div>
                                         <h4>Konzeption</h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
@@ -361,13 +926,11 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-sm-6 col-md-3">
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/web_design_icon.png" alt="Webdesigner Pforzheim" class="mCS_img_loaded">
-
                                             <!--      <i class="fa fa-pencil large-icons"></i>   -->
                                         </div>
                                         <h4>Webdesign</h4>
@@ -376,7 +939,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-sm-6 col-md-3">
                                 <div class="service-block">
                                     <div class="service-info">
@@ -390,7 +952,6 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-sm-6 col-md-3">
                                 <div class="service-block">
                                     <div class="service-info">
@@ -429,20 +990,15 @@
                                 </ul>
                                 <br>
                             </div>
-
                             <div class="col-md-6 centPic">
                                 <div class="leistungen-img">
                                     <!--   <img class="img-responsive" src="images/webleistungen-pforzheim.png" alt="Web-Design und Homepage-Erstellung Raum Pforzheim Enzkreis">
                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/webleistungen-pforzheim.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded"> -->
-
-
                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/webdesigner-pforzheim-bora.png" alt="Online Marketing Pforzheim"
                                         class="mCS_img_loaded">
                                 </div>
-
                             </div>
                         </div>
-
 
                         <div class="row">
                             <div class="col-md-12" style="overflow:hidden">
@@ -464,9 +1020,6 @@
                                     <br>
                                 </p>
                             </div>
-
-
-
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
                                 padding-right: 10px;font-weight:bold;}">2</span>
@@ -484,10 +1037,6 @@
                                     <br>
                                 </p>
                             </div>
-
-
-
-
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
                                 padding-right: 10px; font-weight:bold;}">3</span>
@@ -501,12 +1050,6 @@
                                     <br>
                                 </p>
                             </div>
-
-
-
-
-
-
                             <div class="col-md-3" style="position:relative; top:10px;">
                                 <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
                                 padding-right: 10px; font-weight:bold;}">4</span>
@@ -520,7 +1063,6 @@
                                     <br>
                                 </p>
                             </div>
-
                         </div>
                         <!-- End Row -->
 
@@ -530,7 +1072,6 @@
                                 <div class="block-title">
                                     <h3>Kunden</h3>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -538,7 +1079,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -546,7 +1086,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -554,7 +1093,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -562,7 +1100,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -570,7 +1107,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
@@ -583,15 +1119,12 @@
                         </div>
                         <!-- Ende Kunden -->
 
-
-
                         <!-- Preise-->
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
                                 <div class="block-title">
                                     <h3>Preise</h3>
                                 </div>
-
                                 <div class="lm-pricing row clearfix">
                                     <div class="lm-package-wrap col-md-4 default-col">
                                         <div class="lm-package">
@@ -602,7 +1135,6 @@
                                                 <span>$64</span>
                                                 <small>per month</small>
                                             </div>
-
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
@@ -619,7 +1151,6 @@
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="lm-package-wrap col-md-4 highlight-col ">
                                         <div class="lm-package">
                                             <div class="lm-heading-row">
@@ -629,7 +1160,6 @@
                                                 <span>$128</span>
                                                 <small>per month</small>
                                             </div>
-
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
@@ -655,16 +1185,13 @@
                                             <div class="lm-heading-row">
                                                 <span>Plan 3</span>
                                             </div>
-
                                             <div class="lm-pricing-row">
                                                 <span>$256</span>
                                                 <small>per month</small>
                                             </div>
-
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
-
                                             <div class="lm-default-row">
                                                 Lorem ipsum dolor
                                             </div>
@@ -690,7 +1217,6 @@
                 </div>
             </section>
             <!-- End of Services Subpage -->
-
             <!-- Portfolio Subpage -->
             <section class="pt-page" data-id="portfolio">
                 <div class="section-inner custom-page-content">
@@ -699,9 +1225,6 @@
                     </div>
                     <div class="page-content">
                         <!-- Portfolio Content -->
-
-
-
 
                         <!-- Testimonials -->
                         <div class="row">
@@ -794,9 +1317,6 @@
                             </div>
                         </div>
                         <!-- End of Tesimonials -->
-
-
-
 
                         <div class="portfolio-content">
                             <!-- Portfolio filter -->
@@ -1366,23 +1886,6 @@
             </section>
             <!-- End Contact Subpage -->
 
-            <!-- Extra Subpage -->
-            <section class="pt-page" data-id="extra">
-                <div class="section-inner custom-page-content">
-                    <div class="page-header color-1">
-                        <h2>Extra</h2>
-                    </div>
-                    <div class="page-content">
-
-                        <div class="row">
-                            Our columns with content.
-                        </div>
-
-                    </div>
-                </div>
-            </section>
-            <!-- End Extra Subpage -->
-
             <!-- Impressum Subpage -->
             <section class="pt-page" data-id="impressum">
                 <div class="section-inner custom-page-content">
@@ -1509,8 +2012,6 @@
                                             Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle
                                             der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
                                         </p>
-
-
                                         <br>
                                     </div>
                                 </div>
@@ -1617,12 +2118,11 @@
                 </div>
             </section>
             <!-- End Extra Subpage -->
+            </div>
         </div>
+        <!-- /Page changer wrapper -->
     </div>
-    <!-- /Page changer wrapper -->
+    <!-- /Main Content -->
 </div>
-<!-- /Main Content -->
-</div>
-
 
 <?php get_footer() ?>
