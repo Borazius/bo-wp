@@ -94,7 +94,7 @@
                                 <a class="pt-trigger" href="#leistungen">Leistungen</a>
                             </li>
                             <li>
-                                <a class="pt-trigger" href="#cv">Historie</a>
+                                <a class="pt-trigger" href="#cv">Über Mich</a>
                             </li>                    
                             <li>
                                 <a class="pt-trigger" href="#portfolio">Portfolio</a>

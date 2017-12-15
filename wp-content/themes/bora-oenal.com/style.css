@@ -2510,7 +2510,7 @@ blockquote .small {
         /* max-width: 320px; */
         height: calc(50%);
         right: 0;
-        top: 63px;
+        top: 49px;
         z-index: 1001;
         overflow: auto;
         background-color: #2196F3;

@@ -668,7 +668,7 @@
             <section class="pt-page" data-id="cv">
                 <div class="section-inner custom-page-content">
                     <div class="page-header color-1">
-                        <h2>Historie</h2>
+                        <h2>Über Mich</h2>
                     </div>
                     <div class="page-content">
                         <div class="row">
