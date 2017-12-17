@@ -107,7 +107,7 @@
                                             <div class="c-project-list   o-grid   u-text--center" data-accordion="" data-accordion-show-multiple="false">
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-drk" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg" alt="ubeybi Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg">
@@ -135,7 +135,7 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-bundspenden" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
@@ -163,7 +163,7 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-bmub" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
@@ -189,7 +189,7 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-paradieschen" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
@@ -214,7 +214,7 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-hsmannheim" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
@@ -240,27 +240,27 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-soziopolis" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Screenshot der Website soziopolis.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Soziopolis</h3>
+                                                                <h3 class="c-project__title">mobile lounge</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                            <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und WordPress-Integration</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Programmierung, Performance-Service
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über mobile lounge:</strong> Der Fachmarkt für Telekommunikation und Mobilfunk mit Top-Service
+															</br><span class="span-my-works"><a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -268,55 +268,55 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-pitbau" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Screenshot der Website pitbau.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Ingenieurbüro Pitbau</h3>
+                                                                <h3 class="c-project__title">Güven Al GmbH</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                           <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und Online-Strategie</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Dauer-Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über Güven Al GmbH:</strong> Die Güven Al Lebensmittel & Fleisch Großhandel GmbH beliefert viele Kunden innerhalb von Hessen, BaWü & Nordrhein-Westfalen.
+															</br><span class="span-my-works"><a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
-                                                </div>
+                                                </div>                                             
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-umweltnrw" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Screenshot der Website umwelt.nrw.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Umwelt.NRW: Presseportal</h3>
+                                                                <h3 class="c-project__title">Mythos Istanbul</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                           <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über Mythos Istanbul:</strong> Das historische Restaurant in Istanbul im ehemaligem Haydarpasa-Bahnhof
+															</br><span class="span-my-works"><a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -324,55 +324,51 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-zew" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Screenshot der Website zew.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">ZEW: Interaktive Infografik</h3>
+                                                                <h3 class="c-project__title">Hacamat Tedavi Pforzheim</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                          <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und Optimierungen bestehender Komponenten.</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                </br>
+                                                                </br>
+                                                                <span class="span-my-works"><a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
                                                 </div>
+                                                
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-adh" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Screenshot der Website adh.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">ADH</h3>
+                                                                <h3 class="c-project__title">Happy People Project</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
-
-                                                            <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
+                                                        </br>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong> Beratung & Konzeption und Support
+                                                        </p>
+															</br><span class="span-my-works"><a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -380,27 +376,27 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-healthweek" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Screenshot der Website health-week.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Health Week</h3>
+                                                                <h3 class="c-project__title">Felicithy</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                           <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung mit Bootstrap</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über felicithy:</strong> Blog von felicithy zu den Themen Fashion, Food und Lifestyle
+															</br><span class="span-my-works"><a href="http://felicithy.de/" target="_blank">www.felicithy.de</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -408,27 +404,27 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-cebitaward" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Screenshot der Website cebitaward.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">CeBIT Award</h3>
+                                                                <h3 class="c-project__title">D&T Pizza</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                         <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                         <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung, Konzeption und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über D&T Pizza:</strong> Der schnelle Lieferdienst mit der besten Pizza aus Pforzheim
+															</br><span class="span-my-works"><a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -436,55 +432,57 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-umweltnrw-newsletter" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Screenshot des Umwelt.NRW-Newsletters" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Umwelt.NRW: Newsletter</h3>
+                                                                <h3 class="c-project__title">BA-Carcenter</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                          <p>Konzeption und Programmierung der Website auf Basis von Wordpress. Ziel war die Programierung und Anbindung zur mobile.de-Shop. </p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung und Wartung
+                                                                
+                                                            </p>
+                                                            <p>
+                                                                <strong>Über BA-Carcenter:</strong> Der Spezialist für Gebrauchtwagen in Pforzheim
+															</br><span class="span-my-works"><a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a></span>
                                                             </p>
 
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
-                                                            </p>
+                                                           
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-hsbremerhaven" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Screenshot der Website hs-bremerhaven.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Hochschule Bremerhaven</h3>
+                                                                <h3 class="c-project__title">Artistik World</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                          <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops von Artsitik World.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über Artistk World:</strong> Urban und Hip Hop Artworks diverser Textiledesigners, Tattoo- and Airbrushartists.
+															</br><span class="span-my-works"><a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -492,28 +490,25 @@
                                                 </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-t3cb" class="c-project__teaser" data-accordion-handle="">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Screenshot der Website typo3camp-berlin.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">TYPO3camp Berlin</h3>
+                                                                <h3 class="c-project__title">ÜBER 200 WEITERE PROJEKTE</h3>
                                                             </div>
                                                         </a>
 
                                                         <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                          <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten gearbeitet. Über Agenturen arbeite ich auch für namhafte und börsennotierte Unternehmen,
+                                                          die ich an dieser Stelle leider nicht nennen darf.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Web-Beratung, Web-Konzeption, Web-Entwicklung & Web-Services
                                                             </p>
 
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
-                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
