@@ -1,0 +1,60 @@
+/* Page header */
+
+.page-header {
+    margin-top: 0;
+}
+
+/* /Page Header */
+
+.page-content {
+    padding: 30px 50px 50px;
+}
+
+/* custom-pages */
+
+.block-title h3 {
+    font-size: 21px;
+    margin: 5px 0 25px;
+}
+
+.block-title h3 span {
+    color: #2196F3;
+}
+
+.custom-page-content .block {
+    margin-bottom: 30px;
+}
+
+.custom-page-content .page-header {
+    background-color: #fff;
+    border: 0;
+    text-align: center;
+    padding: 30px 50px;
+    margin: 0;
+}
+
+.custom-page-content .page-header h2 {
+    font-size: 44px;
+    margin: 0;
+}
+
+.custom-page-content .page-header.color-1 {
+    background-color: #2196F3;
+    background-image: url(./images/sp_main_bg.png);
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.custom-page-content .page-header.color-1 h2,
+.custom-page-content .page-header.color-2 h2,
+.custom-page-content .page-header.color-3 h2,
+.custom-page-content .page-header.color-4 h2 {
+    color: #fff;
+}
+
+.custom-page-content .page-content {
+    background-color: #fff;
+}

@@ -109,26 +109,25 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-drk" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-drk.jpg" alt="Screenshot der Website drk.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-drk.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg" alt="ubeybi Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Deutsches Rotes Kreuz</h3>
+                                                                <h3 class="c-project__title">ubeybi.com</h3>
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-drk" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen Prototypen zur späteren Integration
-                                                                im CMS TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Inuit CSS, Foundation,
-                                                                RWD, Responsive Webdesign, Javascript
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -138,55 +137,25 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-bundspenden" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bundspenden.jpg" alt="Screenshot der Website spenden.bund.net" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bundspenden.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">BUND: Spendenformulare</h3>
+                                                                <h3 class="c-project__title">Southside Rockers</h3>
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-bundspenden" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen Prototypen und spätere Integration
-                                                                im CMS TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für die legendären Southside Rockers</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Pattern Lab,
-                                                                TYPO3-Integration, RWD, Responsive Webdesign, Javascript
+                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung, Contenterstellung und Wartung
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#project-bmbf" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmbf.jpg" alt="Screenshot der Website des BMBF" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmbf.jpg">
-                                                            </figure>
-
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">BMBF</h3>
-                                                            </div>
-                                                        </a>
-
-                                                        <div id="project-bmbf" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen HTML-Prototypen für den Web-Relaunch
-                                                                des Bundesministeriums für Bildung und Forschung</p>
-
-                                                            <p>
-                                                                <strong>Themen:</strong> Prototyping, HTML, RWD, Responsive Webdesign,
-                                                                Sass, FE-Architektur, BITV, Accessibility, Javascript
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> Mit ihren Shows begeisterten die B-Boys der Southside Rockers weltweit das Publikum.
+															</br><span class="span-my-works"><a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -196,27 +165,24 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-bmub" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmub.jpg" alt="Screenshot der Website des BMUB" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-bmub.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">BMUB: Weihnachtsanimation</h3>
+                                                                <h3 class="c-project__title">Naturheilpraxis Pforzheim</h3>
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-bmub" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung einer interaktiven Weihnachtsszene als Spezialbühne
-                                                                für die Website des Bundesumweltministeriums</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory: Bereits nach wenigen Wochen konnte Herr Temizer mit dem Relaunch die Reichweite und Anzahl der Patienten erhöhen.</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> SVG, Animation, Javascript, Snap.svg, CSS,
-                                                                RWD
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+																</br><span class="span-my-works"><a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a></span>
                                                             </p>
 
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
-                                                            </p>
+                                                            
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -225,28 +191,23 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-paradieschen" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-paradieschen.jpg" alt="Screenshot der Website paradieschen.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-paradieschen.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Paradieschen</h3>
+                                                                <h3 class="c-project__title">Hypnosetherapie Temizer</h3>
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-paradieschen" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen HTML-Prototypen zur späteren Integration
-                                                                in TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer konnte mit dem Web-Auftritt neue Kunden von seinem Service überzeugen.</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> Frontend-Entwicklung, Prototyping, HTML,
-                                                                Responsive Webdesign, Pattern Lab, Sass, CSS, Gulp, SVG,
-                                                                Javascript
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+																</br><span class="span-my-works"><a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a></span>
                                                             </p>
 
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> marketingworkx
-                                                            </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -255,27 +216,24 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-hsmannheim" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsmannheim.jpg" alt="Screenshot der Website hs-mannheim.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsmannheim.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
-                                                                <h3 class="c-project__title">Hochschule Mannheim</h3>
+                                                                <h3 class="c-project__title">Merk Personalservice</h3>
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-hsmannheim" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen Prototypen und Unterstützung bei
-                                                                der Integration in TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive Design. Anpassung der Website für alle Endgeräte, von Desktop- bis Smartphone-Ansicht.</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> FE-Architektur, CSS, ITCSS, RWD, Pattern
-                                                                Lab, TYPO3, Seamless Relaunch, Responsive Webdesign, Javascript
+                                                                <strong>Aufgaben:</strong> Konzeption, Webdesign, Programmierung und Support
+																</br><span class="span-my-works"><a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a></span>
                                                             </p>
 
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
-                                                            </p>
+                                                            
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -284,8 +242,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-soziopolis" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-soziopolis.jpg" alt="Screenshot der Website soziopolis.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-soziopolis.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Screenshot der Website soziopolis.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -293,16 +251,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-soziopolis" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Integration eines fertigen statischen Prototypen ins CMS TYPO3.</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> TYPO3-Integration, technisches Konzept TYPO3,
-                                                                Frontend-Anpassungen
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -312,8 +270,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-pitbau" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-pitbau.jpg" alt="Screenshot der Website pitbau.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-pitbau.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Screenshot der Website pitbau.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -321,17 +279,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-pitbau" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen Prototypen und anschließende Integration
-                                                                in TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> FE-Architektur, CSS, ITCSS, RWD, TYPO3,
-                                                                Responsive Webdesign, Multidomain, laufender Support, Javascript
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> Ingenieurbüro Pitbau
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -341,8 +298,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-umweltnrw" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw.jpg" alt="Screenshot der Website umwelt.nrw.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Screenshot der Website umwelt.nrw.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -350,17 +307,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-umweltnrw" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines statischen Prototypen und spätere Integration
-                                                                im CMS TYPO3</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> FE-Architektur, CSS, Sass, Pattern Lab,
-                                                                TYPO3-Integration, RWD, Responsive Webdesign, Javascript
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -370,8 +326,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-zew" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-zew.jpg" alt="Screenshot der Website zew.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-zew.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Screenshot der Website zew.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -379,18 +335,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-zew" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines interaktiven Bühnenelements für den Webauftritt
-                                                                des Zentrums für Europäische Wirtschaftsforschung
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> Prototyping, HTML, CSS, Sass, Animation,
-                                                                SVG, RWD, Responsive Webdesign, Javascript
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -400,8 +354,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-adh" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-adh.jpg" alt="Screenshot der Website adh.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-adh.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Screenshot der Website adh.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -409,17 +363,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-adh" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Komplette technische Umsetzung des Web-Relaunchs des Allgemeinen
-                                                                Deutschen Hochschulsportverbands im Jahre 2009</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> Frontend, TYPO3, HTML, CSS, Javascript,
-                                                                Extension-Integration, technisches Konzept
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> mobile-ad-media GmbH
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -429,8 +382,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-healthweek" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-healthweek.jpg" alt="Screenshot der Website health-week.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-healthweek.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Screenshot der Website health-week.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -438,16 +391,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-healthweek" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Unterstützung bei der TYPO3-Integration</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                           <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> TYPO3, Extension-Integration, Kalender,
-                                                                Frontend-Anpassungen
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -457,8 +410,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-cebitaward" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-cebitaward.jpg" alt="Screenshot der Website cebitaward.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-cebitaward.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Screenshot der Website cebitaward.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -466,17 +419,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-cebitaward" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Frontend-Entwicklung und TYPO3-Integration zur Erstellung des
-                                                                Webauftritts zum CeBIT Award</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                         <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> Frontend, HTML, CSS, Sass, TYPO3, Extension-Integration,
-                                                                Javascript
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -486,8 +438,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-umweltnrw-newsletter" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw-newsletter.jpg" alt="Screenshot des Umwelt.NRW-Newsletters" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-umweltnrw-newsletter.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Screenshot des Umwelt.NRW-Newsletters" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -495,16 +447,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-umweltnrw-newsletter" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Erstellung eines HTML-Newsletters für das Umweltministerium Nordrhein-Westfalen</p>
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> Prototyping, HTML, Newsletter, CSS, Sass,
-                                                                RWD
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Im Auftrag von:</strong> CPS-IT
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -514,8 +466,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-hsbremerhaven" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsbremerhaven.jpg" alt="Screenshot der Website hs-bremerhaven.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-hsbremerhaven.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Screenshot der Website hs-bremerhaven.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -523,18 +475,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-hsbremerhaven" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Unterstützung bei der technischen Umsetzung (Frontend-Entwicklung,
-                                                                TYPO3-Integration) des Web-Relaunches
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> TYPO3, Extension-Integration, Benutzer &amp;
-                                                                Rechte, Frontend, RWD, Sass, Javascript
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> familie redlich :systeme
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -544,8 +494,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#project-t3cb" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-t3cb.jpg" alt="Screenshot der Website typo3camp-berlin.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/website-screen-t3cb.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Screenshot der Website typo3camp-berlin.de" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -553,18 +503,16 @@
                                                             </div>
                                                         </a>
 
-                                                        <div id="project-t3cb" class="c-project__content" data-accordion-content="" style="display: none;">
-                                                            <p>Technische Umsetzung (Frontend, TYPO3-Integration, Support) des
-                                                                Webauftritts des TYPO3camp Berlins
+                                                        <div class="c-project__content" data-accordion-content="" >
+                                                          <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Themen:</strong> HTML-Prototyping, Sass, Javascript, CSS,
-                                                                TYPO3, Redaktion, Administration
-                                                            </p>
-
-                                                            <p>
-                                                                <strong>Im Auftrag von:</strong> TYPO3camp Berlin
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
+															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -992,24 +940,21 @@
                             </div>
                             <div class="col-md-6 centPic">
                                 <div class="leistungen-img">
-                                    <!--   <img class="img-responsive" src="images/webleistungen-pforzheim.png" alt="Web-Design und Homepage-Erstellung Raum Pforzheim Enzkreis">
-                                    <img src="<?php bloginfo('template_url');?>/images/leistungen/webleistungen-pforzheim.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded"> -->
                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/webdesigner-pforzheim-bora.png" alt="Online Marketing Pforzheim"
-                                        class="mCS_img_loaded">
+                                        class="mCS_img_loaded img-leistungen">
                                 </div>
                             </div>
                         </div>
 
                         <div class="row">
-                            <div class="col-md-12" style="overflow:hidden">
+                            <div class="col-md-12">
                                 <div class="title-box">
                                     <h2 class="prozesse">Phasen eines Webprojekts</h2>
                                 </div>
                             </div>
 
-                            <div class="col-md-3" style="position:relative; top:10px;">
-                                <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-                                padding-right: 10px;font-weight:bold;}">1</span>
+                            <div class="col-md-3">
+                                <span class="numbers">1</span>
                                 <h5 class="steps">VORGESPRÄCH</h5>
                                 <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem ausführlichen
                                     Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts. Gemeinsam
@@ -1020,9 +965,8 @@
                                     <br>
                                 </p>
                             </div>
-                            <div class="col-md-3" style="position:relative; top:10px;">
-                                <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-                                padding-right: 10px;font-weight:bold;}">2</span>
+                            <div class="col-md-3">
+                                <span class="numbers">2</span>
                                 <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
                                 <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
                                     vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
@@ -1037,9 +981,8 @@
                                     <br>
                                 </p>
                             </div>
-                            <div class="col-md-3" style="position:relative; top:10px;">
-                                <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-                                padding-right: 10px; font-weight:bold;}">3</span>
+                            <div class="col-md-3">
+                                <span class="numbers">3</span>
                                 <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
                                 <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
                                     Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der nächste
@@ -1050,9 +993,8 @@
                                     <br>
                                 </p>
                             </div>
-                            <div class="col-md-3" style="position:relative; top:10px;">
-                                <span class="numbers" style=" font-size: 50px; color: rgb(52, 152, 219); float: left; margin-right: 10px;
-                                padding-right: 10px; font-weight:bold;}">4</span>
+                            <div class="col-md-3">
+                                <span class="numbers">4</span>
                                 <h5 class="steps">GO-LIVE</h5>
                                 <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
                                     Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
@@ -1065,6 +1007,14 @@
                             </div>
                         </div>
                         <!-- End Row -->
+                         
+                        
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12">
+                                <img src="<?php bloginfo('template_url');?>/images/leistungen/webberatung-webentwicklung-pforzheim.jpg" alt="Webagentur Pforzheim"
+                                    class="mCS_img_loaded">
+                            </div>
+                        </div>
 
                         <!-- Kunden -->
                         <div class="row">

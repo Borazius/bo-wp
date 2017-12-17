@@ -1,0 +1,332 @@
+@media only screen and (max-width: 1320px) {
+    .portfolio-grid figure {
+        width: 33.33333%;
+    }
+}
+
+@media only screen and (max-width: 1032px) {
+    .header .header-content {
+        margin: 0 15px;
+    }
+    .pt-page {
+        margin: 0 15px;
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .mobile-visible {
+        display: block;
+        visibility: visible;
+        top: 0;
+    }
+    .mobile-hidden {
+        /* display: none !important;
+    visibility: hidden !important; */
+    }
+    .border-block-top-110 {
+        display: none;
+    }
+    .header {
+        width: 100%;
+        /* max-width: 320px; */
+        height: calc(50%);
+        right: 0;
+        top: 49px;
+        z-index: 1001;
+        overflow: auto;
+        background-color: #2196F3;
+        -webkit-box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+        -moz-box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
+        -webkit-transition: all 0.44s ease-in-out;
+        -moz-transition: all 0.44s ease-in-out;
+        -o-transition: all 0.44s ease-in-out;
+        -ms-transition: all 0.44s ease-in-out;
+        transition: all 0.44s ease-in-out;
+    }
+    .header * {
+        -webkit-transition: all 0.44s ease-in-out;
+        -moz-transition: all 0.44s ease-in-out;
+        -o-transition: all 0.44s ease-in-out;
+        -ms-transition: all 0.44s ease-in-out;
+        transition: all 0.44s ease-in-out;
+    }
+    .my-photo {
+        margin-top: 31px;
+    }
+    .site-title {
+        font-size: 24px;
+    }
+    .mobile-header {
+        position: fixed;
+        display: inline-block;
+        width: 100%;
+        max-width: 100%;
+        left: 0;
+        right: 0;
+        height: 50px;
+        background-color: #2196F3;
+        -webkit-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
+        -moz-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
+        box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+    }
+    .mobile-logo-container {
+        margin: 0 20px;
+        text-align: left;
+    }
+    .mobile-site-title {
+        display: inline-block;
+        float: left;
+        color: #fff;
+        font-size: 18px;
+        font-weight: 400;
+        font-family: 'Bree Serif', serif;
+        margin: 0;
+        line-height: 50px;
+    }
+    .site-title-block .site-description {
+        display: none;
+    }
+    .subpages {
+        padding-top: 15px;
+    }
+    .single-page-content {
+        padding: 15px;
+    }
+    .page-content,
+    .single-page-content .content-area .page-content {
+        padding: 30px 30px 50px;
+    }
+    .subpage-block {
+        margin-bottom: 40px;
+    }
+    .site-main {
+        position: absolute;
+        top: 50px;
+        bottom: 0;
+        width: 100%;
+        height: auto;
+        margin: 0;
+        border: 0;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+    .section-title-block {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    .section-title-wrapper {
+        display: block;
+        text-align: center;
+    }
+    .section-title {
+        display: inline-block;
+        position: relative;
+        font-size: 38px;
+    }
+    .section-title:after {
+        display: none;
+    }
+    .section-title-block .section-description {
+        position: relative;
+        font-size: 13px;
+        margin-top: -10px;
+    }
+    p.site-description {
+        color: #9e9e9e;
+        text-shadow: none;
+    }
+    .pt-wrapper {
+        padding: 0;
+        margin: 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    .mobile-menu-hide {
+        width: 100%;
+        right: 0;
+        top: -100%;
+        overflow: hidden;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+    .mobile-menu-hide * {
+        visibility: hidden;
+        opacity: 0;
+    }
+    .site-main-menu li {
+        display: block;
+        width: 100%;
+        margin: 0;
+    }
+    .site-main-menu li:first-child {
+        margin-top: 25px;
+    }
+    .site-main-menu li a,
+    .site-main-menu li a:hover {
+        color: #fff;
+        padding: 15px 10px;
+        margin: 0;
+    }
+    .site-main-menu li.active a:after,
+    .site-main-menu li a:hover:after {
+        width: 25px;
+        bottom: 8px;
+        background-color: #fff;
+    }
+    .home-page-block h2 {
+        font-size: 60px;
+    }
+    .home-page-description {
+        font-size: 18px;
+    }
+    .ajax-page-wrapper {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .lm-pricing .lm-package {
+        max-width: 400px;
+        margin: 0 auto 25px;
+    }
+    .lm-pricing .lm-package-wrap:last-child .lm-package:last-child {
+        margin-bottom: 0;
+    }
+    .blog-masonry.three-columns .item {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 769px) {
+    .portfolio-grid figure {
+        width: 50%;
+    }
+    .home-page-block h2 {
+        font-size: 50px;
+    }
+    .home-page-description {
+        font-size: 18px;
+    }
+    .info-list {
+        margin-top: 20px;
+    }
+    .start-page-content .page-header {
+        padding: 50px 30px;
+        margin: 0;
+    }
+    .start-page-content .page-header .photo {
+        max-width: 200px;
+        margin: 0 auto;
+    }
+    .start-page-content .page-header .title-block h1 {
+        margin-top: 25px;
+        font-size: 44px;
+        line-height: 1.2em;
+    }
+    .start-page-content .page-header .title-block .sp-subtitle {
+        margin-top: 15px;
+    }
+    .custom-page-content .page-header {
+        padding: 15px 30px;
+    }
+    .custom-page-content .page-header h2 {
+        font-size: 33px;
+    }
+    .blog-post-content {
+        padding: 0;
+        margin: 30px 0 0;
+    }
+    .blog-masonry.two-columns .item,
+    .blog-masonry.three-columns .item {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .portfolio-grid figure {
+        width: 100%;
+    }
+    .home-page-block h2 {
+        font-size: 40px;
+    }
+    .home-page-description {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+    .site-nav {
+        margin-top: 10px;
+    }
+    .site-main-menu li a,
+    .site-main-menu li a:hover {
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (min-width: 1370px) {
+    .site-main-menu li a,
+    .site-main-menu li a:hover {
+        font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 770px) {
+    .header {
+        height: 33%;
+    }
+    .mobile-visible {
+        display: block;
+        visibility: visible;
+        top: 0;
+    }
+    .navbar-brand {
+        display: none;
+    }
+    .site-nav {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .mobile-hidden {
+        width: 100%;
+        /* display: none; */
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .header {
+        height: 33%;
+    }
+    .navbar-brand {
+        display: none;
+    }
+    .site-nav {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .mobile-hidden {
+        width: 100%;
+        /* display: none; */
+    }
+    .subpages {}
+}
+
+@media only screen and (max-width: 440px) {
+    .header {
+        height: 40%;
+    }
+    .site-nav {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .header {
+        height: 61%;
+    }
+}

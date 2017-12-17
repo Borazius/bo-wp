@@ -1,0 +1,25 @@
+
+.single-page-content {
+    position: relative;
+    width: 100%;
+    margin: 0 auto 50px;
+    padding-top: 100px;
+    z-index: 1;
+}
+
+.single-page-content .content-area {
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    max-width: 1032px;
+    margin: 0 auto;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+}
+
+.single-page-content .content-area .page-content {
+    padding: 50px;
+}
+

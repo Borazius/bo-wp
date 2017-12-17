@@ -1,0 +1,133 @@
+.pt-wrapper {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    z-index: 1;
+}
+
+.subpages {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 80px;
+    overflow: hidden;
+    -webkit-perspective: 1500px;
+    -moz-perspective: 1500px;
+    perspective: 1500px;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.pt-page {
+    width: 100%;
+    max-width: 1032px;
+    height: 0;
+    position: absolute;
+    opacity: 0;
+    top: auto;
+    padding: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    background-color: transparent;
+    overflow: hidden;
+    visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.pt-page .section-inner {
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius: 15px;
+    -webkit-box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 15px 25px 0px rgba(0, 0, 0, 0.1);
+}
+
+.no-js .pt-page {
+    position: relative;
+}
+
+.pt-page-content {
+    position: absolute;
+    width: 100%;
+}
+
+.pt-page-current,
+.no-js .pt-page {
+    visibility: visible;
+    z-index: 90;
+    opacity: 1;
+    overflow: visible;
+    height: auto;
+}
+
+.pt-page.pt-page-current .portfolio-grid {
+    display: block;
+}
+
+.no-js .pt-page * {
+    height: auto;
+}
+
+.no-js body {
+    overflow: auto;
+}
+
+
+/*No Animation Support Message Style*/
+
+.pt-message {
+    display: none;
+    position: absolute;
+    z-index: 99999;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #da475c;
+    color: #fff;
+    text-align: center;
+}
+
+.pt-message p {
+    margin: 0;
+    line-height: 60px;
+    font-size: 26px;
+}
+
+.no-cssanimations .pt-message {
+    display: block;
+}
+
+.section-with-bg {
+    -webkit-backface-visibility: hidden;
+    /* Chrome, Safari, Opera */
+    backface-visibility: hidden;
+    background-attachment: fixed;
+    background-position: 50%;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.section-without-bg {
+    background: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.section-paddings-0 {
+    padding: 0;
+}
+
+
+/* /Page changer */

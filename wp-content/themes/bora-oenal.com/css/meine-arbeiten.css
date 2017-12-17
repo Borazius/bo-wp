@@ -17,7 +17,6 @@
     text-shadow: 0 -1px 0 rgba(0, 0, 0, .3)
 }
 
-
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
 .o-btn:active,
@@ -184,50 +183,6 @@
 @media screen and (min-width:1600px) {
     .o-grid {
         margin-left: -60px
-    }
-}
-
-@media screen and (min-width:421px) {
-    .o-grid\@sm {
-        margin-left: -40px
-    }
-    .o-grid\@sm: after {
-        content: '';
-        display: table;
-        clear: both
-    }
-}
-
-@media screen and (min-width:640px) and (max-width:1023px) {
-    .o-grid\@md {
-        margin-left: -40px
-    }
-    .o-grid\@md: after {
-        content: '';
-        display: table;
-        clear: both
-    }
-}
-
-@media screen and (min-width:1024px) and (max-width:1599px) {
-    .o-grid\@lg {
-        margin-left: -40px
-    }
-    .o-grid\@lg: after {
-        content: '';
-        display: table;
-        clear: both
-    }
-}
-
-@media screen and (min-width:1600px) {
-    .o-grid\@xlg {
-        margin-left: -40px
-    }
-    .o-grid\@xlg: after {
-        content: '';
-        display: table;
-        clear: both
     }
 }
 
@@ -1061,19 +1016,20 @@ h2.calloutHeader {
 .c-project__teaser.is-active,
 .c-project__teaser:focus,
 .c-project__teaser:hover {
-    color: inherit
+    color: inherit;
+	border: 1px solid #0080b9;
+    border-top: 2px solid #0080b9;
 }
 
 @media screen and (min-width:421px) {
     .c-project__teaser {
-        border: 1px solid transparent
+        border: 1px solid transparent;
+		border-top: 2px solid #0000;
     }
     .c-project__teaser.is-active,
-    .c-project__teaser:focus,
-    .c-project__teaser:hover {
+    .c-project__teaser:hover .c-project__header h3,
+    .c-project__teaser:focus .c-project__header h3 {
         color: inherit;
-        border-color: #0080b9;
-        box-shadow: 0 1px 5px rgba(33, 33, 33, .5)
     }
 }
 
@@ -1087,9 +1043,10 @@ h2.calloutHeader {
     transition: background .5s ease
 }
 
-.c-project__teaser.is-active .c-project__header,
-.c-project__teaser:focus .c-project__header,
-.c-project__teaser:hover .c-project__header {
+.c-project__teaser.is-active .c-project__header h3,
+.c-project__teaser:hover .c-project__header h3,
+.c-project__teaser:active .c-project__header h3,
+.c-project__teaser:focus .c-project__header h3 {
     color: #fff;
     background: #0080b9
 }
@@ -1107,7 +1064,7 @@ h2.calloutHeader {
     position: relative;
     margin: 0;
     -webkit-transition: all .5s ease;
-    transition: all .5s ease
+    transition: all .5s ease;
 }
 
 .c-project__media:before {
@@ -1240,6 +1197,18 @@ h2.calloutHeader {
     margin-bottom: 40px
 }
 
+@media screen and (max-width:500px) {
+    .c-project-list>.c-project-list__item {
+		width: 100%;
+}
+}
+
+@media screen and (min-width:500px) {
+    .c-project-list>.c-project-list__item {
+		width: 50%;
+}
+}
+
 @media screen and (min-width:1024px) {
     .c-project-list>.c-project-list__item {
         max-width: 50%
@@ -1308,4 +1277,12 @@ h2.calloutHeader {
 .c-page--sub .c-section__arrow,
 .ie9 .c-section__arrow {
     display: none
+}
+
+h3.c-project__title:hover {
+    color: #fff;
+}
+
+.c-project__header:hover h3 {
+    color: #fff;
 }
