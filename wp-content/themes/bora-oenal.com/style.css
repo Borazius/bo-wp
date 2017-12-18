@@ -301,10 +301,20 @@ div.test-unten {
 }
 
 .numbers {
-	font-size: 50px; 
-	color: rgb(52, 152, 219); 
+	font-size: 2rem;
 	float: left; 
-	margin-right: 10px;
-    padding-right: 10px; 
-	font-weight:bold;
+	width: 60px;
+}
+
+.block-title.phone-number {
+	display:block !important;
+	text-align: center;
+}
+
+.p-numbers {
+	padding-bottom: 10px;
+}
+
+.h3-phone-number {
+	margin: 15px 0 0 0 !important;
 }

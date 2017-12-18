@@ -118,16 +118,22 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress und WooCommerce</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress
+                                                                und WooCommerce</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
+                                                                und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert und bietet Eltern eine Auswahl an Babyartikeln.
-															</br><span class="span-my-works"><a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a></span>
+                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert
+                                                                und bietet Eltern eine Auswahl an Babyartikeln.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -137,8 +143,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -146,16 +152,22 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für die legendären Southside Rockers</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für
+                                                                die legendären Southside Rockers</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung, Contenterstellung und Wartung
+                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung, Contenterstellung
+                                                                und Wartung
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> Mit ihren Shows begeisterten die B-Boys der Southside Rockers weltweit das Publikum.
-															</br><span class="span-my-works"><a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a></span>
+                                                                <strong>Über ubeybi:</strong> Mit ihren Shows begeisterten die B-Boys
+                                                                der Southside Rockers weltweit das Publikum.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -165,8 +177,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -174,15 +186,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory: Bereits nach wenigen Wochen konnte Herr Temizer mit dem Relaunch die Reichweite und Anzahl der Patienten erhöhen.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory: Bereits
+                                                                nach wenigen Wochen konnte Herr Temizer mit dem Relaunch
+                                                                die Reichweite und Anzahl der Patienten erhöhen.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
-																</br><span class="span-my-works"><a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a></span>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
+                                                                und Support
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
+                                                                </span>
                                                             </p>
 
-                                                            
+
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -191,8 +209,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -200,12 +218,19 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer konnte mit dem Web-Auftritt neue Kunden von seinem Service überzeugen.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer
+                                                                konnte mit dem Web-Auftritt neue Kunden von seinem Service
+                                                                überzeugen.
+                                                            </p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
-																</br><span class="span-my-works"><a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a></span>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
+                                                                und Support
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
+                                                                </span>
                                                             </p>
 
                                                         </div>
@@ -216,8 +241,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -225,15 +250,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive Design. Anpassung der Website für alle Endgeräte, von Desktop- bis Smartphone-Ansicht.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive
+                                                                Design. Anpassung der Website für alle Endgeräte, von Desktop-
+                                                                bis Smartphone-Ansicht.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Konzeption, Webdesign, Programmierung und Support
-																</br><span class="span-my-works"><a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a></span>
+                                                                <strong>Aufgaben:</strong> Konzeption, Webdesign, Programmierung
+                                                                und Support
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a>
+                                                                </span>
                                                             </p>
 
-                                                            
+
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -242,8 +273,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -251,16 +282,23 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                            <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und WordPress-Integration</p>
-
-                                                            <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Programmierung, Performance-Service
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und
+                                                                WordPress-Integration
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über mobile lounge:</strong> Der Fachmarkt für Telekommunikation und Mobilfunk mit Top-Service
-															</br><span class="span-my-works"><a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a></span>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Programmierung,
+                                                                Performance-Service
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Über mobile lounge:</strong> Der Fachmarkt für Telekommunikation
+                                                                und Mobilfunk mit Top-Service
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -270,8 +308,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -279,27 +317,33 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und Online-Strategie</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                                WordPress und Online-Strategie</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Dauer-Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über Güven Al GmbH:</strong> Die Güven Al Lebensmittel & Fleisch Großhandel GmbH beliefert viele Kunden innerhalb von Hessen, BaWü & Nordrhein-Westfalen.
-															</br><span class="span-my-works"><a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a></span>
+                                                                <strong>Über Güven Al GmbH:</strong> Die Güven Al Lebensmittel &
+                                                                Fleisch Großhandel GmbH beliefert viele Kunden innerhalb
+                                                                von Hessen, BaWü & Nordrhein-Westfalen.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
-                                                </div>                                             
+                                                </div>
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -307,16 +351,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                                WordPress und mobile Apps</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über Mythos Istanbul:</strong> Das historische Restaurant in Istanbul im ehemaligem Haydarpasa-Bahnhof
-															</br><span class="span-my-works"><a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a></span>
+                                                                <strong>Über Mythos Istanbul:</strong> Das historische Restaurant
+                                                                in Istanbul im ehemaligem Haydarpasa-Bahnhof
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -326,8 +375,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -335,26 +384,30 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und Optimierungen bestehender Komponenten.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und
+                                                                Optimierungen bestehender Komponenten.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
+                                                                und Support
                                                                 </br>
                                                                 </br>
-                                                                <span class="span-my-works"><a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a></span>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
                                                 </div>
-                                                
+
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -362,13 +415,17 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
-                                                        </br>
-                                                        <p>
-                                                            <strong>Aufgaben:</strong> Beratung & Konzeption und Support
-                                                        </p>
-															</br><span class="span-my-works"><a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a></span>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                                WordPress und mobile Apps</p>
+                                                            </br>
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption und Support
+                                                            </p>
+                                                            </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a>
+                                                            </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -378,8 +435,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -387,16 +444,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                           <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung mit Bootstrap</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
+                                                                mit Bootstrap</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Konzeption, Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über felicithy:</strong> Blog von felicithy zu den Themen Fashion, Food und Lifestyle
-															</br><span class="span-my-works"><a href="http://felicithy.de/" target="_blank">www.felicithy.de</a></span>
+                                                                <strong>Über felicithy:</strong> Blog von felicithy zu den Themen
+                                                                Fashion, Food und Lifestyle
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://felicithy.de/" target="_blank">www.felicithy.de</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -406,8 +468,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -415,16 +477,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                         <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO, WordPress und mobile Apps</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                                WordPress und mobile Apps</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung, Konzeption und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über D&T Pizza:</strong> Der schnelle Lieferdienst mit der besten Pizza aus Pforzheim
-															</br><span class="span-my-works"><a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a></span>
+                                                                <strong>Über D&T Pizza:</strong> Der schnelle Lieferdienst mit der
+                                                                besten Pizza aus Pforzheim
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -434,8 +501,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -443,19 +510,26 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Konzeption und Programmierung der Website auf Basis von Wordpress. Ziel war die Programierung und Anbindung zur mobile.de-Shop. </p>
-
-                                                            <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung und Wartung
-                                                                
-                                                            </p>
-                                                            <p>
-                                                                <strong>Über BA-Carcenter:</strong> Der Spezialist für Gebrauchtwagen in Pforzheim
-															</br><span class="span-my-works"><a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a></span>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Konzeption und Programmierung der Website auf Basis von Wordpress.
+                                                                Ziel war die Programierung und Anbindung zur mobile.de-Shop.
                                                             </p>
 
-                                                           
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung
+                                                                und Wartung
+
+                                                            </p>
+                                                            <p>
+                                                                <strong>Über BA-Carcenter:</strong> Der Spezialist für Gebrauchtwagen
+                                                                in Pforzheim
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
+                                                                </span>
+                                                            </p>
+
+
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -464,8 +538,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -473,16 +547,21 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                          <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops von Artsitik World.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops
+                                                                von Artsitik World.</p>
 
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über Artistk World:</strong> Urban und Hip Hop Artworks diverser Textiledesigners, Tattoo- and Airbrushartists.
-															</br><span class="span-my-works"><a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a></span>
+                                                                <strong>Über Artistk World:</strong> Urban und Hip Hop Artworks diverser
+                                                                Textiledesigners, Tattoo- and Airbrushartists.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a>
+                                                                </span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -492,8 +571,8 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
                                                             </figure>
 
                                                             <div class="c-project__header">
@@ -501,12 +580,15 @@
                                                             </div>
                                                         </a>
 
-                                                        <div class="c-project__content" data-accordion-content="" >
-                                                          <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten gearbeitet. Über Agenturen arbeite ich auch für namhafte und börsennotierte Unternehmen,
-                                                          die ich an dieser Stelle leider nicht nennen darf.</p>
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten
+                                                                gearbeitet. Über Agenturen arbeite ich auch für namhafte
+                                                                und börsennotierte Unternehmen, die ich an dieser Stelle
+                                                                leider nicht nennen darf.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Web-Beratung, Web-Konzeption, Web-Entwicklung & Web-Services
+                                                                <strong>Aufgaben:</strong> Web-Beratung, Web-Konzeption, Web-Entwicklung
+                                                                & Web-Services
                                                             </p>
 
                                                         </div>
@@ -534,7 +616,7 @@
                                         <span class="highline">Web-Entwickler aus Pforzheim. </span>. Seit über 10 Jahren helfe ich Unternehmen
                                         Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
                                         und qualitativ besser zu gestalten.
-                                        <br>
+                                        </br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
                                         <br>
@@ -554,14 +636,13 @@
                                         </h3>
                                     </div>
                                     <ul class="info-list">
-                                        <p>
-                                            <span class="numbers">228 </span> Erfolgreiche Projekte</p>
-                                        <p>
-                                            <span class="numbers">86 </span> Glückliche Kunden</p>
-                                        <p>
-                                            <span class="numbers">10+ </span> Jahre Erfahrung</p>
-                                        </br>
-                                        </br>
+                                        <p class="p-numbers">
+                                            <span class="numbers">228 </span>Erfolgreiche Projekte</p>
+                                        <p class="p-numbers">
+                                            <span class="numbers">86 </span>Glückliche Kunden</p>
+                                        <p class="p-numbers">
+                                            <span class="numbers">10+ </span>Jahre Erfahrung</p>
+                                        <br>
                                         <li>
                                             <i class="fa fa-user"></i>
                                             <strong>Tätig als</strong> : </br>Selbstständiger Web-Berater, Web-Designer und Web-Entwickler</li>
@@ -569,8 +650,9 @@
                                             <i class="fa fa-search"></i>
                                             <strong>Schwerpunkte</strong> : </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
                                             Wordpress
-                                            </br>
-                                            </br>
+
+                                            <br>
+                                            <br>
                                             <li>
                                                 <i class="fa fa-home title"></i>
                                                 <span class="value">Webdesign & Webprogrammierung Pforzheim</span>
@@ -594,16 +676,20 @@
                                     </ul>
                                 </div>
                             </div>
-
-                        </div>
-                        <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="download-resume">
-                                    <a href="" class="btn btn-secondary">Download Resume</a>
+                                <div class="block-title phone-number">
+                                    <h3 class="h3-phone-number">
+                                        <i class="fa fa-phone" aria-hidden="true"></i>
+                                        </i>
+                                        <span> 0176-64343412</span>
+                                    </h3>
                                 </div>
                             </div>
+
                         </div>
                     </div>
+
+                </div>
             </section>
             <!-- End of Home Subpage -->
 
@@ -705,11 +791,11 @@
                                             </h3>
                                         </div>
                                         <ul class="info-list">
-                                            <p>
+                                            <p class="p-numbers">
                                                 <span class="numbers">228 </span> Erfolgreiche Projekte</p>
-                                            <p>
+                                            <p class="p-numbers">
                                                 <span class="numbers">86 </span> Glückliche Kunden</p>
-                                            <p>
+                                            <p class="p-numbers">
                                                 <span class="numbers">10+ </span> Jahre Erfahrung</p>
                                             </br>
                                             </br>
@@ -817,6 +903,15 @@
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block">
+                                    <div class="center download-resume">
+                                        <a href="#" class="btn btn-secondary">Download Resume</a>
+                                    </div>
+                                </div>
+                            </div>
+                            
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
                                     <h3>WordPress Freelancer</br>
@@ -826,11 +921,14 @@
                                         alt="blog-post-1">
                                 </div>
                             </div>
+                            
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block">
-                                    <div class="center download-resume">
-                                        <a href="#" class="btn btn-secondary">Download Resume</a>
-                                    </div>
+                                <div class="block-title phone-number">
+                                    <h3 class="h3-phone-number">
+                                        <i class="fa fa-phone" aria-hidden="true"></i>
+                                        </i>
+                                        <span> 0176-64343412</span>
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -1002,8 +1100,8 @@
                             </div>
                         </div>
                         <!-- End Row -->
-                         
-                        
+
+
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
                                 <img src="<?php bloginfo('template_url');?>/images/leistungen/webberatung-webentwicklung-pforzheim.jpg" alt="Webagentur Pforzheim"
@@ -1154,6 +1252,16 @@
                                             </div>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block-title phone-number">
+                                    <h3 class="h3-phone-number">
+                                        <i class="fa fa-phone" aria-hidden="true"></i>
+                                        </i>
+                                        <span> 0176-64343412</span>
+                                    </h3>
                                 </div>
                             </div>
                         </div>
@@ -1442,6 +1550,16 @@
                             <!-- /Portfolio Grid -->
                         </div>
                         <!-- /Portfolio Content -->
+
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="block-title phone-number">
+                                <h3 class="h3-phone-number">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    </i>
+                                    <span> 0176-64343412</span>
+                                </h3>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -1690,6 +1808,15 @@
                             <!-- End of Blog Post 8 -->
                         </div>
                         <!-- Blog Posts Grid -->
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="block-title phone-number">
+                                <h3 class="h3-phone-number">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    </i>
+                                    <span> 0176-64343412</span>
+                                </h3>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -1702,12 +1829,52 @@
                         <h2>Kontakt</h2>
                     </div>
                     <div class="page-content">
-
                         <div class="row">
                             <div class="col-sm-6 col-md-6">
                                 <div class="block-title">
                                     <h3>Kontaktieren Sie
                                         <span>Mich</span>
+                                    </h3>
+                                </div>
+                                <form id="contact-form" method="post" action="contact_form/contact_form.php">
+
+                                    <div class="messages"></div>
+
+                                    <div class="controls">
+                                        <div class="form-group form-group-with-icon">
+                                            <i class="fa fa-user"></i>
+                                            <label>Full Name</label>
+                                            <input id="form_name" type="text" name="name" class="form-control" placeholder required="required" data-error="Name is required.">
+                                            <div class="form-control-border"></div>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+
+                                        <div class="form-group form-group-with-icon">
+                                            <i class="fa fa-envelope"></i>
+                                            <label>Email Address</label>
+                                            <input id="form_email" type="email" name="email" class="form-control" placeholder required="required" data-error="Valid email is required.">
+                                            <div class="form-control-border"></div>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+
+                                        <div class="form-group form-group-with-icon">
+                                            <i class="fa fa-comment"></i>
+                                            <label>Message for Me</label>
+                                            <textarea id="form_message" name="message" class="form-control" placeholder rows="4" required="required" data-error="Please, leave me a message."></textarea>
+                                            <div class="form-control-border"></div>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+
+                                        <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
+
+                                        <input type="submit" class="button btn-send" value="Send message">
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <div class="block-title">
+                                    <h3>Standort Bora
+                                        <span>Oenal</span>
                                     </h3>
                                 </div>
                                 <!-- Google Map -->
@@ -1781,48 +1948,6 @@
                                         <h5>www.boraoenal.com</h5>
                                     </div>
                                 </div>
-                            </div>
-
-                            <div class="col-sm-6 col-md-6">
-                                <div class="block-title">
-                                    <h3>Kontakt
-                                        <span>Form</span>
-                                    </h3>
-                                </div>
-                                <form id="contact-form" method="post" action="contact_form/contact_form.php">
-
-                                    <div class="messages"></div>
-
-                                    <div class="controls">
-                                        <div class="form-group form-group-with-icon">
-                                            <i class="fa fa-user"></i>
-                                            <label>Full Name</label>
-                                            <input id="form_name" type="text" name="name" class="form-control" placeholder required="required" data-error="Name is required.">
-                                            <div class="form-control-border"></div>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-
-                                        <div class="form-group form-group-with-icon">
-                                            <i class="fa fa-envelope"></i>
-                                            <label>Email Address</label>
-                                            <input id="form_email" type="email" name="email" class="form-control" placeholder required="required" data-error="Valid email is required.">
-                                            <div class="form-control-border"></div>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-
-                                        <div class="form-group form-group-with-icon">
-                                            <i class="fa fa-comment"></i>
-                                            <label>Message for Me</label>
-                                            <textarea id="form_message" name="message" class="form-control" placeholder rows="4" required="required" data-error="Please, leave me a message."></textarea>
-                                            <div class="form-control-border"></div>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-
-                                        <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
-
-                                        <input type="submit" class="button btn-send" value="Send message">
-                                    </div>
-                                </form>
                             </div>
                         </div>
                     </div>
@@ -2063,11 +2188,11 @@
                 </div>
             </section>
             <!-- End Extra Subpage -->
-            </div>
         </div>
-        <!-- /Page changer wrapper -->
     </div>
-    <!-- /Main Content -->
+    <!-- /Page changer wrapper -->
+</div>
+<!-- /Main Content -->
 </div>
 
 <?php get_footer() ?>
