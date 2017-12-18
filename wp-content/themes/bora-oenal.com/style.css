@@ -303,7 +303,8 @@ div.test-unten {
 .numbers {
 	font-size: 2rem;
 	float: left; 
-	width: 60px;
+	color: #000;	
+	font-weight: 800;
 }
 
 .block-title.phone-number {
@@ -312,9 +313,13 @@ div.test-unten {
 }
 
 .p-numbers {
-	padding-bottom: 10px;
+	padding-bottom: 2px;
 }
 
 .h3-phone-number {
 	margin: 15px 0 0 0 !important;
+}
+
+.marg-bottom {
+	margin-bottom: 22px;
 }

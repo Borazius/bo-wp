@@ -154,8 +154,7 @@
     font-family: 'Roboto', Helvetica, sans-serif;
     font-weight: 600;
     line-height: 1.5em;
-    margin-top: 0;
-    margin-bottom: 5px;
+    margin-top: 3px;
     color: #212121;
 }
 
@@ -165,8 +164,20 @@
 }
 
 .numbers {
-    color: #2196F3;
+    color: #fff;
     font-size: 1.2rem;
     display: inline-block;
-    min-width: 50px;
+    min-width: 30px;
+}
+
+span.numbers-start {
+	font-size: 1.2rem;
+	color: #2196F3;
+	width: 45px;
+	display: inline-block;
+}
+
+h5.steps {
+    font-size: 1rem;
+    color: #2196F3;
 }

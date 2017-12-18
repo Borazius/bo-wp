@@ -4,7 +4,12 @@
 </div>
 <div class="popup">
     <div class="close ns-close"></div>
-	<?php echo do_shortcode( '[contact-form-7 id="23" title="Kontaktformular 1"]' ); ?>
+	<h3 class="h3-pop-bottom">Angebot anfordern</h3>
+	<p class="p-pop-bottom">
+		Ich melde mich innerhalb von 24 Stunden zurück.
+	</p>
+	<?php echo do_shortcode( '[wpforms id="37" title="false" description="false"]' ); ?>
 
    	
 </div>
+

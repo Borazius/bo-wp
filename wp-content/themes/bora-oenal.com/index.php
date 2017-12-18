@@ -637,11 +637,11 @@
                                     </div>
                                     <ul class="info-list">
                                         <p class="p-numbers">
-                                            <span class="numbers">228 </span>Erfolgreiche Projekte</p>
+                                            <span class="numbers-start">228 </span>Erfolgreiche Projekte</p>
                                         <p class="p-numbers">
-                                            <span class="numbers">86 </span>Glückliche Kunden</p>
+                                            <span class="numbers-start">90 + </span>Glückliche Kunden</p>
                                         <p class="p-numbers">
-                                            <span class="numbers">10+ </span>Jahre Erfahrung</p>
+                                            <span class="numbers-start">10 + </span>Jahre Erfahrung</p>
                                         <br>
                                         <li>
                                             <i class="fa fa-user"></i>
@@ -792,11 +792,11 @@
                                         </div>
                                         <ul class="info-list">
                                             <p class="p-numbers">
-                                                <span class="numbers">228 </span> Erfolgreiche Projekte</p>
+                                                <span class="numbers-start">228 </span> Erfolgreiche Projekte</p>
                                             <p class="p-numbers">
-                                                <span class="numbers">86 </span> Glückliche Kunden</p>
+                                                <span class="numbers-start">90 +</span> Glückliche Kunden</p>
                                             <p class="p-numbers">
-                                                <span class="numbers">10+ </span> Jahre Erfahrung</p>
+                                                <span class="numbers-start">10 +</span> Jahre Erfahrung</p>
                                             </br>
                                             </br>
                                             <li>
@@ -1009,29 +1009,26 @@
                         </div>
                         <!-- End of My Services -->
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <ul class="leist_ul">
                                     <h3>Meine Leistungen im Überblick</h3>
                                     <br>
                                     <li>Beratungsgespräch vor Ort</li>
-                                    <li>Erstellung eines detaillierten Konzepts mit darauf basierendem Angebot</li>
-                                    <li>Programmierung Ihrer Webseiten, Blogs, Portale und Anbindung an ein Content Management-System
-                                        (WordPress)
-                                    </li>
-                                    <li>Optimierung Ihrer Webseite für alle Ausgabegeräte (Desktop, Smartphone, &amp; Tablet)</li>
+                                    <li>Erstellung eines Konzepts mit darauf basierendem Angebot</li>
+                                    <li>Programmierung Ihrer Webseiten und Anbindung an WordPress</li>
+                                    <li>Optimierung Ihrer Webseite für alle Ausgabegeräte (Mobile First)</li>
                                     <li>Suchmaschinen-freundliche Programmierung</li>
-                                    <li>Integration von Google Analytics zum Erfassen detaillierter Besucherinformationen.</li>
-                                    <li>Wartung &amp; Service für Ihre bestehende Website (Updates und Fehlerbehebungen)</li>
-                                    <li>Qualitätscheck Ihrer aktuellen Homepage</li>
-                                    <li>WordPress-Schulungen</li>
-                                    <li>Einrichtung ihrer Unternehmensseite auf Facebook, Twitter, YouTube, Google+</li>
-                                    <li>Anbindung Ihrer Webseite mit Social Network </li>
                                     <li>Contentintegration</li>
-                                    <li>Erstellung von Logos und Unternehmensvideos</li>
+                                    <li>Wartung &amp; Service für Ihre bestehende Website</li>
+                                    <li>Qualitätscheck Ihrer aktuellen Homepage</li>
+                                    <li>WordPress-Schulungen für Nutzer</li>
+                                    <li>Einrichtung ihrer Unternehmensseite auf Facebook, YouTube... </li>
+                                    <li>Anbindung Ihrer Webseite mit Social Network</li>                               
+                                    <li>Integration von  Google Analytics zum Erfassen detaillierter Besucherinformationen</li>
                                 </ul>
                                 <br>
                             </div>
-                            <div class="col-md-6 centPic">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 centPic">
                                 <div class="leistungen-img">
                                     <img src="<?php bloginfo('template_url');?>/images/leistungen/webdesigner-pforzheim-bora.png" alt="Online Marketing Pforzheim"
                                         class="mCS_img_loaded img-leistungen">
@@ -1040,67 +1037,95 @@
                         </div>
 
                         <div class="row">
-                            <div class="col-md-12">
-                                <div class="title-box">
-                                    <h2 class="prozesse">Phasen eines Webprojekts</h2>
+                        <div class="col-sm-12 col-md-12">
+                                <div class="block-title marg-bottom">
+                                    <h3>Phasen eines 
+                                        <span>Webprojekts</span>
+                                    </h3>
                                 </div>
                             </div>
-
-                            <div class="col-md-3">
-                                <span class="numbers">1</span>
-                                <h5 class="steps">VORGESPRÄCH</h5>
-                                <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem ausführlichen
-                                    Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts. Gemeinsam
-                                    legen wir Ihre Ziele und Zielgruppen fest. Falls bereits ein Webauftritt existiert, wird
-                                    diese nach Stärken und Schwächen überprüft. Schließlich zeige ich Ihnen die Möglichkeiten
-                                    um sich optimal im Internet zu präsentieren.
-                                    <br>
-                                    <br>
-                                </p>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <span class="numbers">1</span>
+                                    <h5 class="steps">VORGESPRÄCH</h5>
+                                    <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem ausführlichen
+                                        Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts. Gemeinsam
+                                        legen wir Ihre Ziele und Zielgruppen fest. Falls bereits ein Webauftritt existiert, wird
+                                        diese nach Stärken und Schwächen überprüft. Schließlich zeige ich Ihnen die Möglichkeiten
+                                        um sich optimal im Internet zu präsentieren.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4">
+                                    <span class="numbers">2</span>
+                                    <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
+                                    <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
+                                        vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
+                                        eine Markt-, Konkurrenz- und Kunden-Analyse nötig. Wichtige Elemente einer Website wie
+                                        z.B. Menü-Struktur und Seitenaufbau werden definiert.
+                                        <br>
+                                        <br> Mithilfe des Konzeptes entwerfe ich anschließend das Layout und Design. Die optimale
+                                        Ausgabe auf allen Endgeräten und Nutzerfreundlichkeit stehen dabei im Fokus. Sie erhalten
+                                        Designvorschläge und diese passe ich gegebenfalls solange an, bis sie mit dem Ergebnis
+                                        zufrieden sind.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4">
+                                    <span class="numbers">3</span>
+                                    <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
+                                    <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
+                                        Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der nächste
+                                        Schritt. Saubere Programmierung ist ein wichtiger Qualitätsmerkmal und sorgt für leistungsstarke
+                                        Webseiten mit kurzen Ladezeiten. Es folgen technische Tests hinsichtlich der Systemfunktionalität,
+                                        Performance, Browserkompatibilität und die richtige Anzeige auf allen Endgeräten.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>                           
                             </div>
-                            <div class="col-md-3">
-                                <span class="numbers">2</span>
-                                <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
-                                <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
-                                    vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
-                                    eine Markt-, Konkurrenz- und Kunden-Analyse nötig. Wichtige Elemente einer Website wie
-                                    z.B. Menü-Struktur und Seitenaufbau werden definiert.
-                                    <br>
-                                    <br> Mithilfe des Konzeptes entwerfe ich anschließend das Layout und Design. Die optimale
-                                    Ausgabe auf allen Endgeräten und Nutzerfreundlichkeit stehen dabei im Fokus. Sie erhalten
-                                    Designvorschläge und diese passe ich gegebenfalls solange an, bis sie mit dem Ergebnis
-                                    zufrieden sind.
-                                    <br>
-                                    <br>
-                                </p>
-                            </div>
-                            <div class="col-md-3">
-                                <span class="numbers">3</span>
-                                <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
-                                <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
-                                    Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der nächste
-                                    Schritt. Saubere Programmierung ist ein wichtiger Qualitätsmerkmal und sorgt für leistungsstarke
-                                    Webseiten mit kurzen Ladezeiten. Es folgen technische Tests hinsichtlich der Systemfunktionalität,
-                                    Performance, Browserkompatibilität und die richtige Anzeige auf allen Endgeräten.
-                                    <br>
-                                    <br>
-                                </p>
-                            </div>
-                            <div class="col-md-3">
-                                <span class="numbers">4</span>
-                                <h5 class="steps">GO-LIVE</h5>
-                                <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
-                                    Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
-                                    erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
-                                    sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
-                                    Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
-                                    <br>
-                                    <br>
-                                </p>
-                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <span class="numbers">4</span>
+                                    <h5 class="steps">GO-LIVE</h5>
+                                    <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
+                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
+                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
+                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4">
+                                    <span class="numbers">4</span>
+                                    <h5 class="steps">GO-LIVE</h5>
+                                    <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
+                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
+                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
+                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                                <div class="col-md-4">
+                                    <span class="numbers">4</span>
+                                    <h5 class="steps">GO-LIVE</h5>
+                                    <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
+                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
+                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
+                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>                      
+                            </div>             
                         </div>
                         <!-- End Row -->
-
 
                         <div class="row">
                             <div class="col-sm-12 col-md-12">

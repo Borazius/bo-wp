@@ -9,6 +9,7 @@
     -moz-box-shadow: 0px 0px 20px 0px rgba(50, 50, 50, 0.1);
     box-shadow: 0px 0px 20px 0px rgba(50, 50, 50, 0.1);
     transition: box-shadow 0.8s;
+	color: #000;
 }
 
 #wrapper:hover {
@@ -22,7 +23,7 @@
     color: #fff;
     background: #2196F3;
     padding: 10px;
-    bottom: 2px;
+    bottom: 50px;
     right: -390px;
     position: fixed;
     border-radius: 5px;
@@ -233,4 +234,21 @@ input[type="submit"]:hover {
 
 .link-imprint a:hover {
     color: red;
+}
+
+
+/* FormularWPforms */
+.wpforms-field-medium {
+	width: 100%;
+	color: #000;
+}
+
+.wpforms-field-small.wpforms-field-required {
+	width: 100%;
+	height: 150px;
+}
+
+.h3-pop-bottom {
+	color: #fff;
+	margin-bottom: 10px;
 }
