@@ -1017,13 +1017,15 @@
                         </div>
                         <!-- End of My Services -->
                         <div class="row">
-                            <div class="col-sm-12">
-                                <div class="techniques__title">
-                                    <h2>Techniken &amp; Lösungen aus meinem Webdesign Alltag:</h2>
+                            <div class="col-sm-12 col-md-12">
+                                <div class="block-title">
+                                    <h3>Meine Technicken &
+                                        <span>Lösungen</span>
+                                    </h3>
                                 </div>
                                 <div class="techniques__text">
                                     <p>
-                                        Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen, welche
+                                        Text ändern: Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen, welche
                                         Werkzeuge wir benötigen, um aus einer Idee ein “klickbares Abenteuer” zu bauen? Als
                                         Webdesigner bin ich nicht nur Ihr Konzeptioner und Stratege, sondern auch Ihr digitaler
                                         Handwerker und ausführende Hand für alle Themen rund um Ihre Webseite und Ihren Onlineshop.
@@ -1038,6 +1040,11 @@
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-css3.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-js.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
@@ -1077,22 +1084,12 @@
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-mysql.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 technlogy-items">
-                                        <div class="technlogy-items-inner">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-git.png" alt="">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-gulp.png" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-3 technlogy-items">
-                                        <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-yoast.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -1215,13 +1212,6 @@
                             </div>
                         </div>
                         <!-- End Row -->
-
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12">
-                                <img src="<?php bloginfo('template_url');?>/images/leistungen/webberatung-webentwicklung-pforzheim.jpg" alt="Webagentur Pforzheim"
-                                    class="mCS_img_loaded">
-                            </div>
-                        </div>
 
                         <!-- Kunden -->
                         <div class="row">
@@ -1368,7 +1358,16 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                        <!-- Ende Preise-->
 
+
+                        <!-- image-service -->
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12">
+                                <img src="<?php bloginfo('template_url');?>/images/leistungen/webberatung-webentwicklung-pforzheim.jpg" alt="Webagentur Pforzheim"
+                                    class="mCS_img_loaded">
+                            </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
                                     <h3 class="h3-phone-number">
@@ -1379,7 +1378,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Ende Preise-->
+                        <!-- end image-service -->
                     </div>
                 </div>
             </section>
