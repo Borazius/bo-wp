@@ -911,7 +911,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
                                     <h3>WordPress Freelancer</br>
@@ -921,7 +921,7 @@
                                         alt="blog-post-1">
                                 </div>
                             </div>
-                            
+
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
                                     <h3 class="h3-phone-number">
@@ -962,7 +962,9 @@
                                             <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
                                         </div>
                                         <h4>Konzeption</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+                                        <p>Jedes Webprojekt gehört gründlich geplant. Daher ist ein solides Konzept die Basis
+                                            für eine erfolgreiche Website. Gerne unterstütze ich Sie bei der Konzeption von
+                                            individuellen Lösungen für Web und App.
                                         </p>
                                     </div>
                                 </div>
@@ -975,7 +977,9 @@
                                             <!--      <i class="fa fa-pencil large-icons"></i>   -->
                                         </div>
                                         <h4>Webdesign</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+                                        <p>Gutes Design will gelernt sein. Ich habe einen ausgeprägten Sinn für gestalterische
+                                            Ästhetik und gestalte stets maßgeschneiderte Webdesigns, die durch Details auch
+                                            nachhaltig Eindruck hinterlassen.
                                         </p>
                                     </div>
                                 </div>
@@ -988,7 +992,9 @@
                                             <!--      <i class="fa fa-file-code-o large-icons"></i> -->
                                         </div>
                                         <h4>Programmierung</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+                                        <p>Die Programmierung von individuellen und leistungsfähigen Spezial-Lösungen für das
+                                            Internet gehört zu meinen Schwerpunkten. Ich biete Webentwicklung u.a. auf Basis
+                                            von JavaScript, PHP und MySQL sowie Frameworks wie Laravel, jQuery und Bootstrap.
                                         </p>
                                     </div>
                                 </div>
@@ -1001,7 +1007,9 @@
                                             <!--            <i class="fa fa-volume-up large-icons"></i>-->
                                         </div>
                                         <h4>Online Marketing</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+                                        <p>Sie möchten Ihre Sichtbarkeit in den Ergebnislisten der großen Suchmaschinen verbessern?
+                                            Dann fragen Sie nach Unterstützung im Bereich von Suchmaschinenoptimierung. Ich
+                                            analysiere Ihre Website, zeige Ihnen Optimierungsansätze auf und realisiere diese.
                                         </p>
                                     </div>
                                 </div>
@@ -1009,22 +1017,102 @@
                         </div>
                         <!-- End of My Services -->
                         <div class="row">
+                            <div class="col-sm-12">
+                                <div class="techniques__title">
+                                    <h2>Techniken &amp; Lösungen aus meinem Webdesign Alltag:</h2>
+                                </div>
+                                <div class="techniques__text">
+                                    <p>
+                                        Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen, welche
+                                        Werkzeuge wir benötigen, um aus einer Idee ein “klickbares Abenteuer” zu bauen? Als
+                                        Webdesigner bin ich nicht nur Ihr Konzeptioner und Stratege, sondern auch Ihr digitaler
+                                        Handwerker und ausführende Hand für alle Themen rund um Ihre Webseite und Ihren Onlineshop.
+                                    </p>
+                                </div>
+                                <div class="technlogy-container">
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-html5.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-css3.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-sass.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-less.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-jquery.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-wp.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-woocommerce" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-bootstrap.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-php.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-mysql.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-git.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-gulp.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 technlogy-items">
+                                        <div class="technlogy-items-inner">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-yoast.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <ul class="leist_ul">
                                     <h3>Meine Leistungen im Überblick</h3>
                                     <br>
-                                    <li>Beratungsgespräch vor Ort</li>
+                                    <li>Beratungsgespräch und Entscheidungshilfen für Ihre Webpräsenz</li>
                                     <li>Erstellung eines Konzepts mit darauf basierendem Angebot</li>
                                     <li>Programmierung Ihrer Webseiten und Anbindung an WordPress</li>
-                                    <li>Optimierung Ihrer Webseite für alle Ausgabegeräte (Mobile First)</li>
+                                    <li>Optimierung Ihrer Webseite für Mobilgeräte (Responsive Design)</li>
                                     <li>Suchmaschinen-freundliche Programmierung</li>
                                     <li>Contentintegration</li>
                                     <li>Wartung &amp; Service für Ihre bestehende Website</li>
                                     <li>Qualitätscheck Ihrer aktuellen Homepage</li>
                                     <li>WordPress-Schulungen für Nutzer</li>
                                     <li>Einrichtung ihrer Unternehmensseite auf Facebook, YouTube... </li>
-                                    <li>Anbindung Ihrer Webseite mit Social Network</li>                               
-                                    <li>Integration von  Google Analytics zum Erfassen detaillierter Besucherinformationen</li>
+                                    <li>Anbindung Ihrer Webseite mit Social Network</li>
+                                    <li>Integration von Google Analytics zum Erfassen detaillierter Besucherinformationen</li>
                                 </ul>
                                 <br>
                             </div>
@@ -1037,9 +1125,9 @@
                         </div>
 
                         <div class="row">
-                        <div class="col-sm-12 col-md-12">
+                            <div class="col-sm-12 col-md-12">
                                 <div class="block-title marg-bottom">
-                                    <h3>Phasen eines 
+                                    <h3>Phasen eines
                                         <span>Webprojekts</span>
                                     </h3>
                                 </div>
@@ -1048,11 +1136,11 @@
                                 <div class="col-md-4">
                                     <span class="numbers">1</span>
                                     <h5 class="steps">VORGESPRÄCH</h5>
-                                    <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem ausführlichen
-                                        Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts. Gemeinsam
-                                        legen wir Ihre Ziele und Zielgruppen fest. Falls bereits ein Webauftritt existiert, wird
-                                        diese nach Stärken und Schwächen überprüft. Schließlich zeige ich Ihnen die Möglichkeiten
-                                        um sich optimal im Internet zu präsentieren.
+                                    <p>Sie kontaktieren mich und wir vereinbaren einen Termin für das Erstgespräch. In einem
+                                        ausführlichen Gespräch beschreiben Sie mir die Vorstellungen und Wünsche Ihres Internetauftritts.
+                                        Gemeinsam legen wir Ihre Ziele und Zielgruppen fest. Falls bereits ein Webauftritt
+                                        existiert, wird diese nach Stärken und Schwächen überprüft. Schließlich zeige ich
+                                        Ihnen die Möglichkeiten um sich optimal im Internet zu präsentieren.
                                         <br>
                                         <br>
                                     </p>
@@ -1062,13 +1150,13 @@
                                     <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
                                     <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
                                         vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
-                                        eine Markt-, Konkurrenz- und Kunden-Analyse nötig. Wichtige Elemente einer Website wie
-                                        z.B. Menü-Struktur und Seitenaufbau werden definiert.
+                                        eine Markt-, Konkurrenz- und Kunden-Analyse nötig. Wichtige Elemente einer Website
+                                        wie z.B. Menü-Struktur und Seitenaufbau werden definiert.
                                         <br>
                                         <br> Mithilfe des Konzeptes entwerfe ich anschließend das Layout und Design. Die optimale
-                                        Ausgabe auf allen Endgeräten und Nutzerfreundlichkeit stehen dabei im Fokus. Sie erhalten
-                                        Designvorschläge und diese passe ich gegebenfalls solange an, bis sie mit dem Ergebnis
-                                        zufrieden sind.
+                                        Ausgabe auf allen Endgeräten und Nutzerfreundlichkeit stehen dabei im Fokus. Sie
+                                        erhalten Designvorschläge und diese passe ich gegebenfalls solange an, bis sie mit
+                                        dem Ergebnis zufrieden sind.
                                         <br>
                                         <br>
                                     </p>
@@ -1077,24 +1165,25 @@
                                     <span class="numbers">3</span>
                                     <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
                                     <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
-                                        Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der nächste
-                                        Schritt. Saubere Programmierung ist ein wichtiger Qualitätsmerkmal und sorgt für leistungsstarke
-                                        Webseiten mit kurzen Ladezeiten. Es folgen technische Tests hinsichtlich der Systemfunktionalität,
-                                        Performance, Browserkompatibilität und die richtige Anzeige auf allen Endgeräten.
+                                        Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der
+                                        nächste Schritt. Saubere Programmierung ist ein wichtiger Qualitätsmerkmal und sorgt
+                                        für leistungsstarke Webseiten mit kurzen Ladezeiten. Es folgen technische Tests hinsichtlich
+                                        der Systemfunktionalität, Performance, Browserkompatibilität und die richtige Anzeige
+                                        auf allen Endgeräten.
                                         <br>
                                         <br>
                                     </p>
-                                </div>                           
+                                </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-4">
                                     <span class="numbers">4</span>
                                     <h5 class="steps">GO-LIVE</h5>
                                     <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
-                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
-                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
-                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
-                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue
+                                        Seiten erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine.
+                                        Sie können sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen
+                                        und kleineren Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
                                         <br>
                                         <br>
                                     </p>
@@ -1103,10 +1192,10 @@
                                     <span class="numbers">4</span>
                                     <h5 class="steps">GO-LIVE</h5>
                                     <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
-                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
-                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
-                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
-                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue
+                                        Seiten erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine.
+                                        Sie können sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen
+                                        und kleineren Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
                                         <br>
                                         <br>
                                     </p>
@@ -1115,15 +1204,15 @@
                                     <span class="numbers">4</span>
                                     <h5 class="steps">GO-LIVE</h5>
                                     <p>Passt alles, geht Ihre neue Webseite online. In einer Schulung zeige ich Ihnen alle wichtigen
-                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue Seiten
-                                        erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine. Sie können
-                                        sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen und kleineren
-                                        Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
+                                        Funktionen. Ich zeige Ihnen wie Sie zum Beispiel Seiteninhalte anpassen oder neue
+                                        Seiten erstellen. Selbstverständlich lasse ich sie nach dem Go-Live nicht alleine.
+                                        Sie können sich auf mich verlassen! Ich stehe Ihnen weiterhin für Fehlerbehebungen
+                                        und kleineren Anpassungen zur Verfügung. Sind Sie zufrieden, dann bin ich es auch!
                                         <br>
                                         <br>
                                     </p>
-                                </div>                      
-                            </div>             
+                                </div>
+                            </div>
                         </div>
                         <!-- End Row -->
 
