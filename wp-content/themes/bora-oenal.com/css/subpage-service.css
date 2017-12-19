@@ -300,5 +300,56 @@
     padding: 10px 0 20px;
 }
 
+/* Technolgien logo */
+.technlogy-container {
+    margin: 4.375rem 0 0;
+    font-size: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
 
-/* /Pricing */
+.technlogy-items {
+    display: inline-block;
+    vertical-align: top;
+    width: 16.66%;
+    padding: 0 15px;
+    margin: 0 0 30px;
+}
+
+.technlogy-items-inner {
+    position: relative;
+    height: 0;
+    padding: 0 0 100%;
+    background-color: #ececec;
+    -webkit-transition: all .5s ease;
+    transition: all .5s ease;
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+    border: 1px solid #ddd;
+}
+
+.technlogy-items-inner:hover {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.technlogy-items-inner img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-width: 90%;
+    max-height: 90%;
+    width: auto;
+    height: auto;
+}

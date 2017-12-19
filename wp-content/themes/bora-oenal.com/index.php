@@ -612,8 +612,8 @@
                                     </div>
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich rocke das Internet! Ich bin
-                                        <span class="highline"> freier Web-Berater </span>. und
-                                        <span class="highline">Web-Entwickler aus Pforzheim. </span>. Seit über 10 Jahren helfe ich Unternehmen
+                                        <span class="highline"> freier Web-Berater </span> und
+										<span class="highline">Web-Entwickler aus Pforzheim. </span> </br> Seit über 10 Jahren helfe ich Unternehmen
                                         Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
                                         und qualitativ besser zu gestalten.
                                         </br>
@@ -660,10 +660,6 @@
                                             <li>
                                                 <i class="fa fa-phone title"></i>
                                                 <span class="value">0176 64 34 34 12</span>
-                                            </li>
-                                            <li>
-                                                <i class="fa fa-map-marker title"></i>
-                                                <span class="value">Karlsruhe, Pforzheim, Stuttgart</span>
                                             </li>
                                             <li>
                                                 <i class="fa fa-envelope-o title"></i>
@@ -762,8 +758,8 @@
 
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich bin
-                                        <span class="highline"> freier Web-Berater </span>. und
-                                        <span class="highline">Web-Entwickler aus Pforzheim. </span>. Seit über 10 Jahren helfe ich Unternehmen
+                                        <span class="highline"> freier Web-Berater </span> und
+                                        <span class="highline">Web-Entwickler aus Pforzheim.</span> </br> Seit über 10 Jahren helfe ich Unternehmen
                                         Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
                                         und qualitativ besser zu gestalten.
 
