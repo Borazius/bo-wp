@@ -52,7 +52,7 @@
     
             $('#contact-form').on('submit', function (e) {
                 if (!e.isDefaultPrevented()) {
-                    var url = "contact_form/contact_form.php";
+                    var url = "http://boraoenal.com/wp-content/themes/bora-oenal.com/contact_form/contact_form.php";
     
                     $.ajax({
                         type: "POST",
