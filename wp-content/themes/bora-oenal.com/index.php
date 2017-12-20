@@ -2018,7 +2018,7 @@
 
                                         <div class="g-recaptcha" data-sitekey="6Le35gYUAAAAAGB12s89xrKUvyjWlNVxinKVq3mN"></div>
 
-                                        <input type="submit" class="button btn-send" value="Send message"/>
+                                        <input type="submit" class="button btn-send marg-bottom" value="Send message"/>
                                         <!-- <input type="button" class="button_active" onclick="location.href='1.html';" /> -->
                                     </div>
                                 </form>
