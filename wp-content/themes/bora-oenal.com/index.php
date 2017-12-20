@@ -613,6 +613,68 @@
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
                                                             <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg" alt="Website Lotus Bags"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Lotus Bags</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
+
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Contenterstellung, Web-Programmierung und Support
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Über Lotus Bags:</strong> LOTUS BAGS GMBH erfolgreich als Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen Markt etabliert.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
+                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg" alt="Website Scotty76"
+                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg">
+                                                            </figure>
+
+                                                            <div class="c-project__header">
+                                                                <h3 class="c-project__title">Scotty76</h3>
+                                                            </div>
+                                                        </a>
+
+                                                        <div class="c-project__content" data-accordion-content="">
+                                                            <p>Website-Konzeption und -Programmierung für Scotty76.</p>
+
+                                                            <p>
+                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Web-Programmierung und Support
+                                                            </p>
+
+                                                            <p>
+                                                                <strong>Über Scotty76:</strong> Scotty76 ist ein namhafter und berühmter Graffiti- und Tattoo-Artist.
+                                                                </br>
+                                                                <span class="span-my-works">
+                                                                    <a href="https://www.facebook.com/ScottyTPM/" target="_blank">www.scotty76.com</a>
+                                                                </span>
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <!-- /portfolio-item -->
+                                                </div>
+                                                <div class="c-project-list__item   o-grid__item">
+                                                    <div class="c-project" data-accordion-item="collapsed">
+                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                            <figure class="c-project__media">
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
                                                             </figure>
