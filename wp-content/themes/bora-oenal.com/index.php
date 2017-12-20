@@ -48,8 +48,50 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="page-content">
                         <div class="row">
+                            <!-- LimaSoda -->
+                            <!-- <div class="welcome">
+                                <h2>Hi, ich bin Bora. Ich plane, baue &amp; analysiere Websites.
+                                    <br>Ach ja, und erfolgreich machen ich sie auch!</h2>
+                                <p>Für einen schnellen Überblick haben wir alles auf eine Seite gepackt. Herausgekommen ist
+                                    die wahrscheinlich längste Website der Welt! *</p>
+                            </div> -->
+                            <!-- <div id="spotlights">
+                                <div id="spotlight1">
+                                    <div class="spotlight-inner">
+                                        <h2>Wir sind...</h2>
+                                        <p>LimeSoda -
+                                            <strong>Onlineagentur in Wien</strong>.
+                                            <br> Architekten für Websites.</p>
+                                        <ul>
+                                            <li>Wir
+                                                <strong>planen &amp; beraten</strong>.</li>
+                                            <li>Wir
+                                                <strong>designen &amp; programmieren</strong>.</li>
+                                            <li>Wir
+                                                <strong>analysieren &amp; optimieren</strong>.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div id="spotlight2">
+                                    <div class="spotlight-inner">
+                                        <h2>...online...</h2>
+                                        <p>sind wir eigentlich immer. Im Web und am Mobile, auf Facebook, YouTube, Google+ &amp;
+                                            Co. Wenn wir nicht online sind, twittern wir! :)</p>
+                                    </div>
+                                </div>
+                                <div id="spotlight3">
+                                    <div class="spotlight-inner">
+                                        <h2>...erreichbar.</h2>
+                                        <p>Wie überaus praktisch!</p>
+                                        <a href="#" class="anfragen">Jetzt anfragen</a>
+                                        <p>Oder wir zeigen erst, was wir drauf haben.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div> -->
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
                                     <h3>Webdesign zu fairen Preisen für die Region
@@ -96,7 +138,7 @@
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
-                                    <h3>Meine</br>
+                                    <h3>Meine
                                         <span>Arbeiten</span>
                                     </h3>
                                 </div>
@@ -613,9 +655,9 @@
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich rocke das Internet! Ich bin
                                         <span class="highline"> freier Web-Berater </span> und
-										<span class="highline">Web-Entwickler aus Pforzheim. </span> </br> Seit über 10 Jahren helfe ich Unternehmen
-                                        Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
-                                        und qualitativ besser zu gestalten.
+                                        <span class="highline">Web-Entwickler aus Pforzheim. </span>
+                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
                                         </br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
@@ -759,9 +801,9 @@
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich bin
                                         <span class="highline"> freier Web-Berater </span> und
-                                        <span class="highline">Web-Entwickler aus Pforzheim.</span> </br> Seit über 10 Jahren helfe ich Unternehmen
-                                        Ihre Web-Ideen zu realiseren. Meine Mission ist es das World Wide Web täglich schöner
-                                        und qualitativ besser zu gestalten.
+                                        <span class="highline">Web-Entwickler aus Pforzheim.</span>
+                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
 
                                         <br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
@@ -793,7 +835,6 @@
                                                 <span class="numbers-start">90 +</span> Glückliche Kunden</p>
                                             <p class="p-numbers">
                                                 <span class="numbers-start">10 +</span> Jahre Erfahrung</p>
-                                            </br>
                                             </br>
                                             <li>
                                                 <i class="fa fa-user"></i>
@@ -1021,71 +1062,72 @@
                                 </div>
                                 <div class="techniques__text">
                                     <p>
-                                        Text ändern: Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen, welche
-                                        Werkzeuge wir benötigen, um aus einer Idee ein “klickbares Abenteuer” zu bauen? Als
-                                        Webdesigner bin ich nicht nur Ihr Konzeptioner und Stratege, sondern auch Ihr digitaler
-                                        Handwerker und ausführende Hand für alle Themen rund um Ihre Webseite und Ihren Onlineshop.
+                                        Text ändern: Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen,
+                                        welche Werkzeuge wir benötigen, um aus einer Idee ein “klickbares Abenteuer” zu bauen?
+                                        Als Webdesigner bin ich nicht nur Ihr Konzeptioner und Stratege, sondern auch Ihr
+                                        digitaler Handwerker und ausführende Hand für alle Themen rund um Ihre Webseite und
+                                        Ihren Onlineshop.
                                     </p>
                                 </div>
                                 <div class="technlogy-container">
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-html5.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-html5.png" title="HTML5" alt="HTML5">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-css3.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-css3.png" title="CSS3" alt="CSS3">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-js.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-js.png" title="JavaScript" alt="JavaScript">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-sass.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-sass.png" title="Sass" alt="Sass">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-less.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-less.png" title="Less" alt="Less">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-jquery.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-jquery.png" title="JQuery" alt="JQuery">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-wp.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-wp.png" title="WordPress" alt="WordPress">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-woocommerce" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-woocommerce" title="WooCommerce" alt="WooCommerce">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-bootstrap.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-bootstrap.png" title="Bootstrap" alt="Bootstrap">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-php.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-php.png" title="PHP" alt="PHP">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-git.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-git.png" title="git" alt="git">
                                         </div>
                                     </div>
                                     <div class="col-sm-3 technlogy-items">
                                         <div class="technlogy-items-inner">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-gulp.png" alt="">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/technology-gulp.png" title="Gulp" alt="Gulp">
                                         </div>
                                     </div>
                                 </div>
@@ -1945,7 +1987,7 @@
                                         <span>Mich</span>
                                     </h3>
                                 </div>
-                                <form id="contact-form" method="post" action="contact_form/contact_form.php">
+                                <form id="contact-form" method="post" action="<?php bloginfo('template_url');?>/contact_form/contact_form.php">
 
                                     <div class="messages"></div>
 
@@ -1974,9 +2016,11 @@
                                             <div class="help-block with-errors"></div>
                                         </div>
 
-                                        <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
+                                        <div class="g-recaptcha" data-sitekey="6Le35gYUAAAAAGB12s89xrKUvyjWlNVxinKVq3mN"></div>
 
-                                        <input type="submit" class="button btn-send" value="Send message">
+                                        <input type="submit" class="button btn-send" value="Send message" onclick="location.href='<?php bloginfo('template_url');?>/contact_form/contact_form.php'"
+                                        />
+                                        <!-- <input type="button" class="button_active" onclick="location.href='1.html';" /> -->
                                     </div>
                                 </form>
                             </div>

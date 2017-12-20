@@ -33,7 +33,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="<?php bloginfo('template_url');?>/images/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/images/favicon/favicon.ico">
+    <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/images/favicon/favicon.ico?v=2">
 
     <!--    CSS --> 
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/style.css" type="text/css">
