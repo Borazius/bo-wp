@@ -1322,42 +1322,42 @@
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-temizer.png" alt="kunde-temizer" title="Fachpraxis Temizer" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-merk.png" alt="kunde-merk" title="Personalservice Merk" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-ssr.png" alt="kunde-ssr" title="Southside Rockers" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-mobile-lounge.png" alt="kunde-mobile-lounge" title="Mobile Lounge Pforzheim" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-ubeybi.png" alt="kunde-ubeybi" title="ubeybi.com.tr" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/client_1.png" alt="image" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-mythos.png" alt="kunde-mythos" title="mythos Istanbul" class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
