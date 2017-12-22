@@ -801,6 +801,50 @@
                     </div>
                     <div class="page-content">
                         <div class="row">
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="about-me">
+                                    <div class="block-title">
+                                        <h3>Über
+                                            <span>Mich</span>
+                                        </h3>
+                                    </div>
+
+                                    <p>Hallo, mein Name ist
+                                        <span class="highline">Bora Önal </span>und ich bin
+                                        <span class="highline"> freier Web-Berater </span> und
+                                        <span class="highline">Web-Entwickler aus Pforzheim.</span>
+                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
+
+                                        <br>
+                                        <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
+                                        <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
+                                        <br>
+                                        <br> Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
+                                        Pforzheim fokusierte ich mich auf die Themen Internet und E-Commerce. Nach meinem
+                                        Studium war ich in diversen Agenturen und IT-Beratungshäuser tätig. Schwerpunkt meiner
+                                        Tätigkeiten lagen in den Bereichen Beratung, Entwicklung und Qualitätssicherung.
+                                        Durch regelmäßige Weiterbildung verfolge ich das Ziel, meinen Kunden weiterhin innovative
+                                        und qualitative Lösungen zu bieten.
+                                        <br>
+                                        <br>
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block">
+                                    <div class="about-me">
+                                        <div class="block-title">
+                                            <h3>Kurz
+                                                <span>&</span> Bündig
+                                            </h3>
+                                        </div>
+                                        <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="row"> -->
                             <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
                                     <div class="block-title">
@@ -851,38 +895,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div> -->
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="about-me">
-                                    <div class="block-title">
-                                        <h3>Über
-                                            <span>Mich</span>
-                                        </h3>
-                                    </div>
-
-                                    <p>Hallo, mein Name ist
-                                        <span class="highline">Bora Önal </span>und ich bin
-                                        <span class="highline"> freier Web-Berater </span> und
-                                        <span class="highline">Web-Entwickler aus Pforzheim.</span>
-                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
-                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
-
-                                        <br>
-                                        <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
-                                        <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
-                                        <br>
-                                        <br> Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
-                                        Pforzheim fokusierte ich mich auf die Themen Internet und E-Commerce. Nach meinem
-                                        Studium war ich in diversen Agenturen und IT-Beratungshäuser tätig. Schwerpunkt meiner
-                                        Tätigkeiten lagen in den Bereichen Beratung, Entwicklung und Qualitätssicherung.
-                                        Durch regelmäßige Weiterbildung verfolge ich das Ziel, meinen Kunden weiterhin innovative
-                                        und qualitative Lösungen zu bieten.
-                                        <br>
-                                        <br>
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            </div>                          -->
+                            <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
                                     <div class="about-me">
                                         <div class="block-title">
@@ -890,48 +904,11 @@
                                                 <span>&</span> Bündig
                                             </h3>
                                         </div>
-                                        <ul class="info-list">
-                                            <p class="p-numbers">
-                                                <span class="numbers-start">228 </span> Erfolgreiche Projekte</p>
-                                            <p class="p-numbers">
-                                                <span class="numbers-start">90 +</span> Glückliche Kunden</p>
-                                            <p class="p-numbers">
-                                                <span class="numbers-start">10 +</span> Jahre Erfahrung</p>
-                                            </br>
-                                            <li>
-                                                <i class="fa fa-user"></i>
-                                                <strong>Tätig als</strong> : </br>Selbstständiger Web-Berater, Web-Designer und Web-Entwickler</li>
-                                            <li>
-                                                <i class="fa fa-search"></i>
-                                                <strong>Schwerpunkte</strong> : </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
-                                                Wordpress
-                                                </br>
-                                                </br>
-                                                <li>
-                                                    <i class="fa fa-home title"></i>
-                                                    <span class="value">Webdesign & Webprogrammierung Pforzheim</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa fa-phone title"></i>
-                                                    <span class="value">0176 64 34 34 12</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa fa-map-marker title"></i>
-                                                    <span class="value">Karlsruhe, Pforzheim, Stuttgart</span>
-                                                </li>
-                                                <li>
-                                                    <i class="fa fa-envelope-o title"></i>
-                                                    <a href "mailto:info@boraoenal.com">info@boraoenal.com</a>
-                                                </li>
-                                                <li>
-                                                    <i class="fa fa-globe title"></i>
-                                                    <span class="value">www.BoraOenal.com</span>
-                                                </li>
-                                        </ul>
+                                        <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+                            </div> -->
+                        <!-- </div> -->
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
@@ -1011,7 +988,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-12 col-md-12 col-lg-12">
+                            <!-- <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
                                     <h3>WordPress Freelancer</br>
                                         <span>individuell, nachhaltig und professionell</span>
@@ -1019,7 +996,7 @@
                                     <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/ich-erstelle-webseiten-pforzheim-sw.jpg"
                                         alt="blog-post-1">
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
@@ -1057,7 +1034,7 @@
                                     <div class="service-info">
                                         <!--<i class="service-icon fa fa-shopping-cart"></i>-->
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/concept3.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/concept.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
                                             <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
                                         </div>
                                         <h4>Konzeption</h4>

@@ -186,3 +186,9 @@
 .download-resume {
     margin-top: 50px;
 }
+
+.mCS_img_loaded.img-portrait-resume {
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+}
