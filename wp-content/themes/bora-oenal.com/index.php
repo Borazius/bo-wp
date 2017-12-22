@@ -127,13 +127,41 @@
                                     </br>
                                 </p>
                             </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>WordPress Freelancer</br>
+                                        <span>individuell, nachhaltig und professionell</span>
+                                    </h3>
+                                </div>
+                                <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
+                                    dem Open Source Content Management System WordPress.</br>
+                                    </br> Sie wollen das Image Ihres Unternehmens verbessern?
+                                    </br> Sie wollen neue Kunden gewinnen, diese langfristig binden und somit auch Ihren
+                                    Umsatz steigern?
+                                    <br>
+                                    <br> Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und
+                                    diese mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller
+                                    Kunden zu Ihren Gunsten!
+                                    </br>
+                                    </br>
+                                </p>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>WordPress Freelancer</br>
+                                        <span>individuell, nachhaltig und professionell</span>
+                                    </h3>
+                                </div>
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive2.png"
+                                    alt="blog-post-1">
+                            </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
                                     <h3>Webdesign zu fairen Preisen für die Region</br>
                                         <span>Karlsruhe / Pforzheim & Stuttgart</span>
                                     </h3>
                                 </div>
-                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive2.png"
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive.png"
                                     alt="blog-post-1">
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -626,11 +654,14 @@
                                                             <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Contenterstellung, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Contenterstellung,
+                                                                Web-Programmierung und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über Lotus Bags:</strong> LOTUS BAGS GMBH erfolgreich als Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen Markt etabliert.
+                                                                <strong>Über Lotus Bags:</strong> LOTUS BAGS GMBH erfolgreich als
+                                                                Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen
+                                                                Markt etabliert.
                                                                 </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
@@ -657,11 +688,13 @@
                                                             <p>Website-Konzeption und -Programmierung für Scotty76.</p>
 
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Web-Programmierung
+                                                                und Support
                                                             </p>
 
                                                             <p>
-                                                                <strong>Über Scotty76:</strong> Scotty76 ist ein namhafter und berühmter Graffiti- und Tattoo-Artist.
+                                                                <strong>Über Scotty76:</strong> Scotty76 ist ein namhafter und berühmter
+                                                                Graffiti- und Tattoo-Artist.
                                                                 </br>
                                                                 <span class="span-my-works">
                                                                     <a href="https://www.facebook.com/ScottyTPM/" target="_blank">www.scotty76.com</a>
@@ -845,7 +878,7 @@
                             </div>
                         </div>
                         <!-- <div class="row"> -->
-                            <!-- <div class="col-sm-6 col-md-6 col-lg-6">
+                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
                                     <div class="block-title">
                                         <h3>Coding
@@ -896,7 +929,7 @@
                                     </div>
                                 </div>
                             </div>                          -->
-                            <!-- <div class="col-sm-6 col-md-6 col-lg-6">
+                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
                                     <div class="about-me">
                                         <div class="block-title">
@@ -1286,6 +1319,35 @@
                                         <br>
                                     </p>
                                 </div>
+                                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                    <div class="block-title marg-bottom">
+                                        <h3>Natürlich
+                                            <span>Responsive</span>
+                                        </h3>
+                                    </div>
+                                    <img src="<?php bloginfo('template_url');?>/images/responsive.png" alt="Webagentur Pforzheim" class="mCS_img_loaded">
+                                </div>
+                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                    <ul class="leist_ul">
+                                        <h3>Meine Leistungen im Überblick</h3>
+                                        <br>
+                                        <li>Beratungsgespräch und Entscheidungshilfen für Ihre Webpräsenz</li>
+                                        <li>Erstellung eines Konzepts mit darauf basierendem Angebot</li>
+                                        <li>Programmierung Ihrer Webseiten und Anbindung an WordPress</li>
+                                        <li>Optimierung Ihrer Webseite für Mobilgeräte (Responsive Design)</li>
+                                        <li>Suchmaschinen-freundliche Programmierung</li>
+                                        <li>Contentintegration</li>
+                                        <li>Wartung &amp; Service für Ihre bestehende Website</li>
+                                        <li>Qualitätscheck Ihrer aktuellen Homepage</li>
+                                        <li>WordPress-Schulungen für Nutzer</li>
+                                        <li>Einrichtung ihrer Unternehmensseite auf Facebook, YouTube... </li>
+                                        <li>Anbindung Ihrer Webseite mit Social Network</li>
+                                        <li>Integration von Google Analytics zum Erfassen detaillierter Besucherinformationen</li>
+                                    </ul>
+                                    <br>
+                                </div>
+
+
                             </div>
                         </div>
                         <!-- End Row -->
@@ -1299,14 +1361,16 @@
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-temizer.png" alt="kunde-temizer" title="Fachpraxis Temizer" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-temizer.png" alt="kunde-temizer" title="Fachpraxis Temizer"
+                                                class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-merk.png" alt="kunde-merk" title="Personalservice Merk" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-merk.png" alt="kunde-merk" title="Personalservice Merk"
+                                                class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
@@ -1320,7 +1384,8 @@
                                 <div class="col-sm-4 col-md-2 subpage-block">
                                     <div class="client-block">
                                         <a href="#" target="_blank">
-                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-mobile-lounge.png" alt="kunde-mobile-lounge" title="Mobile Lounge Pforzheim" class="mCS_img_loaded">
+                                            <img src="<?php bloginfo('template_url');?>/images/clients/kunde-mobile-lounge.png" alt="kunde-mobile-lounge" title="Mobile Lounge Pforzheim"
+                                                class="mCS_img_loaded">
                                         </a>
                                     </div>
                                 </div>
@@ -1438,13 +1503,8 @@
                         </div>
                         <!-- Ende Preise-->
 
-
                         <!-- image-service -->
                         <div class="row">
-                            <div class="col-sm-12 col-md-12">
-                                <img src="<?php bloginfo('template_url');?>/images/leistungen/webberatung-webentwicklung-pforzheim.jpg" alt="Webagentur Pforzheim"
-                                    class="mCS_img_loaded">
-                            </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
                                     <h3 class="h3-phone-number">
@@ -2057,7 +2117,7 @@
 
                                         <div class="g-recaptcha" data-sitekey="6Le35gYUAAAAAGB12s89xrKUvyjWlNVxinKVq3mN"></div>
 
-                                        <input type="submit" class="button btn-send marg-bottom" value="Send message"/>
+                                        <input type="submit" class="button btn-send marg-bottom" value="Send message" />
                                         <!-- <input type="button" class="button_active" onclick="location.href='1.html';" /> -->
                                     </div>
                                 </form>
