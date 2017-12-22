@@ -48,6 +48,11 @@ Text Domain: Bora Önal
 
 @import url('css/normalize.css');
 
+/* print.css */
+
+@import url('css/print.css');
+
+
 /* transition-animations.css */
 
 @import url('css/transition-animations.css');
@@ -322,65 +327,5 @@ div.test-unten {
 
 .marg-bottom {
 	margin-bottom: 22px;
-}
-
-/* LimaSoda*/
-.welcome {
-    width: 100%;
-    height: auto;
-    padding: 45px 80px 0px 90px;
-    background: transparent url(http://boraoenal.com/wp-content/themes/bora-oenal.com/images/welcome.jpg) no-repeat top left;
-    color: #fff;
-	margin-bottom:20px;
-}
-
-.welcome h2 {
-    font-size: 26px;
-    line-height: 35px;
-}
-
-.welcome p {
-    margin-top: 10px;
-    font-size: 17px;
-    line-height: 24px;
-}
-
-#spotlights {
-    float: left;
-    margin-top: 9px;
-    width: 997px;
-    height: 211px;
-    background: transparent url(http://boraoenal.com/wp-content/themes/bora-oenal.com/images/spotlights.png) no-repeat top left;
-}
-
-#spotlight1, #spotlight2, #spotlight3 {
-    float: left;
-    margin-left: 81px;
-    margin-top: 33px;
-    width: 223px;
-    font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #757575;
-}
-
-#spotlights h2 {
-    font-family: BitterBold, sans-serif;
-    font-size: 24px;
-    line-height: 30px;
-    color: #a4cb4f;
-    margin-bottom: 6px;
-}
-
-#spotlight1 p {
-    line-height: 18px;
-    font-size: 13px;
-}
-
-#spotlight1 ul {
-    margin-top: 8px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#spotlight1 li {
-    line-height: 20px;
+	display:block;
 }

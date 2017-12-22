@@ -31,17 +31,20 @@
                                         <span class="jobtitel">Bora Önal, Dipl. Wirtschaftsinformatiker (FH) </span>
                                     </div>
                                 </div>
-                                <!-- <div class="social-links">
-                                    <a href="#">
-                                        <i class="fa fa-twitter"></i>
-                                    </a>
+                                <div class="social-links">
                                     <a href="#">
                                         <i class="fa fa-facebook"></i>
                                     </a>
                                     <a href="#">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                </div> -->
+                                    <a href="#">
+                                        <i class="fa fa-xing"></i>
+                                    </a>
+                                    <a href="#">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
                                 <div class="download-resume">
                                     <a href="#kontakt" class="btn btn-secondary-start">Kontakt aufnehmen! </a>
                                 </div>
@@ -51,47 +54,16 @@
 
                     <div class="page-content">
                         <div class="row">
-                            <!-- LimaSoda -->
-                            <!-- <div class="welcome">
-                                <h2>Hi, ich bin Bora. Ich plane, baue &amp; analysiere Websites.
-                                    <br>Ach ja, und erfolgreich machen ich sie auch!</h2>
-                                <p>Für einen schnellen Überblick haben wir alles auf eine Seite gepackt. Herausgekommen ist
-                                    die wahrscheinlich längste Website der Welt! *</p>
-                            </div> -->
-                            <!-- <div id="spotlights">
-                                <div id="spotlight1">
-                                    <div class="spotlight-inner">
-                                        <h2>Wir sind...</h2>
-                                        <p>LimeSoda -
-                                            <strong>Onlineagentur in Wien</strong>.
-                                            <br> Architekten für Websites.</p>
-                                        <ul>
-                                            <li>Wir
-                                                <strong>planen &amp; beraten</strong>.</li>
-                                            <li>Wir
-                                                <strong>designen &amp; programmieren</strong>.</li>
-                                            <li>Wir
-                                                <strong>analysieren &amp; optimieren</strong>.</li>
-                                        </ul>
-                                    </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>Hi, ich bin Bora. Ich plane, baue &amp; analysiere Websites.
+                                        <span>Ach ja, und erfolgreich machen ich sie auch!</span>
+                                    </h3>
+                                    <stropg>Fehlende Qualität ist teuer!</stropg>
+                                    <p>Optimieren Sie Ihren Webauftritt für alle Endgeräte und begeistern Sie Ihre Kunden! Der
+                                        erste Eindruck entscheidet!</p>
                                 </div>
-                                <div id="spotlight2">
-                                    <div class="spotlight-inner">
-                                        <h2>...online...</h2>
-                                        <p>sind wir eigentlich immer. Im Web und am Mobile, auf Facebook, YouTube, Google+ &amp;
-                                            Co. Wenn wir nicht online sind, twittern wir! :)</p>
-                                    </div>
-                                </div>
-                                <div id="spotlight3">
-                                    <div class="spotlight-inner">
-                                        <h2>...erreichbar.</h2>
-                                        <p>Wie überaus praktisch!</p>
-                                        <a href="#" class="anfragen">Jetzt anfragen</a>
-                                        <p>Oder wir zeigen erst, was wir drauf haben.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div> -->
+                            </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
                                     <h3>Webdesign zu fairen Preisen für die Region
@@ -106,25 +78,6 @@
                                     </br>Seit 10 Jahren unterstütze ich erfolgreich Unternehmen bei der Neuentwicklung und Optimierung
                                     bestehender Webseiten zur Realisierung ihrer Ideen und Ziele. Ich biete verschiedene
                                     Lösungen für Ihren optimalen Auftritt im World Wide Web.
-                                </p>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block-title">
-                                    <h3>WordPress Freelancer</br>
-                                        <span>individuell, nachhaltig und professionell</span>
-                                    </h3>
-                                </div>
-                                <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
-                                    dem Open Source Content Management System WordPress.</br>
-                                    </br> Sie wollen das Image Ihres Unternehmens verbessern?
-                                    </br> Sie wollen neue Kunden gewinnen, diese langfristig binden und somit auch Ihren
-                                    Umsatz steigern?
-                                    <br>
-                                    <br> Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und
-                                    diese mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller
-                                    Kunden zu Ihren Gunsten!
-                                    </br>
-                                    </br>
                                 </p>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
@@ -221,16 +174,13 @@
                                                                 <h3 class="c-project__title">Southside Rockers</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für
                                                                 die legendären Southside Rockers</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Konzeption, Web-Programmierung, Contenterstellung
                                                                 und Wartung
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über ubeybi:</strong> Mit ihren Shows begeisterten die B-Boys
                                                                 der Southside Rockers weltweit das Publikum.
@@ -255,12 +205,10 @@
                                                                 <h3 class="c-project__title">Naturheilpraxis Pforzheim</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory: Bereits
                                                                 nach wenigen Wochen konnte Herr Temizer mit dem Relaunch
                                                                 die Reichweite und Anzahl der Patienten erhöhen.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
                                                                 und Support
@@ -269,8 +217,6 @@
                                                                     <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
                                                                 </span>
                                                             </p>
-
-
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -302,7 +248,6 @@
                                                                     <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
                                                                 </span>
                                                             </p>
-
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -324,7 +269,6 @@
                                                             <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive
                                                                 Design. Anpassung der Website für alle Endgeräte, von Desktop-
                                                                 bis Smartphone-Ansicht.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Konzeption, Webdesign, Programmierung
                                                                 und Support
@@ -333,8 +277,6 @@
                                                                     <a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a>
                                                                 </span>
                                                             </p>
-
-
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -356,12 +298,10 @@
                                                             <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und
                                                                 WordPress-Integration
                                                             </p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Programmierung,
                                                                 Performance-Service
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über mobile lounge:</strong> Der Fachmarkt für Telekommunikation
                                                                 und Mobilfunk mit Top-Service
@@ -390,11 +330,9 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und Online-Strategie</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Dauer-Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über Güven Al GmbH:</strong> Die Güven Al Lebensmittel &
                                                                 Fleisch Großhandel GmbH beliefert viele Kunden innerhalb
@@ -424,11 +362,9 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und mobile Apps</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über Mythos Istanbul:</strong> Das historische Restaurant
                                                                 in Istanbul im ehemaligem Haydarpasa-Bahnhof
@@ -457,7 +393,6 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und
                                                                 Optimierungen bestehender Komponenten.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
                                                                 und Support
@@ -517,11 +452,9 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
                                                                 mit Bootstrap</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Konzeption, Web-Programmierung und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über felicithy:</strong> Blog von felicithy zu den Themen
                                                                 Fashion, Food und Lifestyle
@@ -541,7 +474,6 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">D&T Pizza</h3>
                                                             </div>
@@ -550,11 +482,9 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und mobile Apps</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung, Konzeption und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über D&T Pizza:</strong> Der schnelle Lieferdienst mit der
                                                                 besten Pizza aus Pforzheim
@@ -579,16 +509,13 @@
                                                                 <h3 class="c-project__title">BA-Carcenter</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Konzeption und Programmierung der Website auf Basis von Wordpress.
                                                                 Ziel war die Programierung und Anbindung zur mobile.de-Shop.
                                                             </p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung
                                                                 und Wartung
-
                                                             </p>
                                                             <p>
                                                                 <strong>Über BA-Carcenter:</strong> Der Spezialist für Gebrauchtwagen
@@ -598,8 +525,6 @@
                                                                     <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
                                                                 </span>
                                                             </p>
-
-
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -620,11 +545,9 @@
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops
                                                                 von Artsitik World.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Web-Programmierung und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über Artistk World:</strong> Urban und Hip Hop Artworks diverser
                                                                 Textiledesigners, Tattoo- and Airbrushartists.
@@ -652,12 +575,10 @@
 
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Contenterstellung,
                                                                 Web-Programmierung und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über Lotus Bags:</strong> LOTUS BAGS GMBH erfolgreich als
                                                                 Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen
@@ -686,12 +607,10 @@
 
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Konzeption und -Programmierung für Scotty76.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Web-Programmierung
                                                                 und Support
                                                             </p>
-
                                                             <p>
                                                                 <strong>Über Scotty76:</strong> Scotty76 ist ein namhafter und berühmter
                                                                 Graffiti- und Tattoo-Artist.
@@ -722,12 +641,10 @@
                                                                 gearbeitet. Über Agenturen arbeite ich auch für namhafte
                                                                 und börsennotierte Unternehmen, die ich an dieser Stelle
                                                                 leider nicht nennen darf.</p>
-
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Web-Beratung, Web-Konzeption, Web-Entwicklung
                                                                 & Web-Services
                                                             </p>
-
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -736,7 +653,6 @@
                                             <!-- /portfolio-items -->
                                         </div>
                                     </div>
-
                                 </section>
                                 <!-- END Meine Arbeiten -->
                             </div>
@@ -787,7 +703,6 @@
                                             <i class="fa fa-search"></i>
                                             <strong>Schwerpunkte</strong> : </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
                                             Wordpress
-
                                             <br>
                                             <br>
                                             <li>
@@ -814,14 +729,12 @@
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span> 0176-64343412</span>
+                                        <span class="marg-bottom"> 0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
-
                         </div>
                     </div>
-
                 </div>
             </section>
             <!-- End of Home Subpage -->
@@ -841,14 +754,12 @@
                                             <span>Mich</span>
                                         </h3>
                                     </div>
-
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich bin
                                         <span class="highline"> freier Web-Berater </span> und
                                         <span class="highline">Web-Entwickler aus Pforzheim.</span>
                                         </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
                                         ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
-
                                         <br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
@@ -868,8 +779,8 @@
                                 <div class="block">
                                     <div class="about-me">
                                         <div class="block-title">
-                                            <h3>Kurz
-                                                <span>&</span> Bündig
+                                            <h3>Bora
+                                                <span> Önal</span>
                                             </h3>
                                         </div>
                                         <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
@@ -877,71 +788,6 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="row"> -->
-                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="block-title">
-                                        <h3>Coding
-                                            <span>Skills</span>
-                                        </h3>
-                                    </div>
-                                    <div class="skills-info">
-                                        <h4>Konzeption</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>Web-Design (Responsive)</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>WordPress</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>Bootstrap</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>HTML5</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>CSS3/LESS/SASS</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>JavaScript</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>jQuery</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>PHP</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                        <h4>SQL</h4>
-                                        <div class="skill-container">
-                                            <div class="skill-percentage skill-0"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>                          -->
-                        <!-- <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="about-me">
-                                        <div class="block-title">
-                                            <h3>Kurz
-                                                <span>&</span> Bündig
-                                            </h3>
-                                        </div>
-                                        <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
-                                    </div>
-                                </div>
-                            </div> -->
-                        <!-- </div> -->
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block">
@@ -1012,31 +858,113 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <div class="col-sm-12 col-md-12 col-lg-12">
+                            <!-- Design Skills -->
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="block">
-                                    <div class="center download-resume">
-                                        <a href="#" class="btn btn-secondary">Download Resume</a>
+                                    <div class="block-title">
+                                        <h3>Design
+                                            <span>Skills</span>
+                                        </h3>
+                                    </div>
+                                    <div class="skills-info">
+                                        <h4>Konzeption</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-1"></div>
+                                        </div>
+
+                                        <h4>Web-Design (Responsive)</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-2"></div>
+                                        </div>
+
+                                        <h4>Logo Design</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-3"></div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            <!-- End Design Skills -->
+                            <!-- Technology Skills -->
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block">
+                                    <div class="block-title">
+                                        <h3>Technology
+                                            <span>Skills</span>
+                                        </h3>
+                                    </div>
 
-                            <!-- <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block-title">
-                                    <h3>WordPress Freelancer</br>
-                                        <span>individuell, nachhaltig und professionell</span>
-                                    </h3>
-                                    <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/ich-erstelle-webseiten-pforzheim-sw.jpg"
-                                        alt="blog-post-1">
+                                    <div class="skills-info">
+                                        <h4>WordPress</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-4"></div>
+                                        </div>
+
+                                        <h4>WooCommerce</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-5"></div>
+                                        </div>
+
+                                        <h4>Bootstrap</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-5"></div>
+                                        </div>
+
+                                        <h4>jQuery</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-6"></div>
+                                        </div>
+                                    </div>
+
                                 </div>
-                            </div> -->
+                            </div>
+                            <!-- End Technology Skills -->
+                            <!-- Coding Skills -->
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block">
+                                    <div class="block-title">
+                                        <h3>Coding
+                                            <span>Skills</span>
+                                        </h3>
+                                    </div>
 
+                                    <div class="skills-info">
+                                        <h4>HTML5</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-4"></div>
+                                        </div>
+
+                                        <h4>CSS3/LESS/SASS</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-5"></div>
+                                        </div>
+
+                                        <h4>JavaScript</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-6"></div>
+                                        </div>
+
+                                        <h4>PHP& SQL</h4>
+                                        <div class="skill-container">
+                                            <div class="skill-percentage skill-6"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- END Coding Skills -->
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="block">
+                                    <div class="center download-resume">
+                                        <a href="<?php bloginfo('template_url');?>/docs/bora-oenal-cv.pdf" target="_blank" class="btn btn-secondary">Download Resume</a>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span> 0176-64343412</span>
+                                        <span class="marg-bottom"> 0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
@@ -1065,10 +993,8 @@
                             <div class="col-sm-6 col-md-3">
                                 <div class="service-block">
                                     <div class="service-info">
-                                        <!--<i class="service-icon fa fa-shopping-cart"></i>-->
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/concept.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
-                                            <!--   <i class="fa fa-lightbulb-o large-icons"></i> -->
                                         </div>
                                         <h4>Konzeption</h4>
                                         <p>Jedes Webprojekt gehört gründlich geplant. Daher ist ein solides Konzept die Basis
@@ -1083,7 +1009,6 @@
                                     <div class="service-info">
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/web_design_icon.png" alt="Webdesigner Pforzheim" class="mCS_img_loaded">
-                                            <!--      <i class="fa fa-pencil large-icons"></i>   -->
                                         </div>
                                         <h4>Webdesign</h4>
                                         <p>Gutes Design will gelernt sein. Ich habe einen ausgeprägten Sinn für gestalterische
@@ -1098,7 +1023,6 @@
                                     <div class="service-info">
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/creativity_icon.png" alt="Webprogrammierung Pforzheim" class="mCS_img_loaded">
-                                            <!--      <i class="fa fa-file-code-o large-icons"></i> -->
                                         </div>
                                         <h4>Programmierung</h4>
                                         <p>Die Programmierung von individuellen und leistungsfähigen Spezial-Lösungen für das
@@ -1113,7 +1037,6 @@
                                     <div class="service-info">
                                         <div class="service-image">
                                             <img src="<?php bloginfo('template_url');?>/images/leistungen/advetising_icon.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded">
-                                            <!--            <i class="fa fa-volume-up large-icons"></i>-->
                                         </div>
                                         <h4>Online Marketing</h4>
                                         <p>Sie möchten Ihre Sichtbarkeit in den Ergebnislisten der großen Suchmaschinen verbessern?
@@ -1230,7 +1153,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
                                 <div class="block-title marg-bottom">
@@ -1346,8 +1268,6 @@
                                     </ul>
                                     <br>
                                 </div>
-
-
                             </div>
                         </div>
                         <!-- End Row -->
@@ -1403,7 +1323,6 @@
                                         </a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                         <!-- Ende Kunden -->
@@ -1510,7 +1429,7 @@
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span> 0176-64343412</span>
+                                        <span class="marg-bottom"> 0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
@@ -1528,7 +1447,6 @@
                     </div>
                     <div class="page-content">
                         <!-- Portfolio Content -->
-
                         <!-- Testimonials -->
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
@@ -1589,7 +1507,6 @@
                                         <!-- /Testimonial Content -->
                                     </div>
                                     <!-- End of Testimonial 2 -->
-
                                     <!-- Testimonial 3 -->
                                     <div class="testimonial-item">
                                         <!-- Testimonial Author -->
@@ -1806,7 +1723,7 @@
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span> 0176-64343412</span>
+                                    <span class="marg-bottom"> 0176-64343412</span>
                                 </h3>
                             </div>
                         </div>
@@ -2063,7 +1980,7 @@
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span> 0176-64343412</span>
+                                    <span class="marg-bottom"> 0176-64343412</span>
                                 </h3>
                             </div>
                         </div>

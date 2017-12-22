@@ -1,0 +1,20 @@
+@media print { 
+	.block-title {
+		font-size:0.9rem
+	}
+	
+	.block-title .mCS_img_loaded.img-portrait-resume {
+		height:300px;
+	}
+	
+	.about-me p {
+		font-size: 0.75rem;
+	}
+	
+    .site-nav { 
+        display: none; 
+    }
+	
+    div { 
+    }
+}
