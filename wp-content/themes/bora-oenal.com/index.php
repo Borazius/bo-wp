@@ -652,6 +652,127 @@
                                 </section>
                                 <!-- END Meine Arbeiten -->
                             </div>
+                            <!-- Testimonials -->
+                            <div class="row">
+                                <div class="col-sm-12 col-md-12">
+                                    <div class="block-title">
+                                        <h3>Testimonials</h3>
+                                    </div>
+                                    <div class="testimonials owl-carousel block">
+                                        <!-- Testimonial 1 -->
+                                        <div class="testimonial-item">
+                                            <!-- Testimonial Author -->
+                                            <div class="testimonial-credits">
+                                                <!-- Picture -->
+                                                <div class="testimonial-picture">
+                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/cihan-erkan-foto.jpg" alt="cihan-erkan-mobile-lounge">
+                                                </div>
+                                                <!-- /Picture -->
+                                                <!-- Testimonial author information -->
+                                                <div class="testimonial-author-info">
+                                                    <p class="testimonial-author">Cihan Erkan</p>
+                                                    <p class="testimonial-firm">Mobile-Lounge</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial author information -->
+                                            <!-- Testimonial Content -->
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-text">
+                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
+                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
+                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial Content -->
+                                        </div>
+                                        <!-- End of Testimonial 1 -->
+
+                                        <!-- Testimonial 2 -->
+                                        <div class="testimonial-item">
+                                            <!-- Testimonial Author -->
+                                            <div class="testimonial-credits">
+                                                <!-- Picture -->
+                                                <div class="testimonial-picture">
+                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/julia-merk-foto.jpg" alt="julia-merk">
+                                                </div>
+                                                <!-- /Picture -->
+                                                <!-- Testimonial author information -->
+                                                <div class="testimonial-author-info">
+                                                    <p class="testimonial-author">Julia Merk</p>
+                                                    <p class="testimonial-firm">Merk-Presonalservice</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial author information -->
+                                            <!-- Testimonial Content -->
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-text">
+                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
+                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
+                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial Content -->
+                                        </div>
+                                        <!-- End of Testimonial 2 -->
+                                        <!-- Testimonial 3 -->
+                                        <div class="testimonial-item">
+                                            <!-- Testimonial Author -->
+                                            <div class="testimonial-credits">
+                                                <!-- Picture -->
+                                                <div class="testimonial-picture">
+                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/devrim-ördek-foto.jpg" alt="devrim-ördek">
+                                                </div>
+                                                <!-- /Picture -->
+                                                <!-- Testimonial author information -->
+                                                <div class="testimonial-author-info">
+
+                                                    <p class="testimonial-author">Devrim Ördek</p>
+                                                    <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial author information -->
+                                            <!-- Testimonial Content -->
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-text">
+                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
+                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
+                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial Content -->
+                                        </div>
+                                        <!-- End of Testimonial 3 -->
+                                        <!-- Testimonial 4 -->
+                                        <div class="testimonial-item">
+                                            <!-- Testimonial Author -->
+                                            <div class="testimonial-credits">
+                                                <!-- Picture -->
+                                                <div class="testimonial-picture">
+                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/hakan-temizer-foto.jpg" alt="hakan-temizer">
+                                                </div>
+                                                <!-- /Picture -->
+                                                <!-- Testimonial author information -->
+                                                <div class="testimonial-author-info">
+                                                    <p class="testimonial-author">Hakan Temizer</p>
+                                                    <p class="testimonial-firm">Naturheilpraxis Pforzheim & Hypnosetherapie Pforzheim</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial author information -->
+                                            <!-- Testimonial Content -->
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-text">
+                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
+                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
+                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                </div>
+                                            </div>
+                                            <!-- /Testimonial Content -->
+                                        </div>
+                                        <!-- End of Testimonial 4 -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End of Tesimonials -->
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="about-me">
                                     <div class="block-title">
