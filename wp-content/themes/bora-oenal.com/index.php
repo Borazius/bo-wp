@@ -105,8 +105,7 @@
                                         <span>individuell, nachhaltig und professionell</span>
                                     </h3>
                                 </div>
-                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/portfolio/portfolio-boraoenal.png"
-                                    alt="blog-post-1">
+                                <img class="post-image img-responsive" src="<?php bloginfo('template_url');?>/images/responsive-default.png" alt="webdesign-pforzheim">
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title">
@@ -1364,7 +1363,7 @@
                                             <span>Responsive</span>
                                         </h3>
                                     </div>
-                                    <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.png" alt="Webagentur Pforzheim" class="mCS_img_loaded">
+                                    <img src="<?php bloginfo('template_url');?>/images/leistungen/responsive-design.png" alt="Webagentur Pforzheim" class="mCS_img_loaded">
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                     <ul class="leist_ul">
