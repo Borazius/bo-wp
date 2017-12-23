@@ -105,7 +105,7 @@
                                         <span>individuell, nachhaltig und professionell</span>
                                     </h3>
                                 </div>
-                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive2.png"
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/portfolio/portfolio-boraoenal.png"
                                     alt="blog-post-1">
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -1243,7 +1243,7 @@
                                             <span>Responsive</span>
                                         </h3>
                                     </div>
-                                    <img src="<?php bloginfo('template_url');?>/images/responsive.png" alt="Webagentur Pforzheim" class="mCS_img_loaded">
+                                    <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.png" alt="Webagentur Pforzheim" class="mCS_img_loaded">
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                     <ul class="leist_ul">
@@ -1608,10 +1608,10 @@
                             <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
                                 <!-- Portfolio Item 1 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-ubeybi.jpg" class="lightbox" title="portfolio-ubeybi">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" alt="portfolio-naturheilpraxis-pforzheim">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" class="lightbox" title="portfolio-naturheilpraxis-pforzheim">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer-sml.jpg" alt="portfolio-naturheilpraxis-pforzheim">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Naturheilpraxis Pforzheim</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1621,10 +1621,10 @@
 
                                 <!-- Portfolio Item 2 -->
                                 <figure class="item" data-groups='["all", "video"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" class="lightbox" title="portfolio-naturheilpraxis-pforzheim">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi.jpg" alt="portfolio-ubeybi">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi.jpg" class="lightbox" title="portfolio-ubeybi">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi-sml.jpg" alt="portfolio-ubeybi">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Ubeybi.com</h5>
                                             <small>Video</small>
                                             <i class="fa fa-video-camera"></i>
                                         </div>
@@ -1635,9 +1635,9 @@
                                 <!-- Portfolio Item 3 -->
                                 <figure class="item" data-groups='["all","illustration"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" class="lightbox" title="portfolio-merk-personalservice">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" alt="portfolio-merk-personalservice.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice-sml.jpg" alt="portfolio-merk-personalservice.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Merk-Personalservice</h5>
                                             <small>Illustration</small>
                                             <i class="fa fa-image"></i>
                                         </div>
@@ -1648,9 +1648,9 @@
                                 <!-- Portfolio Item 4 -->
                                 <figure class="item" data-groups='["all", "media"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" class="lightbox" title="portfolio-southside-rockers">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" alt="portfolio-southside-rockers.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers-sml.jpg" alt="portfolio-southside-rockers.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Southside-Rockers</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1661,9 +1661,9 @@
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "illustration"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" class="lightbox" title="portfolio-hypnosetherapie-temizer">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" alt="portfolio-hypnosetherapie-temizer.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer-sml.jpg" alt="portfolio-hypnosetherapie-temizer.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Hypnosetherapie Temizer</h5>
                                             <small>Illustration</small>
                                             <i class="fa fa-image"></i>
                                         </div>
@@ -1674,9 +1674,9 @@
                                 <!-- Portfolio Item 6 -->
                                 <figure class="item" data-groups='["all", "media"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" class="lightbox" title="portfolio-ba-carcenter">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" alt="portfolio-ba-carcenter.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter-sml.jpg" alt="portfolio-ba-carcenter.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">BA-Carcenter</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1685,10 +1685,10 @@
                                 <!-- /Portfolio Item 6 -->
                                 <!-- Portfolio Item 7 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-mythos.jpg" class="lightbox" title="portfolio-mythos">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos.jpg" alt="portfolio-mythos.jpg">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos.jpg" class="lightbox" title="portfolio-mythos">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos-sml.jpg" alt="portfolio-mythos.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Mythos Istanbul</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1699,9 +1699,9 @@
                                 <!-- Portfolio Item 8 -->
                                 <figure class="item" data-groups='["all", "video"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" class="lightbox" title="portfolio-gueven-al">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" alt="portfolio-gueven-al.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al-sml.jpg" alt="portfolio-gueven-al.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Güven-Al GmbH</h5>
                                             <small>Video</small>
                                             <i class="fa fa-video-camera"></i>
                                         </div>
@@ -1712,9 +1712,9 @@
                                 <!-- Portfolio Item 9 -->
                                 <figure class="item" data-groups='["all","illustration"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" class="lightbox" title="portfolio-hacamat-tedavi">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" alt="portfolio-hacamat-tedavi.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi-sml.jpg" alt="portfolio-hacamat-tedavi.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Hacamat Tedavi</h5>
                                             <small>Illustration</small>
                                             <i class="fa fa-image"></i>
                                         </div>
@@ -1725,9 +1725,9 @@
                                 <!-- Portfolio Item 10 -->
                                 <figure class="item" data-groups='["all", "media"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" class="lightbox" title="portfolio-mobile-lounge">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" alt="portfolio-mobile-lounge.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge-sml.jpg" alt="portfolio-mobile-lounge.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Mobile-Lounge</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1738,9 +1738,9 @@
                                 <!-- Portfolio Item 11 -->
                                 <figure class="item" data-groups='["all", "illustration"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" class="lightbox" title="portfolio-happy-people">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" alt="portfolio-happy-people.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people-sml.jpg" alt="portfolio-happy-people.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Happy-People Project</h5>
                                             <small>Illustration</small>
                                             <i class="fa fa-image"></i>
                                         </div>
@@ -1751,9 +1751,9 @@
                                 <!-- Portfolio Item 12 -->
                                 <figure class="item" data-groups='["all", "media"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" class="lightbox" title="portfolio-felicithy">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" alt="portfolio-felicithy.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy-sml.jpg" alt="portfolio-felicithy.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Felicithy</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1764,9 +1764,9 @@
                                 <!-- Portfolio Item 13 -->
                                 <figure class="item" data-groups='["all", "media"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" class="lightbox" title="portfolio-artistikworld">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" alt="portfolio-artistikworld.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld-sml.jpg" alt="portfolio-artistikworld.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Artistik-World</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
@@ -1777,9 +1777,9 @@
                                 <!-- Portfolio Item 14 -->
                                 <figure class="item" data-groups='["all", "illustration"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" class="lightbox" title="portfolio-dandt-pizza">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" alt="portfolio-dandt-pizza.jpg">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza-sml.jpg" alt="portfolio-dandt-pizza.jpg">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">D&T-Pizza</h5>
                                             <small>Illustration</small>
                                             <i class="fa fa-image"></i>
                                         </div>
@@ -1789,10 +1789,10 @@
 
                                 <!-- Portfolio Item 15 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-boraoenal.jpg" class="lightbox" title="webdesigner-pforzheim">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.jpg" alt="webdesign-pforzheim">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.jpg" class="lightbox" title="webdesigner-pforzheim">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal-sml.jpg" alt="webdesign-pforzheim">
                                         <div>
-                                            <h5 class="name">Project Name</h5>
+                                            <h5 class="name">Bora Önal</h5>
                                             <small>Media</small>
                                             <i class="fa fa-file-text-o"></i>
                                         </div>
