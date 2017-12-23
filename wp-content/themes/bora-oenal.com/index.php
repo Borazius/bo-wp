@@ -1593,13 +1593,16 @@
                                     <a class="filter btn btn-sm btn-link active" data-group="all">All</a>
                                 </li>
                                 <li>
-                                    <a class="filter btn btn-sm btn-link" data-group="media">Media</a>
+                                    <a class="filter btn btn-sm btn-link" data-group="beratung">Beratung</a>
                                 </li>
                                 <li>
-                                    <a class="filter btn btn-sm btn-link" data-group="illustration">Illustration</a>
+                                    <a class="filter btn btn-sm btn-link" data-group="konzeption">Konzeption & Design</a>
                                 </li>
                                 <li>
-                                    <a class="filter btn btn-sm btn-link" data-group="video">Video</a>
+                                    <a class="filter btn btn-sm btn-link" data-group="coding">Programmierung</a>
+                                </li>
+                                <li>
+                                    <a class="filter btn btn-sm btn-link" data-group="support">Support & Wartung</a>
                                 </li>
                             </ul>
                             <!-- End of Portfolio filter -->
@@ -1607,194 +1610,194 @@
                             <!-- Portfolio Grid -->
                             <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
                                 <!-- Portfolio Item 1 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" class="lightbox" title="portfolio-naturheilpraxis-pforzheim">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer-sml.jpg" alt="portfolio-naturheilpraxis-pforzheim">
                                         <div>
                                             <h5 class="name">Naturheilpraxis Pforzheim</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 1 -->
 
                                 <!-- Portfolio Item 2 -->
-                                <figure class="item" data-groups='["all", "video"]'>
+                                <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi.jpg" class="lightbox" title="portfolio-ubeybi">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi-sml.jpg" alt="portfolio-ubeybi">
                                         <div>
                                             <h5 class="name">Ubeybi.com</h5>
-                                            <small>Video</small>
-                                            <i class="fa fa-video-camera"></i>
+                                            <small>WooCommerce</small>
+                                            <i class="fa fa-users"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 2 -->
 
                                 <!-- Portfolio Item 3 -->
-                                <figure class="item" data-groups='["all","illustration"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" class="lightbox" title="portfolio-merk-personalservice">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice-sml.jpg" alt="portfolio-merk-personalservice.jpg">
                                         <div>
                                             <h5 class="name">Merk-Personalservice</h5>
-                                            <small>Illustration</small>
-                                            <i class="fa fa-image"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 3 -->
 
                                 <!-- Portfolio Item 4 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" class="lightbox" title="portfolio-southside-rockers">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers-sml.jpg" alt="portfolio-southside-rockers.jpg">
                                         <div>
                                             <h5 class="name">Southside-Rockers</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress, Bootstrap</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 4 -->
 
                                 <!-- Portfolio Item 5 -->
-                                <figure class="item" data-groups='["all", "illustration"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" class="lightbox" title="portfolio-hypnosetherapie-temizer">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer-sml.jpg" alt="portfolio-hypnosetherapie-temizer.jpg">
                                         <div>
                                             <h5 class="name">Hypnosetherapie Temizer</h5>
-                                            <small>Illustration</small>
-                                            <i class="fa fa-image"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 5 -->
 
                                 <!-- Portfolio Item 6 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" class="lightbox" title="portfolio-ba-carcenter">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter-sml.jpg" alt="portfolio-ba-carcenter.jpg">
                                         <div>
                                             <h5 class="name">BA-Carcenter</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 6 -->
                                 <!-- Portfolio Item 7 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos.jpg" class="lightbox" title="portfolio-mythos">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos-sml.jpg" alt="portfolio-mythos.jpg">
                                         <div>
                                             <h5 class="name">Mythos Istanbul</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>Frontend-Entwicklung</small>
+                                            <i class="fa fa-users"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 7 -->
 
                                 <!-- Portfolio Item 8 -->
-                                <figure class="item" data-groups='["all", "video"]'>
+                                <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" class="lightbox" title="portfolio-gueven-al">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al-sml.jpg" alt="portfolio-gueven-al.jpg">
                                         <div>
                                             <h5 class="name">Güven-Al GmbH</h5>
-                                            <small>Video</small>
-                                            <i class="fa fa-video-camera"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-users"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 8 -->
 
                                 <!-- Portfolio Item 9 -->
-                                <figure class="item" data-groups='["all","illustration"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" class="lightbox" title="portfolio-hacamat-tedavi">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi-sml.jpg" alt="portfolio-hacamat-tedavi.jpg">
                                         <div>
                                             <h5 class="name">Hacamat Tedavi</h5>
-                                            <small>Illustration</small>
-                                            <i class="fa fa-image"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 9 -->
 
                                 <!-- Portfolio Item 10 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" class="lightbox" title="portfolio-mobile-lounge">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge-sml.jpg" alt="portfolio-mobile-lounge.jpg">
                                         <div>
                                             <h5 class="name">Mobile-Lounge</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 10 -->
 
                                 <!-- Portfolio Item 11 -->
-                                <figure class="item" data-groups='["all", "illustration"]'>
+                                <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" class="lightbox" title="portfolio-happy-people">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people-sml.jpg" alt="portfolio-happy-people.jpg">
                                         <div>
                                             <h5 class="name">Happy-People Project</h5>
-                                            <small>Illustration</small>
-                                            <i class="fa fa-image"></i>
+                                            <small>Technologieberatung</small>
+                                            <i class="fa fa-users"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 11 -->
 
                                 <!-- Portfolio Item 12 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" class="lightbox" title="portfolio-felicithy">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy-sml.jpg" alt="portfolio-felicithy.jpg">
                                         <div>
                                             <h5 class="name">Felicithy</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 12 -->
 
                                 <!-- Portfolio Item 13 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" class="lightbox" title="portfolio-artistikworld">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld-sml.jpg" alt="portfolio-artistikworld.jpg">
                                         <div>
                                             <h5 class="name">Artistik-World</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>Magento</small>
+                                            <i class="fa fa-life-ring"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 13 -->
 
                                 <!-- Portfolio Item 14 -->
-                                <figure class="item" data-groups='["all", "illustration"]'>
+                                <figure class="item" data-groups='["all", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" class="lightbox" title="portfolio-dandt-pizza">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza-sml.jpg" alt="portfolio-dandt-pizza.jpg">
                                         <div>
                                             <h5 class="name">D&T-Pizza</h5>
-                                            <small>Illustration</small>
-                                            <i class="fa fa-image"></i>
+                                            <small>Technologieberatung</small>
+                                            <i class="fa fa-life-ring"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 14 -->
 
                                 <!-- Portfolio Item 15 -->
-                                <figure class="item" data-groups='["all", "media"]'>
+                                <figure class="item" data-groups='["all", "konzeption", "coding"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.jpg" class="lightbox" title="webdesigner-pforzheim">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal-sml.jpg" alt="webdesign-pforzheim">
                                         <div>
                                             <h5 class="name">Bora Önal</h5>
-                                            <small>Media</small>
-                                            <i class="fa fa-file-text-o"></i>
+                                            <small>WordPress, WordPress</small>
+                                            <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>

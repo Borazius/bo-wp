@@ -1,4 +1,3 @@
-
 .portfolio-grid {
     margin-left: -0.5em;
     margin-right: -0.5em;
@@ -89,7 +88,7 @@
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
-    background-color: #9e51f3;
+    background-color: #0560a9;
 }
 
 .portfolio-grid figure a:hover div {
