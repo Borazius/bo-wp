@@ -1456,13 +1456,13 @@
                                         <div class="testimonial-credits">
                                             <!-- Picture -->
                                             <div class="testimonial-picture">
-                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_1.jpg" alt="">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/cihan-erkan-foto.jpg" alt="cihan-erkan-mobile-lounge">
                                             </div>
                                             <!-- /Picture -->
                                             <!-- Testimonial author information -->
                                             <div class="testimonial-author-info">
-                                                <p class="testimonial-author">Maria Richardson</p>
-                                                <p class="testimonial-firm">Lindsley's Lumber</p>
+                                                <p class="testimonial-author">Cihan Erkan</p>
+                                                <p class="testimonial-firm">Mobile-Lounge</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial author information -->
@@ -1470,7 +1470,8 @@
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
                                                 <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
-                                                    ipsum sed massa."</p>
+                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
+                                                    eros. Sed sed ipsum sed massa."</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1483,21 +1484,22 @@
                                         <div class="testimonial-credits">
                                             <!-- Picture -->
                                             <div class="testimonial-picture">
-                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_2.jpg" alt="">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/julia-merk-foto.jpg" alt="julia-merk">
                                             </div>
                                             <!-- /Picture -->
                                             <!-- Testimonial author information -->
                                             <div class="testimonial-author-info">
-                                                <p class="testimonial-author">John Doe</p>
-                                                <p class="testimonial-firm">Apple Inc.</p>
+                                                <p class="testimonial-author">Julia Merk</p>
+                                                <p class="testimonial-firm">Merk-Presonalservice</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial author information -->
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Vivamus porta dapibus tristique. Suspendisse et arcu eget nisi convallis
-                                                    eleifend nec ac lorem.</p>
+                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
+                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
+                                                    eros. Sed sed ipsum sed massa."</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1509,21 +1511,23 @@
                                         <div class="testimonial-credits">
                                             <!-- Picture -->
                                             <div class="testimonial-picture">
-                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_3.jpg" alt="">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/devrim-ördek-foto.jpg" alt="devrim-ördek">
                                             </div>
                                             <!-- /Picture -->
                                             <!-- Testimonial author information -->
                                             <div class="testimonial-author-info">
-                                                <p class="testimonial-author">George McQueen</p>
-                                                <p class="testimonial-firm">Harmony House</p>
+
+                                                <p class="testimonial-author">Devrim Ördek</p>
+                                                <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial author information -->
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis
-                                                    sapien lacinia egestas."</p>
+                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
+                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
+                                                    eros. Sed sed ipsum sed massa."</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1535,52 +1539,27 @@
                                         <div class="testimonial-credits">
                                             <!-- Picture -->
                                             <div class="testimonial-picture">
-                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_3.jpg" alt="">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/hakan-temizer-foto.jpg" alt="hakan-temizer">
                                             </div>
                                             <!-- /Picture -->
                                             <!-- Testimonial author information -->
                                             <div class="testimonial-author-info">
-                                                <p class="testimonial-author">George McQueen</p>
-                                                <p class="testimonial-firm">Harmony House</p>
+                                                <p class="testimonial-author">Hakan Temizer</p>
+                                                <p class="testimonial-firm">Naturheilpraxis Pforzheim & Hypnosetherapie Pforzheim</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial author information -->
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis
-                                                    sapien lacinia egestas."</p>
+                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
+                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
+                                                    eros. Sed sed ipsum sed massa."</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
                                     </div>
                                     <!-- End of Testimonial 4 -->
-                                    <!-- Testimonial 5 -->
-                                    <div class="testimonial-item">
-                                        <!-- Testimonial Author -->
-                                        <div class="testimonial-credits">
-                                            <!-- Picture -->
-                                            <div class="testimonial-picture">
-                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_3.jpg" alt="">
-                                            </div>
-                                            <!-- /Picture -->
-                                            <!-- Testimonial author information -->
-                                            <div class="testimonial-author-info">
-                                                <p class="testimonial-author">George McQueen</p>
-                                                <p class="testimonial-firm">Harmony House</p>
-                                            </div>
-                                        </div>
-                                        <!-- /Testimonial author information -->
-                                        <!-- Testimonial Content -->
-                                        <div class="testimonial-content">
-                                            <div class="testimonial-text">
-                                                <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis
-                                                    sapien lacinia egestas."</p>
-                                            </div>
-                                        </div>
-                                        <!-- /Testimonial Content -->
-                                    </div>
-                                    <!-- End of Testimonial 5 -->
                                 </div>
                             </div>
                         </div>
