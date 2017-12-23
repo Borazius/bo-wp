@@ -516,10 +516,6 @@
                                                             <p>
                                                                 <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung
                                                                 und Wartung
-                                                            </p>
-                                                            <p>
-                                                                <strong>Über BA-Carcenter:</strong> Der Spezialist für Gebrauchtwagen
-                                                                in Pforzheim
                                                                 </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
@@ -1533,6 +1529,58 @@
                                         <!-- /Testimonial Content -->
                                     </div>
                                     <!-- End of Testimonial 3 -->
+                                    <!-- Testimonial 4 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_3.jpg" alt="">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">George McQueen</p>
+                                                <p class="testimonial-firm">Harmony House</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis
+                                                    sapien lacinia egestas."</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 4 -->
+                                    <!-- Testimonial 5 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/testimonial_photo_3.jpg" alt="">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">George McQueen</p>
+                                                <p class="testimonial-firm">Harmony House</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"Aliquam congue auctor lectus sed fermentum. Nulla ultricies tellus quis
+                                                    sapien lacinia egestas."</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 5 -->
                                 </div>
                             </div>
                         </div>
@@ -1560,8 +1608,8 @@
                             <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
                                 <!-- Portfolio Item 1 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a class="ajax-page-load" href="portfolio-1.html">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-ubeybi.jpg" class="lightbox" title="portfolio-ubeybi">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" alt="portfolio-naturheilpraxis-pforzheim">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Media</small>
@@ -1573,8 +1621,8 @@
 
                                 <!-- Portfolio Item 2 -->
                                 <figure class="item" data-groups='["all", "video"]'>
-                                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Praesent Dolor Ex" class="lightbox mfp-iframe">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-naturheilpraxis-temizer.jpg" class="lightbox" title="portfolio-naturheilpraxis-pforzheim">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi.jpg" alt="portfolio-ubeybi">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Video</small>
@@ -1586,8 +1634,8 @@
 
                                 <!-- Portfolio Item 3 -->
                                 <figure class="item" data-groups='["all","illustration"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/full/placeholder.jpg" class="lightbox" title="Duis Eu Eros Viverra">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" class="lightbox" title="portfolio-merk-personalservice">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" alt="portfolio-merk-personalservice.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Illustration</small>
@@ -1599,8 +1647,8 @@
 
                                 <!-- Portfolio Item 4 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a class="ajax-page-load" href="portfolio-2.html">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" class="lightbox" title="portfolio-southside-rockers">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" alt="portfolio-southside-rockers.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Media</small>
@@ -1612,8 +1660,8 @@
 
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "illustration"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/full/5.jpg" class="lightbox" title="Aliquam Condimentum Magna Rhoncus">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" class="lightbox" title="portfolio-hypnosetherapie-temizer">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" alt="portfolio-hypnosetherapie-temizer.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Illustration</small>
@@ -1625,8 +1673,8 @@
 
                                 <!-- Portfolio Item 6 -->
                                 <figure class="item" data-groups='["all", "media"]'>
-                                    <a class="ajax-page-load" href="portfolio-3.html">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" class="lightbox" title="portfolio-ba-carcenter">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" alt="portfolio-ba-carcenter.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Media</small>
@@ -1635,24 +1683,10 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 6 -->
-
                                 <!-- Portfolio Item 7 -->
-                                <figure class="item" data-groups='["all", "video"]'>
-                                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Nulla Facilisi" class="lightbox mfp-iframe">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
-                                        <div>
-                                            <h5 class="name">Project Name</h5>
-                                            <small>Video</small>
-                                            <i class="fa fa-video-camera"></i>
-                                        </div>
-                                    </a>
-                                </figure>
-                                <!-- /Portfolio Item 7 -->
-
-                                <!-- Portfolio Item 8 -->
-                                <figure class="item" data-groups='["all",  "media"]'>
-                                    <a class="ajax-page-load" href="portfolio-4.html">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                <figure class="item" data-groups='["all", "media"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-mythos.jpg" class="lightbox" title="portfolio-mythos">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mythos.jpg" alt="portfolio-mythos.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Media</small>
@@ -1660,12 +1694,25 @@
                                         </div>
                                     </a>
                                 </figure>
+                                <!-- /Portfolio Item 7 -->
+
+                                <!-- Portfolio Item 8 -->
+                                <figure class="item" data-groups='["all", "video"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" class="lightbox" title="portfolio-gueven-al">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" alt="portfolio-gueven-al.jpg">
+                                        <div>
+                                            <h5 class="name">Project Name</h5>
+                                            <small>Video</small>
+                                            <i class="fa fa-video-camera"></i>
+                                        </div>
+                                    </a>
+                                </figure>
                                 <!-- /Portfolio Item 8 -->
 
                                 <!-- Portfolio Item 9 -->
                                 <figure class="item" data-groups='["all","illustration"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/full/9.jpg" class="lightbox" title="Mauris Neque Dolor">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" class="lightbox" title="portfolio-hacamat-tedavi">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" alt="portfolio-hacamat-tedavi.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Illustration</small>
@@ -1676,22 +1723,22 @@
                                 <!-- /Portfolio Item 9 -->
 
                                 <!-- Portfolio Item 10 -->
-                                <figure class="item" data-groups='["all", "video"]'>
-                                    <a href="https://player.vimeo.com/video/97102654?autoplay=1" title="Donec Lectus Arcu" class="lightbox mfp-iframe">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                <figure class="item" data-groups='["all", "media"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" class="lightbox" title="portfolio-mobile-lounge">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" alt="portfolio-mobile-lounge.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
-                                            <small>Video</small>
-                                            <i class="fa fa-video-camera"></i>
+                                            <small>Media</small>
+                                            <i class="fa fa-file-text-o"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 10 -->
 
                                 <!-- Portfolio Item 11 -->
-                                <figure class="item" data-groups='["all","illustration"]'>
-                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/full/11.jpg" class="lightbox" title="Duis Eu Eros Viverra">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                <figure class="item" data-groups='["all", "illustration"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" class="lightbox" title="portfolio-happy-people">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" alt="portfolio-happy-people.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Illustration</small>
@@ -1702,9 +1749,9 @@
                                 <!-- /Portfolio Item 11 -->
 
                                 <!-- Portfolio Item 12 -->
-                                <figure class="item" data-groups='["all","media"]'>
-                                    <a class="ajax-page-load" href="portfolio-5.html">
-                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/placeholder.jpg" alt="">
+                                <figure class="item" data-groups='["all", "media"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" class="lightbox" title="portfolio-felicithy">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" alt="portfolio-felicithy.jpg">
                                         <div>
                                             <h5 class="name">Project Name</h5>
                                             <small>Media</small>
@@ -1713,6 +1760,46 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 12 -->
+
+                                <!-- Portfolio Item 13 -->
+                                <figure class="item" data-groups='["all", "media"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" class="lightbox" title="portfolio-artistikworld">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" alt="portfolio-artistikworld.jpg">
+                                        <div>
+                                            <h5 class="name">Project Name</h5>
+                                            <small>Media</small>
+                                            <i class="fa fa-file-text-o"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <!-- /Portfolio Item 13 -->
+
+                                <!-- Portfolio Item 14 -->
+                                <figure class="item" data-groups='["all", "illustration"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" class="lightbox" title="portfolio-dandt-pizza">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" alt="portfolio-dandt-pizza.jpg">
+                                        <div>
+                                            <h5 class="name">Project Name</h5>
+                                            <small>Illustration</small>
+                                            <i class="fa fa-image"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <!-- /Portfolio Item 14 -->
+
+                                <!-- Portfolio Item 15 -->
+                                <figure class="item" data-groups='["all", "media"]'>
+                                    <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio/portfolio-boraoenal.jpg" class="lightbox" title="webdesigner-pforzheim">
+                                        <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.jpg" alt="webdesign-pforzheim">
+                                        <div>
+                                            <h5 class="name">Project Name</h5>
+                                            <small>Media</small>
+                                            <i class="fa fa-file-text-o"></i>
+                                        </div>
+                                    </a>
+                                </figure>
+                                <!-- /Portfolio Item 15 -->
+
                             </div>
                             <!-- /Portfolio Grid -->
                         </div>

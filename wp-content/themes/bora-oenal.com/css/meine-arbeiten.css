@@ -1064,6 +1064,7 @@ h2.calloutHeader {
     margin: 0;
     -webkit-transition: all .5s ease;
     transition: all .5s ease;
+	top: 1px;
 }
 
 .c-project__media:before {
