@@ -32,16 +32,16 @@
                                     </div>
                                 </div>
                                 <div class="social-links">
-                                    <a href="#">
+                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
                                         <i class="fa fa-facebook"></i>
                                     </a>
-                                    <a href="#">
+                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
-                                    <a href="#">
+                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
                                         <i class="fa fa-xing"></i>
                                     </a>
-                                    <a href="#">
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
                                         <i class="fa fa-linkedin"></i>
                                     </a>
                                 </div>
@@ -677,9 +677,11 @@
                                             <!-- Testimonial Content -->
                                             <div class="testimonial-content">
                                                 <div class="testimonial-text">
-                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
-                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
-                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                    <p>"Die Zusammenarbeit mit Bora war ein voller Erfolg und die Umsetzung
+                                                        der Website erfolgte in kürzsester Zeit. Neben einer professionellen
+                                                        Beratung haben besonders die schnellen Reaktionszeiten einen positiven
+                                                        und bleibenden Eindruck hinterlassen. "
+                                                    </p>
                                                 </div>
                                             </div>
                                             <!-- /Testimonial Content -->
@@ -705,9 +707,10 @@
                                             <!-- Testimonial Content -->
                                             <div class="testimonial-content">
                                                 <div class="testimonial-text">
-                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
-                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
-                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                    <p>" Bora kann ich wärmstens empfehlen. Ein zuverlässiger Partner, mit dem
+                                                        man gerne weitere Projekte ausführt. Ich war mit der gelieferten
+                                                        Arbeit und insbesondere auch mit dem sehr schnellen, freundlichen
+                                                        und kompetenten Kontakt sehr zufrieden. Gerne immer wieder!"</p>
                                                 </div>
                                             </div>
                                             <!-- /Testimonial Content -->
@@ -733,9 +736,11 @@
                                             <!-- Testimonial Content -->
                                             <div class="testimonial-content">
                                                 <div class="testimonial-text">
-                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
-                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
-                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                    <p>" Bereits seit 2010 wissen wir mit Bora einen verlässlichen und kompetenten
+                                                        Partner an unserer Seite. Ein kreativer Kopf der sein Handwerk versteht.
+                                                        Problemlösungen werden gleich angeboten, besprochen und sofort in
+                                                        die Tat umgesetzt. "
+                                                    </p>
                                                 </div>
                                             </div>
                                             <!-- /Testimonial Content -->
@@ -760,9 +765,10 @@
                                             <!-- Testimonial Content -->
                                             <div class="testimonial-content">
                                                 <div class="testimonial-text">
-                                                    <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed
-                                                        sed ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae,
-                                                        pretium eros. Sed sed ipsum sed massa."</p>
+                                                    <p>"Bora war ein absoluter Glücksgriff für mich. Er hat drei Webprojekte
+                                                        zu meinem vollsten Zufriedenheit umgesetzt. Seit dem Relaunch und
+                                                        Optimierung der Webseiten konnte ich mehr Kunden über das Internet
+                                                        generien, Bora sei Dank und gerne immer wieder!"</p>
                                                 </div>
                                             </div>
                                             <!-- /Testimonial Content -->
@@ -1589,9 +1595,11 @@
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
-                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
-                                                    eros. Sed sed ipsum sed massa."</p>
+                                                <p>"Die Zusammenarbeit mit Bora war ein voller Erfolg und die Umsetzung der
+                                                    Website erfolgte in kürzsester Zeit. Neben einer professionellen Beratung
+                                                    haben besonders die schnellen Reaktionszeiten einen positiven und bleibenden
+                                                    Eindruck hinterlassen. "
+                                                </p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1617,9 +1625,10 @@
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
-                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
-                                                    eros. Sed sed ipsum sed massa."</p>
+                                                <p>" Bora kann ich wärmstens empfehlen. Ein zuverlässiger Partner, mit dem man
+                                                    gerne weitere Projekte ausführt. Ich war mit der gelieferten Arbeit und
+                                                    insbesondere auch mit dem sehr schnellen, freundlichen und kompetenten
+                                                    Kontakt sehr zufrieden. Gerne immer wieder!"</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1645,9 +1654,11 @@
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
-                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
-                                                    eros. Sed sed ipsum sed massa."</p>
+                                                <p>" Bereits seit 2010 wissen wir mit Bora einen verlässlichen und kompetenten
+                                                    Partner an unserer Seite. Ein kreativer Kopf der sein Handwerk versteht.
+                                                    Problemlösungen werden gleich angeboten, besprochen und sofort in die
+                                                    Tat umgesetzt. "
+                                                </p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -1672,9 +1683,10 @@
                                         <!-- Testimonial Content -->
                                         <div class="testimonial-content">
                                             <div class="testimonial-text">
-                                                <p>"Phasellus eu nunc tincidunt, ultricies elit vitae, pretium eros. Sed sed
-                                                    ipsum sed massa.Phasellus eu nunc tincidunt, ultricies elit vitae, pretium
-                                                    eros. Sed sed ipsum sed massa."</p>
+                                                <p>"Bora war ein absoluter Glücksgriff für mich. Er hat drei Webprojekte zu
+                                                    meinem vollsten Zufriedenheit umgesetzt. Seit dem Relaunch und Optimierung
+                                                    der Webseiten konnte ich mehr Kunden über das Internet generien, Bora
+                                                    sei Dank und gerne immer wieder!"</p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
