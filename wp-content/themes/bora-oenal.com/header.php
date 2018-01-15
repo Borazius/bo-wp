@@ -25,7 +25,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="<?php bloginfo('template_url');?>/images/favicon/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="<?php bloginfo('template_url');?>/images/favicon/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="<?php bloginfo('template_url');?>/images/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="<?php bloginfo('template_url');?>/images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="<?php bloginfo('template_url');?>/images/favicon/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php bloginfo('template_url');?>/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="<?php bloginfo('template_url');?>/images/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php bloginfo('template_url');?>/images/favicon/favicon-16x16.png">
@@ -35,7 +35,7 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="shortcut icon" href="<?php bloginfo('template_url');?>/images/favicon/favicon.ico?v=2">
 
-    <!--    CSS --> 
+    <!--    CSS -->
     <link rel="stylesheet" href="<?php bloginfo('template_url');?>/style.css" type="text/css">
 
     <!-- JS -->
@@ -53,7 +53,7 @@
     
     </script> -->
     <script src='https://www.google.com/recaptcha/api.js'></script>
-	
+
 </head>
 
 <body class="material-template">
@@ -73,23 +73,28 @@
             <div class="header-content">
                 <div class="site-title-block mobile-hidden">
                     <a class="navbar-brand" href="/">
-                        <img src="<?php bloginfo('template_url');?>/images/logo.png" alt="Bora Önal">
+                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/logo.png" alt="Bora Önal">
                     </a>
+
+                    <div class="phone-info">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <a href="tel:017664343412" class="et-info-phone">0176-64343412 </a>
+                    </div>
 
                     <!-- Navigation -->
                     <div class="site-nav">
                         <!-- Main menu -->
                         <ul id="nav" class="site-main-menu">
-                            <li>
+                            <li class="active">
                                 <a class="pt-trigger" href="#home">Startseite</a>
                                 <!-- href value = data-id without # of .pt-page. -->
                             </li>
-							<li>
+                            <li>
                                 <a class="pt-trigger" href="#leistungen">Leistungen</a>
                             </li>
                             <li>
                                 <a class="pt-trigger" href="#cv">Über Mich</a>
-                            </li>                    
+                            </li>
                             <li>
                                 <a class="pt-trigger" href="#portfolio">Portfolio</a>
                             </li>
@@ -99,11 +104,12 @@
                             <li>
                                 <a class="pt-trigger" href="#kontakt">Kontakt</a>
                             </li>
+
                         </ul>
                         <!-- /Main menu -->
-                       
-                    
-                    <!-- Navigation -->
+
+
+                        <!-- Navigation -->
                     </div>
                 </div>
             </div>
@@ -121,8 +127,3 @@
             </a>
         </div>
         <!-- /Mobile Header -->
-
-
-
-
-

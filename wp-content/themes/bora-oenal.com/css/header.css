@@ -31,16 +31,37 @@
     max-width: 20%
 }
 
+
+.phone-info {
+    position: absolute;
+    left: 250px;
+    top: 53px;
+}
+
+.et-info-phone {
+	font-size: 0.85rem;
+    font-family: 'Bree Serif', serif;	
+}
+
+.fa fa-phone-square.blue {
+	color: red;
+}
+
+span.phone-top {
+	margin: 0;
+}
+
+
 @media only screen and (min-width: 991px) {
     .header.sticked {
         background-color: #fff;
-        height: 60px;
+        height: 70px;
         -webkit-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
         -moz-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
         box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
     }
     .header.sticked img {
-        width: 70%;
+        width: 75%;
         position: relative;
         top: -10px;
     }
@@ -48,6 +69,9 @@
         position: relative;
         top: -1px;
     }
+	.header.sticked .phone-info {
+    	top: 30px;
+	}
 }
 
 .site-title-block {

@@ -1,5 +1,4 @@
 <?php get_header() ?>
-
 <!-- Main Content -->
 <div id="main" class="site-main">
     <!-- Page changer wrapper -->
@@ -18,20 +17,21 @@
                             </div>
                             <div class="col-sm-8 col-md-8 col-lg-8">
                                 <div class="title-block">
-                                    <h2 class="h2-upline">Professionelle Webseite für
-                                        <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen", " Ihr Business", " Ihr Produkt", " Ihre Veranstaltung", " Ihre Praxis", " Ihr Hotel", " Ihr Restaurant", " Ihr Verein", " und, und ,und..." ]'></span>
+                                    <h2 class="h2-upline">Moderne Webseiten für
+                                        <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen ", " Ihr Business  ", " Ihr Produkt ", " Ihre Veranstaltung ", " Ihre Praxis ", " Ihr Hotel ", " Ihr Restaurant ", " Ihren Verein ", " und, und ,und...!" ]'></span>
                                     </h2>
-                                    <h1>WEBDESIGN PFORZHEIM</h1>
+                                    <h1>PROFESSIONELLE HOMEPAGES
+                                    </h1>
                                     <div>
                                         <div class="item">
-                                            <h2 class="h2-subline">Websites / Webprogrammierung für Unternehmen</h2>
+                                            <h2 class="h2-subline">Beratung &#10004; Webdesign &#10004; Web-Programmierung &#10004; </h2>
                                         </div>
                                     </div>
                                     <div class="job">
                                         <span class="jobtitel">Bora Önal, Dipl. Wirtschaftsinformatiker (FH) </span>
                                     </div>
                                 </div>
-                                <div class="social-links">
+                                <!-- <div class="social-links">
                                     <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
                                         <i class="fa fa-facebook"></i>
                                     </a>
@@ -41,19 +41,116 @@
                                     <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
                                         <i class="fa fa-xing"></i>
                                     </a>
-                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page"
+                                        target="_blank">
                                         <i class="fa fa-linkedin"></i>
                                     </a>
-                                </div>
+                                </div> -->
                                 <div class="download-resume">
                                     <a href="#kontakt" class="btn btn-secondary-start">Kontakt aufnehmen! </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="page-content">
                         <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
+                                <div class="block-title">
+                                    <h3>Hallo, ich bin
+                                        <span> Bora</span>. Ich plane und entwickle schnelle, sichere & moderne Webseiten & Onlineshops,
+                                        die Ihre
+                                        <span>Besucher zu Kunden </span> machen und
+                                        <span>bei Google auf Seite 1 </span> erscheinen!
+                                    </h3>
+                                    <h3>Erfolgreich im
+                                        <span>Web</span>
+                                    </h3>
+                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                        <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-user-plus"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Gewinnen Sie neue Kunden und steigern Sie Ihre Umsätze!</h4>
+                                                <p class="p-teasertxt">Machen Sie Besucher zu Kunden! Beeinflussen Sie Kaufentscheidungen
+                                                    zu Ihren Gunsten!</br>
+                                                    <a href="">
+                                                        <span class="more">Mehr erfahren...</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-clock-o"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Sparen Sie langfristig Kosten, Zeit und Nerven! </h4>
+                                                <p class="p-teasertxt">Werden Sie flexibler mit einer Website, deren Inhalt Sie selber ändern! Dank
+                                                    WordPress als CMS!</br>
+                                                    <a href="">
+                                                        <span class="more">Mehr erfahren...</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                        <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-list-ol"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Stehen Sie auf der 1. Seite bei Google!</h4>
+                                                <p class="p-teasertxt">Mit Suchmaschinenoptimierung zum Erfolg. Werden sie von Ihren potenziellen
+                                                    Kunden gefunden!</br>
+                                                    <a href="">
+                                                        <span class="more">Mehr erfahren...</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-money"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Steigern Sie Ihre Umsätze!</h4>
+                                                <p class="p-teasertxt">Beeinflussen Sie Kaufentscheidungen potenzieller Kunden zu Ihren Gunsten!
+                                                    !
+                                                </p>
+                                            </div>
+                                        </div> -->
+                                        <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-smile-o"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Verbessern Sie das Image Ihres Unternehmens!</h4>
+                                                <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt! Begeistern Sie Ihre Besucher und hinterlassen
+                                                    Sie den besten ersten Eindruck!
+                                                    </br>
+                                                    <a href="">
+                                                        <span class="more">Mehr erfahren...</span>
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="why-me-info-block">
+                                            <div class="ci-icon">
+                                                <i class="fa fa-check-square-o"></i>
+                                            </div>
+                                            <div class="ci-text">
+                                                <h4 class="h4-home">Machen Sie Ihre Besucher glücklich!
+                                                </h4>
+                                                <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt mit Strategie!
+                                                </p>
+                                            </div>
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
                                     <h3>Hi, ich bin Bora. Ich plane, baue &amp; analysiere Websites.
@@ -61,7 +158,10 @@
                                     </h3>
                                     <stropg>Fehlende Qualität ist teuer!</stropg>
                                     <p>Optimieren Sie Ihren Webauftritt für alle Endgeräte und begeistern Sie Ihre Kunden! Der
-                                        erste Eindruck entscheidet!</p>
+                                        erste Eindruck entscheidet! Verschaffen Sie einen Wettbewerbsvorteil und beeinflussen
+                                        Sie Kaufentscheidungen potenzieller Kunden zu Ihren Gunsten ! Verschaffen Sie sich
+                                        einen Wettbewerbsvorteil gegenüber den Websites der Mitbewerber. Heben Sie Sich von
+                                        der Masse ab!</p>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
@@ -73,12 +173,10 @@
                                 <p>Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
                                     Sie brauchen einen zuverlässigen und kompetenten Partner in Sachen Internet? Dann sind
                                     Sie bei mir in guten Händen. Ich konzipiere und programmiere zeitgemäße und benutzerfreundliche
-                                    Webseiten für meine Kunden im Großraum Pforzheim, Karlsruhe und Stuttgart.
-                                    </br>
+                                    Webseiten für meine Kunden im Großraum Pforzheim, Karlsruhe und Stuttgart. </br>
                                     </br>Seit 10 Jahren unterstütze ich erfolgreich Unternehmen bei der Neuentwicklung und Optimierung
                                     bestehender Webseiten zur Realisierung ihrer Ideen und Ziele. Ich biete verschiedene
-                                    Lösungen für Ihren optimalen Auftritt im World Wide Web.
-                                </p>
+                                    Lösungen für Ihren optimalen Auftritt im World Wide Web. </p>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
@@ -88,14 +186,12 @@
                                 </div>
                                 <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
                                     dem Open Source Content Management System WordPress.</br>
-                                    </br> Sie wollen das Image Ihres Unternehmens verbessern?
-                                    </br> Sie wollen neue Kunden gewinnen, diese langfristig binden und somit auch Ihren
-                                    Umsatz steigern?
+                                    </br>Sie wollen das Image Ihres Unternehmens verbessern? </br>Sie wollen neue Kunden gewinnen,
+                                    diese langfristig binden und somit auch Ihren Umsatz steigern?
                                     <br>
-                                    <br> Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und
-                                    diese mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller
-                                    Kunden zu Ihren Gunsten!
-                                    </br>
+                                    <br>Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und diese
+                                    mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller Kunden
+                                    zu Ihren Gunsten! </br>
                                     </br>
                                 </p>
                             </div>
@@ -134,25 +230,19 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg" alt="ubeybi Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
                                                                     src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">ubeybi.com</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress
                                                                 und WooCommerce</p>
-
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
-                                                                und Support
-                                                            </p>
-
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
+                                                                und Support </p>
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> ubeybi mit Sitz in Istanbul produziert
-                                                                und bietet Eltern eine Auswahl an Babyartikeln.
-                                                                </br>
+                                                                <strong>Über ubeybi:</strong>ubeybi mit Sitz in Istanbul produziert
+                                                                und bietet Eltern eine Auswahl an Babyartikeln. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a>
                                                                 </span>
@@ -168,7 +258,6 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Southside Rockers</h3>
                                                             </div>
@@ -177,13 +266,11 @@
                                                             <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für
                                                                 die legendären Southside Rockers</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung, Contenterstellung
-                                                                und Wartung
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Konzeption, Web-Programmierung, Contenterstellung
+                                                                und Wartung </p>
                                                             <p>
-                                                                <strong>Über ubeybi:</strong> Mit ihren Shows begeisterten die B-Boys
-                                                                der Southside Rockers weltweit das Publikum.
-                                                                </br>
+                                                                <strong>Über ubeybi:</strong>Mit ihren Shows begeisterten die B-Boys
+                                                                der Southside Rockers weltweit das Publikum. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a>
                                                                 </span>
@@ -199,19 +286,17 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Naturheilpraxis Pforzheim</h3>
                                                             </div>
                                                         </a>
                                                         <div class="c-project__content" data-accordion-content="">
-                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory: Bereits
+                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory : Bereits
                                                                 nach wenigen Wochen konnte Herr Temizer mit dem Relaunch
                                                                 die Reichweite und Anzahl der Patienten erhöhen.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
-                                                                und Support
-                                                                </br>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
+                                                                und Support </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
                                                                 </span>
@@ -227,22 +312,17 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Hypnosetherapie Temizer</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer
                                                                 konnte mit dem Web-Auftritt neue Kunden von seinem Service
-                                                                überzeugen.
-                                                            </p>
-
+                                                                überzeugen. </p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
-                                                                und Support
-                                                                </br>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
+                                                                und Support </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
                                                                 </span>
@@ -258,20 +338,17 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Merk Personalservice</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive
                                                                 Design. Anpassung der Website für alle Endgeräte, von Desktop-
                                                                 bis Smartphone-Ansicht.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Konzeption, Webdesign, Programmierung
-                                                                und Support
-                                                                </br>
+                                                                <strong>Aufgaben:</strong>Konzeption, Webdesign, Programmierung und
+                                                                Support </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a>
                                                                 </span>
@@ -287,24 +364,19 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">mobile lounge</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und
-                                                                WordPress-Integration
-                                                            </p>
+                                                                WordPress-Integration </p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Programmierung,
-                                                                Performance-Service
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Programmierung,
+                                                                Performance-Service </p>
                                                             <p>
-                                                                <strong>Über mobile lounge:</strong> Der Fachmarkt für Telekommunikation
-                                                                und Mobilfunk mit Top-Service
-                                                                </br>
+                                                                <strong>Über mobile lounge:</strong>Der Fachmarkt für Telekommunikation
+                                                                und Mobilfunk mit Top-Service </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a>
                                                                 </span>
@@ -320,23 +392,19 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Güven Al GmbH</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und Online-Strategie</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Dauer-Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Dauer-Support </p>
                                                             <p>
-                                                                <strong>Über Güven Al GmbH:</strong> Die Güven Al Lebensmittel &
-                                                                Fleisch Großhandel GmbH beliefert viele Kunden innerhalb
-                                                                von Hessen, BaWü & Nordrhein-Westfalen.
-                                                                </br>
+                                                                <strong>Über Güven Al GmbH:</strong>Die Güven Al Lebensmittel & Fleisch
+                                                                Großhandel GmbH beliefert viele Kunden innerhalb von Hessen,
+                                                                BaWü & Nordrhein-Westfalen. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a>
                                                                 </span>
@@ -352,22 +420,18 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Mythos Istanbul</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und mobile Apps</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
                                                             <p>
-                                                                <strong>Über Mythos Istanbul:</strong> Das historische Restaurant
-                                                                in Istanbul im ehemaligem Haydarpasa-Bahnhof
-                                                                </br>
+                                                                <strong>Über Mythos Istanbul:</strong>Das historische Restaurant
+                                                                in Istanbul im ehemaligem Haydarpasa-Bahnhof </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a>
                                                                 </span>
@@ -383,19 +447,16 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Hacamat Tedavi Pforzheim</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und
                                                                 Optimierungen bestehender Komponenten.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Programmierung
-                                                                und Support
-                                                                </br>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
+                                                                und Support </br>
                                                                 </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a>
@@ -405,7 +466,6 @@
                                                     </div>
                                                     <!-- /portfolio-item -->
                                                 </div>
-
                                                 <div class="c-project-list__item   o-grid__item">
                                                     <div class="c-project" data-accordion-item="collapsed">
                                                         <a href="#" class="c-project__teaser" data-accordion-handle="">
@@ -413,19 +473,16 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Happy People Project</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und mobile Apps</p>
                                                             </br>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
                                                             </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a>
@@ -442,22 +499,19 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Felicithy</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
                                                                 mit Bootstrap</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Konzeption, Web-Programmierung und Support
+                                                                <strong>Aufgaben:</strong>Konzeption, Web-Programmierung und Support
                                                             </p>
                                                             <p>
-                                                                <strong>Über felicithy:</strong> Blog von felicithy zu den Themen
-                                                                Fashion, Food und Lifestyle
-                                                                </br>
+                                                                <strong>Über felicithy:</strong>Blog von felicithy zu den Themen
+                                                                Fashion, Food und Lifestyle </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://felicithy.de/" target="_blank">www.felicithy.de</a>
                                                                 </span>
@@ -477,17 +531,14 @@
                                                                 <h3 class="c-project__title">D&T Pizza</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
                                                                 WordPress und mobile Apps</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung, Konzeption und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung, Konzeption und Support </p>
                                                             <p>
-                                                                <strong>Über D&T Pizza:</strong> Der schnelle Lieferdienst mit der
-                                                                besten Pizza aus Pforzheim
-                                                                </br>
+                                                                <strong>Über D&T Pizza:</strong>Der schnelle Lieferdienst mit der
+                                                                besten Pizza aus Pforzheim </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a>
                                                                 </span>
@@ -503,7 +554,6 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">BA-Carcenter</h3>
                                                             </div>
@@ -513,9 +563,8 @@
                                                                 Ziel war die Programierung und Anbindung zur mobile.de-Shop.
                                                             </p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung & Konzeption, Web-Design, Web-Programmierung
-                                                                und Wartung
-                                                                </br>
+                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Web-Programmierung
+                                                                und Wartung </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
                                                                 </span>
@@ -531,22 +580,18 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Artistik World</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops
                                                                 von Artsitik World.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Web-Programmierung und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Web-Programmierung und Support </p>
                                                             <p>
-                                                                <strong>Über Artistk World:</strong> Urban und Hip Hop Artworks diverser
-                                                                Textiledesigners, Tattoo- and Airbrushartists.
-                                                                </br>
+                                                                <strong>Über Artistk World:</strong>Urban und Hip Hop Artworks diverser
+                                                                Textiledesigners, Tattoo- and Airbrushartists. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a>
                                                                 </span>
@@ -562,23 +607,19 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg" alt="Website Lotus Bags"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Lotus Bags</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Contenterstellung,
-                                                                Web-Programmierung und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Contenterstellung,
+                                                                Web-Programmierung und Support </p>
                                                             <p>
-                                                                <strong>Über Lotus Bags:</strong> LOTUS BAGS GMBH erfolgreich als
+                                                                <strong>Über Lotus Bags:</strong>LOTUS BAGS GMBH erfolgreich als
                                                                 Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen
-                                                                Markt etabliert.
-                                                                </br>
+                                                                Markt etabliert. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
                                                                 </span>
@@ -594,22 +635,18 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg" alt="Website Scotty76"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">Scotty76</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>Website-Konzeption und -Programmierung für Scotty76.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Beratung, Konzeption , Design, Web-Programmierung
-                                                                und Support
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Web-Programmierung
+                                                                und Support </p>
                                                             <p>
-                                                                <strong>Über Scotty76:</strong> Scotty76 ist ein namhafter und berühmter
-                                                                Graffiti- und Tattoo-Artist.
-                                                                </br>
+                                                                <strong>Über Scotty76:</strong>Scotty76 ist ein namhafter und berühmter
+                                                                Graffiti- und Tattoo-Artist. </br>
                                                                 <span class="span-my-works">
                                                                     <a href="https://www.facebook.com/ScottyTPM/" target="_blank">www.scotty76.com</a>
                                                                 </span>
@@ -625,21 +662,18 @@
                                                                 <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte"
                                                                     class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
                                                             </figure>
-
                                                             <div class="c-project__header">
                                                                 <h3 class="c-project__title">ÜBER 200 WEITERE PROJEKTE</h3>
                                                             </div>
                                                         </a>
-
                                                         <div class="c-project__content" data-accordion-content="">
                                                             <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten
                                                                 gearbeitet. Über Agenturen arbeite ich auch für namhafte
                                                                 und börsennotierte Unternehmen, die ich an dieser Stelle
                                                                 leider nicht nennen darf.</p>
                                                             <p>
-                                                                <strong>Aufgaben:</strong> Web-Beratung, Web-Konzeption, Web-Entwicklung
-                                                                & Web-Services
-                                                            </p>
+                                                                <strong>Aufgaben:</strong>Web-Beratung, Web-Konzeption, Web-Entwicklung
+                                                                & Web-Services </p>
                                                         </div>
                                                     </div>
                                                     <!-- /portfolio-item -->
@@ -687,7 +721,6 @@
                                             <!-- /Testimonial Content -->
                                         </div>
                                         <!-- End of Testimonial 1 -->
-
                                         <!-- Testimonial 2 -->
                                         <div class="testimonial-item">
                                             <!-- Testimonial Author -->
@@ -727,7 +760,6 @@
                                                 <!-- /Picture -->
                                                 <!-- Testimonial author information -->
                                                 <div class="testimonial-author-info">
-
                                                     <p class="testimonial-author">Devrim Ördek</p>
                                                     <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
                                                 </div>
@@ -787,17 +819,16 @@
                                     </div>
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich rocke das Internet! Ich bin
-                                        <span class="highline"> freier Web-Berater </span> und
+                                        <span class="highline">freier Web-Berater </span>und
                                         <span class="highline">Web-Entwickler aus Pforzheim. </span>
-                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
-                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
-                                        </br>
+                                        </br>Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten. </br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
                                         <br>
-                                        <br> Seit über 10 Jahren greifen Agenturen und mittelständische Unternehmen auf mich
-                                        als Freelancer zurück und profitieren dabei von meiner Expertise in den Bereichen
-                                        Frontend-Entwicklung und WordPress.
+                                        <br>Seit über 10 Jahren greifen Agenturen und mittelständische Unternehmen auf mich als
+                                        Freelancer zurück und profitieren dabei von meiner Expertise in den Bereichen Frontend-Entwicklung
+                                        und WordPress.
                                         <br>
                                         <br>
                                     </p>
@@ -807,23 +838,22 @@
                                 <div class="about-me">
                                     <div class="block-title">
                                         <h3>Kurz
-                                            <span>&</span> Bündig
-                                        </h3>
+                                            <span>&</span>Bündig </h3>
                                     </div>
                                     <ul class="info-list">
                                         <p class="p-numbers">
                                             <span class="numbers-start">228 </span>Erfolgreiche Projekte</p>
                                         <p class="p-numbers">
-                                            <span class="numbers-start">90 + </span>Glückliche Kunden</p>
+                                            <span class="numbers-start">90+</span>Glückliche Kunden</p>
                                         <p class="p-numbers">
-                                            <span class="numbers-start">10 + </span>Jahre Erfahrung</p>
+                                            <span class="numbers-start">10+</span>Jahre Erfahrung</p>
                                         <br>
                                         <li>
                                             <i class="fa fa-user"></i>
-                                            <strong>Tätig als</strong> : </br>Selbstständiger Web-Berater, Web-Designer und Web-Entwickler</li>
+                                            <strong>Tätig als</strong>: </br>Selbstständiger Web-Berater, Web-Designer und Web-Entwickler</li>
                                         <li>
                                             <i class="fa fa-search"></i>
-                                            <strong>Schwerpunkte</strong> : </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
+                                            <strong>Schwerpunkte</strong>: </br>Beratung &amp; Konzeption, Design &amp; Entwicklung,
                                             Wordpress
                                             <br>
                                             <br>
@@ -851,7 +881,7 @@
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span class="marg-bottom"> 0176-64343412</span>
+                                        <span class="marg-bottom">0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
@@ -860,7 +890,6 @@
                 </div>
             </section>
             <!-- End of Home Subpage -->
-
             <!-- Resume Subpage -->
             <section class="pt-page" data-id="cv">
                 <div class="section-inner custom-page-content">
@@ -878,15 +907,15 @@
                                     </div>
                                     <p>Hallo, mein Name ist
                                         <span class="highline">Bora Önal </span>und ich bin
-                                        <span class="highline"> freier Web-Berater </span> und
+                                        <span class="highline">freier Web-Berater </span>und
                                         <span class="highline">Web-Entwickler aus Pforzheim.</span>
-                                        </br> Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        </br>Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
                                         ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
                                         <br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
                                         <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
                                         <br>
-                                        <br> Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
+                                        <br>Während meines BWL-Studiums mit dem Schwerpunkt Wirtschaftsinformatik an der Hochschule
                                         Pforzheim fokusierte ich mich auf die Themen Internet und E-Commerce. Nach meinem
                                         Studium war ich in diversen Agenturen und IT-Beratungshäuser tätig. Schwerpunkt meiner
                                         Tätigkeiten lagen in den Bereichen Beratung, Entwicklung und Qualitätssicherung.
@@ -902,7 +931,7 @@
                                     <div class="about-me">
                                         <div class="block-title">
                                             <h3>Bora
-                                                <span> Önal</span>
+                                                <span>Önal</span>
                                             </h3>
                                         </div>
                                         <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
@@ -993,12 +1022,10 @@
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-1"></div>
                                         </div>
-
                                         <h4>Web-Design (Responsive)</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-2"></div>
                                         </div>
-
                                         <h4>Logo Design</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-3"></div>
@@ -1015,29 +1042,24 @@
                                             <span>Skills</span>
                                         </h3>
                                     </div>
-
                                     <div class="skills-info">
                                         <h4>WordPress</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-4"></div>
                                         </div>
-
                                         <h4>WooCommerce</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-5"></div>
                                         </div>
-
                                         <h4>Bootstrap</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-5"></div>
                                         </div>
-
                                         <h4>jQuery</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-6"></div>
                                         </div>
                                     </div>
-
                                 </div>
                             </div>
                             <!-- End Technology Skills -->
@@ -1049,23 +1071,19 @@
                                             <span>Skills</span>
                                         </h3>
                                     </div>
-
                                     <div class="skills-info">
                                         <h4>HTML5</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-4"></div>
                                         </div>
-
                                         <h4>CSS3/LESS/SASS</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-5"></div>
                                         </div>
-
                                         <h4>JavaScript</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-6"></div>
                                         </div>
-
                                         <h4>PHP& SQL</h4>
                                         <div class="skill-container">
                                             <div class="skill-percentage skill-6"></div>
@@ -1086,7 +1104,7 @@
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span class="marg-bottom"> 0176-64343412</span>
+                                        <span class="marg-bottom">0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
@@ -1095,7 +1113,6 @@
                 </div>
             </section>
             <!-- End of Resume Subpage -->
-
             <!-- Services Subpage -->
             <section class="pt-page" data-id="leistungen">
                 <div class="section-inner custom-page-content">
@@ -1121,8 +1138,7 @@
                                         <h4>Konzeption</h4>
                                         <p>Jedes Webprojekt gehört gründlich geplant. Daher ist ein solides Konzept die Basis
                                             für eine erfolgreiche Website. Gerne unterstütze ich Sie bei der Konzeption von
-                                            individuellen Lösungen für Web und App.
-                                        </p>
+                                            individuellen Lösungen für Web und App. </p>
                                     </div>
                                 </div>
                             </div>
@@ -1135,8 +1151,7 @@
                                         <h4>Webdesign</h4>
                                         <p>Gutes Design will gelernt sein. Ich habe einen ausgeprägten Sinn für gestalterische
                                             Ästhetik und gestalte stets maßgeschneiderte Webdesigns, die durch Details auch
-                                            nachhaltig Eindruck hinterlassen.
-                                        </p>
+                                            nachhaltig Eindruck hinterlassen. </p>
                                     </div>
                                 </div>
                             </div>
@@ -1178,13 +1193,11 @@
                                     </h3>
                                 </div>
                                 <div class="techniques__text">
-                                    <p>
-                                        Text ändern: Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die Theorien und Strategien ohne zu Wissen,
-                                        welche Werkzeuge wir benötigen, um aus einer Idee ein “klickbares Abenteuer” zu bauen?
-                                        Als Webdesigner bin ich nicht nur Ihr Konzeptioner und Stratege, sondern auch Ihr
-                                        digitaler Handwerker und ausführende Hand für alle Themen rund um Ihre Webseite und
-                                        Ihren Onlineshop.
-                                    </p>
+                                    <p>Text ändern: Ein Webdesigner ist nur so gut wie sein Werkzeug. Was nützten uns all die
+                                        Theorien und Strategien ohne zu Wissen, welche Werkzeuge wir benötigen, um aus einer
+                                        Idee ein “klickbares Abenteuer” zu bauen? Als Webdesigner bin ich nicht nur Ihr Konzeptioner
+                                        und Stratege, sondern auch Ihr digitaler Handwerker und ausführende Hand für alle
+                                        Themen rund um Ihre Webseite und Ihren Onlineshop. </p>
                                 </div>
                                 <div class="technlogy-container">
                                     <div class="col-sm-3 technlogy-items">
@@ -1298,13 +1311,14 @@
                                 </div>
                                 <div class="col-md-4">
                                     <span class="numbers">2</span>
-                                    <h5 class="steps">KONZEPTION &amp; DESIGN</h5>
+                                    <h5 class="steps">KONZEPTION &amp; DESIGN
+                                    </h5>
                                     <p>Auf Basis der erhaltenen Informationen aus dem Vorgespräch bereite ich Ihnen ein Angebot
                                         vor. Sind Sie damit einverstanden starte ich mit der Konzeption. Hierfür ist zunächst
                                         eine Markt-, Konkurrenz- und Kunden-Analyse nötig. Wichtige Elemente einer Website
                                         wie z.B. Menü-Struktur und Seitenaufbau werden definiert.
                                         <br>
-                                        <br> Mithilfe des Konzeptes entwerfe ich anschließend das Layout und Design. Die optimale
+                                        <br>Mithilfe des Konzeptes entwerfe ich anschließend das Layout und Design. Die optimale
                                         Ausgabe auf allen Endgeräten und Nutzerfreundlichkeit stehen dabei im Fokus. Sie
                                         erhalten Designvorschläge und diese passe ich gegebenfalls solange an, bis sie mit
                                         dem Ergebnis zufrieden sind.
@@ -1314,7 +1328,8 @@
                                 </div>
                                 <div class="col-md-4">
                                     <span class="numbers">3</span>
-                                    <h5 class="steps">ENTWICKLUNG &amp; TESTS</h5>
+                                    <h5 class="steps">ENTWICKLUNG &amp; TESTS
+                                    </h5>
                                     <p>Sobald die Entwürfe Ihren Wünschen entsprechen, beginne ich mit der technischen Umsetzung.
                                         Die Installation und Anbindung an ein Content-Management-System (WordPress) ist der
                                         nächste Schritt. Saubere Programmierung ist ein wichtiger Qualitätsmerkmal und sorgt
@@ -1393,7 +1408,6 @@
                             </div>
                         </div>
                         <!-- End Row -->
-
                         <!-- Kunden -->
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
@@ -1448,7 +1462,6 @@
                             </div>
                         </div>
                         <!-- Ende Kunden -->
-
                         <!-- Preise-->
                         <div class="row">
                             <div class="col-sm-12 col-md-12">
@@ -1468,17 +1481,10 @@
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
-                                            <div class="lm-default-row">
-                                                Lorem ipsum dolor
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Pellentesque scelerisque
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Morbi eu sagittis
-                                            </div>
-                                            <div class="lm-default-row">
-                                            </div>
+                                            <div class="lm-default-row">Lorem ipsum dolor </div>
+                                            <div class="lm-default-row">Pellentesque scelerisque </div>
+                                            <div class="lm-default-row">Morbi eu sagittis </div>
+                                            <div class="lm-default-row"></div>
                                         </div>
                                     </div>
                                     <div class="lm-package-wrap col-md-4 highlight-col ">
@@ -1493,23 +1499,13 @@
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
-                                            <div class="lm-default-row">
-                                                Lorem ipsum dolor
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Pellentesque scelerisque
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Morbi eu sagittis
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Donec non diam
-                                            </div>
-                                            <div class="lm-default-row">
-                                            </div>
+                                            <div class="lm-default-row">Lorem ipsum dolor </div>
+                                            <div class="lm-default-row">Pellentesque scelerisque </div>
+                                            <div class="lm-default-row">Morbi eu sagittis </div>
+                                            <div class="lm-default-row">Donec non diam </div>
+                                            <div class="lm-default-row"></div>
                                         </div>
                                     </div>
-
                                     <div class="lm-package-wrap col-md-4 default-col ">
                                         <div class="lm-package">
                                             <div class="lm-heading-row">
@@ -1522,28 +1518,17 @@
                                             <div class="lm-button-row">
                                                 <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
                                             </div>
-                                            <div class="lm-default-row">
-                                                Lorem ipsum dolor
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Pellentesque scelerisque
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Morbi eu sagittis
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Donec non diam
-                                            </div>
-                                            <div class="lm-default-row">
-                                                Aenean nec libero
-                                            </div>
+                                            <div class="lm-default-row">Lorem ipsum dolor </div>
+                                            <div class="lm-default-row">Pellentesque scelerisque </div>
+                                            <div class="lm-default-row">Morbi eu sagittis </div>
+                                            <div class="lm-default-row">Donec non diam </div>
+                                            <div class="lm-default-row">Aenean nec libero </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- Ende Preise-->
-
                         <!-- image-service -->
                         <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -1551,7 +1536,7 @@
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span class="marg-bottom"> 0176-64343412</span>
+                                        <span class="marg-bottom">0176-64343412</span>
                                     </h3>
                                 </div>
                             </div>
@@ -1605,7 +1590,6 @@
                                         <!-- /Testimonial Content -->
                                     </div>
                                     <!-- End of Testimonial 1 -->
-
                                     <!-- Testimonial 2 -->
                                     <div class="testimonial-item">
                                         <!-- Testimonial Author -->
@@ -1645,7 +1629,6 @@
                                             <!-- /Picture -->
                                             <!-- Testimonial author information -->
                                             <div class="testimonial-author-info">
-
                                                 <p class="testimonial-author">Devrim Ördek</p>
                                                 <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
                                             </div>
@@ -1696,7 +1679,6 @@
                             </div>
                         </div>
                         <!-- End of Tesimonials -->
-
                         <div class="portfolio-content">
                             <!-- Portfolio filter -->
                             <ul id="portfolio_filters" class="portfolio-filters">
@@ -1717,7 +1699,6 @@
                                 </li>
                             </ul>
                             <!-- End of Portfolio filter -->
-
                             <!-- Portfolio Grid -->
                             <div id="portfolio_grid" class="portfolio-grid portfolio-masonry masonry-grid-3">
                                 <!-- Portfolio Item 1 -->
@@ -1732,7 +1713,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 1 -->
-
                                 <!-- Portfolio Item 2 -->
                                 <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ubeybi.jpg" class="lightbox" title="portfolio-ubeybi">
@@ -1745,7 +1725,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 2 -->
-
                                 <!-- Portfolio Item 3 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-merk-personalservice.jpg" class="lightbox" title="portfolio-merk-personalservice">
@@ -1758,20 +1737,19 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 3 -->
-
                                 <!-- Portfolio Item 4 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers.jpg" class="lightbox" title="portfolio-southside-rockers">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-southside-rockers-sml.jpg" alt="portfolio-southside-rockers.jpg">
                                         <div>
                                             <h5 class="name">Southside-Rockers</h5>
-                                            <small>WordPress, Bootstrap</small>
+                                            <small>WordPress, Bootstrap
+                                            </small>
                                             <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 4 -->
-
                                 <!-- Portfolio Item 5 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hypnosetherapie-temizer.jpg" class="lightbox" title="portfolio-hypnosetherapie-temizer">
@@ -1784,7 +1762,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 5 -->
-
                                 <!-- Portfolio Item 6 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-ba-carcenter.jpg" class="lightbox" title="portfolio-ba-carcenter">
@@ -1809,7 +1786,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 7 -->
-
                                 <!-- Portfolio Item 8 -->
                                 <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-gueven-al.jpg" class="lightbox" title="portfolio-gueven-al">
@@ -1822,7 +1798,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 8 -->
-
                                 <!-- Portfolio Item 9 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-hacamat-tedavi.jpg" class="lightbox" title="portfolio-hacamat-tedavi">
@@ -1835,7 +1810,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 9 -->
-
                                 <!-- Portfolio Item 10 -->
                                 <figure class="item" data-groups='["all", "beratung", "konzeption", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-mobile-lounge.jpg" class="lightbox" title="portfolio-mobile-lounge">
@@ -1848,7 +1822,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 10 -->
-
                                 <!-- Portfolio Item 11 -->
                                 <figure class="item" data-groups='["all", "beratung", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-happy-people.jpg" class="lightbox" title="portfolio-happy-people">
@@ -1861,7 +1834,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 11 -->
-
                                 <!-- Portfolio Item 12 -->
                                 <figure class="item" data-groups='["all", "coding", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-felicithy.jpg" class="lightbox" title="portfolio-felicithy">
@@ -1874,7 +1846,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 12 -->
-
                                 <!-- Portfolio Item 13 -->
                                 <figure class="item" data-groups='["all", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-artistikworld.jpg" class="lightbox" title="portfolio-artistikworld">
@@ -1887,7 +1858,6 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 13 -->
-
                                 <!-- Portfolio Item 14 -->
                                 <figure class="item" data-groups='["all", "support"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-dandt-pizza.jpg" class="lightbox" title="portfolio-dandt-pizza">
@@ -1900,31 +1870,29 @@
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 14 -->
-
                                 <!-- Portfolio Item 15 -->
                                 <figure class="item" data-groups='["all", "konzeption", "coding"]'>
                                     <a href="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal.jpg" class="lightbox" title="webdesigner-pforzheim">
                                         <img src="<?php bloginfo('template_url');?>/images/portfolio/portfolio-boraoenal-sml.jpg" alt="webdesign-pforzheim">
                                         <div>
                                             <h5 class="name">Bora Önal</h5>
-                                            <small>WordPress, WordPress</small>
+                                            <small>WordPress, WordPress
+                                            </small>
                                             <i class="fa fa-desktop"></i>
                                         </div>
                                     </a>
                                 </figure>
                                 <!-- /Portfolio Item 15 -->
-
                             </div>
                             <!-- /Portfolio Grid -->
                         </div>
                         <!-- /Portfolio Content -->
-
                         <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="block-title phone-number">
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span class="marg-bottom"> 0176-64343412</span>
+                                    <span class="marg-bottom">0176-64343412</span>
                                 </h3>
                             </div>
                         </div>
@@ -1932,7 +1900,6 @@
                 </div>
             </section>
             <!-- /Portfolio Subpage -->
-
             <!-- Blog Subpage -->
             <section class="pt-page" data-id="blog">
                 <div class="section-inner custom-page-content">
@@ -1940,7 +1907,6 @@
                         <h2>Blog</h2>
                     </div>
                     <div class="page-content">
-
                         <!-- Blog Posts Grid -->
                         <div class="blog-masonry two-columns">
                             <!-- Blog Post 1 -->
@@ -1971,7 +1937,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 1 -->
-
                             <!-- Blog Post 2 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2000,7 +1965,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 2 -->
-
                             <!-- Blog Post 3 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2023,13 +1987,13 @@
                                             </li>
                                         </ul>
                                         <a href="blog-post-1.html">
-                                            <h4 class="blog-item-title">Designed for Everyone, Everywhere</h4>
+                                            <h4 class="blog-item-title">Designed for Everyone, Everywhere
+                                            </h4>
                                         </a>
                                     </div>
                                 </div>
                             </div>
                             <!-- End of Blog Post 3 -->
-
                             <!-- Blog Post 4 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2058,7 +2022,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 4 -->
-
                             <!-- Blog Post 5 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2087,7 +2050,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 5 -->
-
                             <!-- Blog Post 6 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2116,7 +2078,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 6 -->
-
                             <!-- Blog Post 7 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2145,7 +2106,6 @@
                                 </div>
                             </div>
                             <!-- End of Blog Post 7 -->
-
                             <!-- Blog Post 8 -->
                             <div class="item">
                                 <div class="blog-card">
@@ -2181,7 +2141,7 @@
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span class="marg-bottom"> 0176-64343412</span>
+                                    <span class="marg-bottom">0176-64343412</span>
                                 </h3>
                             </div>
                         </div>
@@ -2189,7 +2149,6 @@
                 </div>
             </section>
             <!-- /Blog Subpage -->
-
             <!-- Contact Subpage -->
             <section class="pt-page" data-id="kontakt">
                 <div class="section-inner custom-page-content">
@@ -2205,9 +2164,7 @@
                                     </h3>
                                 </div>
                                 <form id="contact-form" method="post" action="<?php bloginfo('template_url');?>/contact_form/contact_form.php">
-
                                     <div class="messages"></div>
-
                                     <div class="controls">
                                         <div class="form-group form-group-with-icon">
                                             <i class="fa fa-user"></i>
@@ -2216,7 +2173,6 @@
                                             <div class="form-control-border"></div>
                                             <div class="help-block with-errors"></div>
                                         </div>
-
                                         <div class="form-group form-group-with-icon">
                                             <i class="fa fa-envelope"></i>
                                             <label>Email Address</label>
@@ -2224,7 +2180,6 @@
                                             <div class="form-control-border"></div>
                                             <div class="help-block with-errors"></div>
                                         </div>
-
                                         <div class="form-group form-group-with-icon">
                                             <i class="fa fa-comment"></i>
                                             <label>Message for Me</label>
@@ -2232,11 +2187,9 @@
                                             <div class="form-control-border"></div>
                                             <div class="help-block with-errors"></div>
                                         </div>
-
                                         <div class="g-recaptcha" data-sitekey="6Le35gYUAAAAAGB12s89xrKUvyjWlNVxinKVq3mN"></div>
-
                                         <input type="submit" class="button btn-send marg-bottom" value="Send message" />
-                                        <!-- <input type="button" class="button_active" onclick="location.href='1.html';" /> -->
+                                        <!-- <input type="button" class="button_active" onclick="location.href='1.html';" />-->
                                     </div>
                                 </form>
                             </div>
@@ -2279,12 +2232,11 @@
                                             });
                                             infowindow.open(map, marker);
                                         }
+
                                         google.maps.event.addDomListener(window, 'load', init_map);
                                     </script>
-
                                 </div>
                                 <!-- End of Google Map -->
-
                                 <div class="contact-info-block">
                                     <div class="ci-icon">
                                         <i class="fa fa-map-marker"></i>
@@ -2321,10 +2273,8 @@
                         </div>
                     </div>
                 </div>
-
             </section>
             <!-- End Contact Subpage -->
-
             <!-- Impressum Subpage -->
             <section class="pt-page" data-id="impressum">
                 <div class="section-inner custom-page-content">
@@ -2335,23 +2285,18 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>Impressum
-                                    </h3>
+                                    <h3>Impressum </h3>
                                 </div>
                                 <br>
-                                <strong>
-                                    Angaben gemäß § 5 TMG:
+                                <strong>Angaben gemäß § 5 TMG :
                                     <br>
                                 </strong>
                                 <div>
                                     <p>Bora Önal
                                         <br>August-Kayser-Straße 10
-                                        <br> 75175 Pforzheim
-                                    </p>
+                                        <br>75175 Pforzheim </p>
                                     <br>
-                                    <strong>
-                                        Kontakt:
-                                    </strong>
+                                    <strong>Kontakt : </strong>
                                     <br>
                                     <div>
                                         <p>
@@ -2361,21 +2306,19 @@
                                         <br>
                                         <strong>Steuer-Nr:</strong>
                                         <p>41800 / 70186</p>
-
                                         <br>
                                         <strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong>
                                         <p>Bora Önal
                                             <br>August-Kayser-Straße 10
-                                            <br> 75175 Pforzheim
+                                            <br>75175 Pforzheim
                                             <br>
                                         </p>
                                         <br>
                                         <strong>Quellenangaben für die verwendeten Bilder und Grafiken:</strong>
-                                        <p>http://www.fotolia.de</p>
+                                        <p>http: //www.fotolia.de</p>
                                         <br>
                                         <strong>Quelle:</strong>
-                                        <p>
-                                            Impressum-Generator von e-recht24.de</p>
+                                        <p>Impressum-Generator von e-recht24.de</p>
                                         <br>
                                         <br>
                                         <img src="http://boraoenal.com/wp-content/uploads/2017/10/logo.png" class="img-imprint" alt="Bora Önal">
@@ -2383,173 +2326,157 @@
                                         <br>
                                         <br>
                                         <div class="block-title">
-
-                                            <h3>Haftungshinweis
-                                            </h3>
+                                            <h3>Haftungshinweis </h3>
                                         </div>
-
                                         <h4>Haftung für Inhalte
                                             <br>
                                         </h4>
-                                        <p>
-                                            Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der
-                                            Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir
-                                            gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
-                                            Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch
-                                            nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen
-                                            oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
-                                            Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach
-                                            den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung
-                                            ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung
-                                            möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese
-                                            Inhalte umgehend entfernen.
-                                        </p>
+                                        <p>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit,
+                                            Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
+                                            Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen
+                                            Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind
+                                            wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte
+                                            fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine
+                                            rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung
+                                            der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
+                                            Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer
+                                            konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen
+                                            werden wir diese Inhalte umgehend entfernen. </p>
                                         <br>
                                         <p>
                                             <h4>Haftung für Links
                                                 <br>
-                                            </h4>
-                                            Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir
-                                            für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
-                                            Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
-                                            Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
-                                            überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
-                                            Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
-                                            Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen
-                                            werden wir derartige Links umgehend entfernen.
-                                        </p>
+                                            </h4>Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte
+                                            wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch
+                                            keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der
+                                            jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten
+                                            wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige
+                                            Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche
+                                            Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer
+                                            Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden
+                                            wir derartige Links umgehend entfernen. </p>
                                         <br>
                                         <p>
                                             <h4>Urheberrecht
                                                 <br>
-                                            </h4>
-                                            Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die
-                                            Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb
-                                            der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen
-                                            Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten,
-                                            nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht
-                                            vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere
-                                            werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
-                                            Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden
-                                            Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte
-                                            umgehend entfernen.
-                                        </p>
+                                            </h4>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten
+                                            unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung
+                                            und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen
+                                            der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads
+                                            und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch
+                                            gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden,
+                                            werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter
+                                            als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung
+                                            aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden
+                                            von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. </p>
                                         <br>
                                         <h4>Datenschutz
                                             <br>
                                         </h4>
-                                        <p>
-                                            Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene
-                                            Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt
-                                            dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre
-                                            ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin,
-                                            dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail)
-                                            Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff
-                                            durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht
-                                            veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
-                                            angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen.
-                                            Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle
-                                            der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
-                                        </p>
+                                        <p>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten
+                                            möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name,
+                                            Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich,
+                                            stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung
+                                            nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung
+                                            im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen
+                                            kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+                                            möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten
+                                            durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und
+                                            Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber
+                                            der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten
+                                            Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor. </p>
                                         <br>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>Haftungshinweis
-                                    </h3>
+                                    <h3>Haftungshinweis </h3>
                                 </div>
                                 <div>
                                     <h4>Google Analytics
                                         <br>
                                     </h4>
-                                    <p>
-                                        Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (Google). Google Analytics verwendet sog.
-                                        Cookies, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse
-                                        der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
-                                        über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen
-                                        Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen
-                                        benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten
-                                        für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung
-                                        und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google
-                                        diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben
-                                        oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in
-                                        keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie
-                                        können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser
-                                        Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls
-                                        nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Durch die
-                                        Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen
-                                        Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten
-                                        Zweck einverstanden.
-                                    </p>
+                                    <p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (Google).
+                                        Google Analytics verwendet sog. Cookies, Textdateien, die auf Ihrem Computer gespeichert
+                                        werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die
+                                        durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich
+                                        Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort
+                                        gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website
+                                        auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen
+                                        und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen
+                                        zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen,
+                                        sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von
+                                        Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten
+                                        von Google in Verbindung bringen. Sie können die Installation der Cookies durch eine
+                                        entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch
+                                        darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser
+                                        Website vollumfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie
+                                        sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen
+                                        Art und Weise und zu dem zuvor benannten Zweck einverstanden. </p>
                                     <br>
                                     <p>
                                         <h4>Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button)
                                             <br>
-                                        </h4>
-                                        Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA integriert.
-                                        Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem “Like-Button” (“Gefällt
-                                        mir”) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier:
-                                        http://developers.facebook.com/docs/plugins/. Wenn Sie unsere Seiten besuchen, wird
-                                        über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server
-                                        hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse
-                                        unsere Seite besucht haben. Wenn Sie den Facebook “Like-Button” anklicken während
-                                        Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten
-                                        auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten
-                                        Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten
-                                        keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook
-                                        erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von
-                                        facebook unter http://de-de.facebook.com/policy.php
-                                        <br> Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto
-                                        zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.
-                                    </p>
+                                        </h4>Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South
+                                        California Avenue, Palo Alto, CA 94304, USA integriert. Die Facebook-Plugins erkennen
+                                        Sie an dem Facebook-Logo oder dem “Like-Button” (“Gefällt mir”) auf unserer Seite.
+                                        Eine Übersicht über die Facebook-Plugins finden Sie hier : http: //developers.facebook.com/docs/plugins/.
+                                        Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte Verbindung zwischen
+                                        Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information,
+                                        dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook “Like-Button”
+                                        anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte
+                                        unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch
+                                        unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als
+                                        Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren
+                                        Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung
+                                        von facebook unter http: //de-de.facebook.com/policy.php
+                                        <br>Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto
+                                        zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus. </p>
                                     <br>
                                     <p>
-                                        <h4>Datenschutzerklärung für die Nutzung von Google +1
+                                        <h4>Datenschutzerklärung für die Nutzung von Google+1
                                             <br>
-                                        </h4>
-                                        Erfassung und Weitergabe von Informationen: Mithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen.
-                                        über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte
-                                        von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie
-                                        für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie
-                                        beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem
-                                        Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in
-                                        Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet
-                                        eingeblendet werden. Google zeichnet Informationen über Ihre +1-Aktivitäten auf,
-                                        um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche
-                                        verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil,
-                                        das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird
-                                        in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen
-                                        anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet
-                                        haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre
-                                        E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.
-                                        <br> Verwendung der erfassten Informationen: Neben den oben erläuterten Verwendungszwecken
+                                        </h4>Erfassung und Weitergabe von Informationen: Mithilfe der Google+1-Schaltfläche
+                                        können Sie Informationen weltweit veröffentlichen. über die Google+1-Schaltfläche
+                                        erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern.
+                                        Google speichert sowohl die Information, dass Sie für einen Inhalt+1 gegeben haben,
+                                        als auch Informationen über die Seite, die Sie beim Klicken auf+1 angesehen haben.
+                                        Ihre+1 können als Hinweise zusammen mit Ihrem Profilnamen und Ihrem Foto in Google-Diensten,
+                                        wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen Stellen
+                                        auf Websites und Anzeigen im Internet eingeblendet werden. Google zeichnet Informationen
+                                        über Ihre+1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern.
+                                        Um die Google+1-Schaltfläche verwenden zu können, benötigen Sie ein weltweit sichtbares,
+                                        öffentliches Google-Profil, das zumindest den für das Profil gewählten Namen enthalten
+                                        muss. Dieser Name wird in allen Google-Diensten verwendet. In manchen Fällen kann
+                                        dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über
+                                        Ihr Google-Konto verwendet haben. Die Identität Ihres Google-Profils kann Nutzern
+                                        angezeigt werden, die Ihre E-Mail-Adresse kennen oder über andere identifizierende
+                                        Informationen von Ihnen verfügen.
+                                        <br>Verwendung der erfassten Informationen: Neben den oben erläuterten Verwendungszwecken
                                         werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutz-bestimmungen
-                                        genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die
-                                        +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa
-                                        Publisher, Inserenten oder verbundene Websites.
-                                    </p>
+                                        genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die+1-Aktivitäten
+                                        der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa Publisher, Inserenten
+                                        oder verbundene Websites. </p>
                                     <br>
                                     <p>
                                         <h4>Datenschutzerklärung für die Nutzung von Twitter
                                             <br>
-                                        </h4>
-                                        Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter
-                                        Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Durch das Benutzen
-                                        von Twitter und der Funktion “Re-Tweet” werden die von Ihnen besuchten Webseiten
-                                        mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden
-                                        auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der
-                                        Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch
-                                        Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung
-                                        von Twitter unter http://twitter.com/privacy. Ihre Datenschutzeinstellungen bei Twitter
-                                        können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.
+                                        </h4>Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen
+                                        werden angeboten durch die Twitter Inc., 795 Folsom St., Suite 600, San Francisco,
+                                        CA 94107, USA. Durch das Benutzen von Twitter und der Funktion “Re-Tweet” werden
+                                        die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen
+                                        Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen
+                                        darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten
+                                        Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden
+                                        Sie in der Datenschutzerklärung von Twitter unter http: //twitter.com/privacy. Ihre
+                                        Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter
+                                        http: //twitter.com/account/settings ändern.
                                         <br>
-                                        <br> Quellverweis:
+                                        <br>Quellverweis :
                                         <br>Disclaimer eRecht24, eRecht24 Datenschutzerklärung für Facebook, Datenschutzerklärung
-                                        für Google Analytics,Datenschutzerklärung für Google Adsense, Datenschutzerklärung
-                                        Google +1, Twitter Bedingungen
-                                    </p>
+                                        für Google Analytics, Datenschutzerklärung für Google Adsense, Datenschutzerklärung
+                                        Google+1, Twitter Bedingungen </p>
                                 </div>
                             </div>
                         </div>
@@ -2563,5 +2490,4 @@
 </div>
 <!-- /Main Content -->
 </div>
-
 <?php get_footer() ?>

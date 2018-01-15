@@ -236,11 +236,15 @@ PopUp after reaching bottom of page
     top: 34px;
 }
 
-.h2-subline {
+.h2-subline, .h3-subline {
     color: #fff;
     margin-top: -20px;
     position: relative;
     top: 10px;
+}
+
+.h3-subline {
+	margin-top: -1px;
 }
 
 .download-resume {
@@ -249,7 +253,7 @@ PopUp after reaching bottom of page
 }
 
 .btn-secondary-start {
-    color: #fff;
+    color: #fff !important;
     background-color: #333;
     text-transform: uppercase;
     font-family: inherit;
@@ -330,4 +334,44 @@ div.test-unten {
 	display:block;
 }
 
+.why-me-info-block {
+	position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 5px 10px 1px 0;
+}
 
+.why-me-info-block .ci-icon {
+    position: absolute;
+    top: 50%;
+    margin-top: -18px;
+    width: 36px;
+    height: 36px;
+    background-color: #fafafa;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.why-me-info-block i {
+    position: relative;
+    font-size: 2rem;
+    color: #2196F3;
+    text-align: center;
+    line-height: 36px;
+}
+
+
+h4.h4-home {
+    padding: 0.5em 0 0 0;
+	margin-bottom: 3px;
+
+}
+
+p.p-teasertxt {
+    border-bottom: 1px solid #eee;
+	color: #777;
+	padding-bottom: 0.5em;
+	font-weight: 400;
+	font-family: 'Roboto', Helvetica, sans-serif;
+	font-size: 1em;
+}

@@ -39,14 +39,28 @@ a {
     transition: all 0.3s ease-in-out;
 }
 
+a:visited {
+    text-decoration: none !important;
+    outline: none;
+	border-bottom-color:rgba(255,255,255,0);
+	color: #2196F3;
+}
+
 a:hover {
     color: #FF9800;
     text-decoration: none;
     outline: none;
 }
 
+a:active { 
+	text-decoration: none;
+	color: #2196F3;
+} 
+
 a:focus {
     outline: 0;
+	text-decoration: none;
+	color: #2196F3;
 }
 
 h1,
