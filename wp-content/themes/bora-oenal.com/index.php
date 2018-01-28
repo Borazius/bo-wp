@@ -20,7 +20,7 @@
                                     <h2 class="h2-upline">Moderne Webseiten für
                                         <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen ", " Ihr Business  ", " Ihr Produkt ", " Ihre Veranstaltung ", " Ihre Praxis ", " Ihr Hotel ", " Ihr Restaurant ", " Ihren Verein ", " und, und ,und...!" ]'></span>
                                     </h2>
-                                    <h1>PROFESSIONELLE HOMEPAGES
+                                    <h1>WORDPRESS FREELANCER
                                     </h1>
                                     <div>
                                         <div class="item">
@@ -31,22 +31,7 @@
                                         <span class="jobtitel">Bora Önal, Dipl. Wirtschaftsinformatiker (FH) </span>
                                     </div>
                                 </div>
-                                <!-- <div class="social-links">
-                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
-                                        <i class="fa fa-facebook"></i>
-                                    </a>
-                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
-                                        <i class="fa fa-instagram"></i>
-                                    </a>
-                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
-                                        <i class="fa fa-xing"></i>
-                                    </a>
-                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page"
-                                        target="_blank">
-                                        <i class="fa fa-linkedin"></i>
-                                    </a>
-                                </div> -->
-                                <div class="download-resume">
+                                <div class="contact-btn-div">
                                     <a href="#kontakt" class="btn btn-secondary-start">Kontakt aufnehmen! </a>
                                 </div>
                             </div>
@@ -56,41 +41,39 @@
                         <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
                                 <div class="block-title">
-                                    <h3>Hallo, ich bin
-                                        <span> Bora</span>. Ich plane und entwickle schnelle, sichere & moderne Webseiten & Onlineshops,
-                                        die Ihre
+                                    <h3>Ich entwickle professionelle
+                                        <span>Webseiten</span> und
+                                        <span>Webshops</span>, </br> die Ihre
                                         <span>Besucher zu Kunden </span> machen und
-                                        <span>bei Google auf Seite 1 </span> erscheinen!
-                                    </h3>
-                                    <h3>Erfolgreich im
-                                        <span>Web</span>
+                                        <span>auf Seite 1 bei Google </span> erscheinen!
                                     </h3>
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                         <div class="why-me-info-block">
                                             <div class="ci-icon">
-                                                <i class="fa fa-user-plus"></i>
+                                                <i class="icon-users"></i>
                                             </div>
                                             <div class="ci-text">
-                                                <h4 class="h4-home">Gewinnen Sie neue Kunden und steigern Sie Ihre Umsätze!</h4>
-                                                <p class="p-teasertxt">Machen Sie Besucher zu Kunden! Beeinflussen Sie Kaufentscheidungen
-                                                    zu Ihren Gunsten!</br>
+                                                <h4 class="h4-home">Gewinnen Sie online neue Kunden und steigern Sie Ihren Umsatz!</h4>
+                                                <p class="p-teasertxt">Machen Sie Ihre Webseiten-Besucher zu neue Kunden! Beeinflussen Sie Kaufentscheidungen
+                                                    zu Ihren Gunsten!
+                                                    </br>
                                                     <a href="">
-                                                        <span class="more">Mehr erfahren...</span>
+                                                        <span class="more">Erfahren Sie mehr...</span>
                                                     </a>
                                                 </p>
                                             </div>
                                         </div>
-
                                         <div class="why-me-info-block">
                                             <div class="ci-icon">
-                                                <i class="fa fa-clock-o"></i>
+                                                <i class="icon-google3"></i>
+                                                <!-- <i class="icon-list-numbered"></i> -->
                                             </div>
                                             <div class="ci-text">
-                                                <h4 class="h4-home">Sparen Sie langfristig Kosten, Zeit und Nerven! </h4>
-                                                <p class="p-teasertxt">Werden Sie flexibler mit einer Website, deren Inhalt Sie selber ändern! Dank
-                                                    WordPress als CMS!</br>
+                                                <h4 class="h4-home">Stehen Sie auf der 1. Seite bei Google und werden Sie gefunden!</h4>
+                                                <p class="p-teasertxt">Mit Suchmaschinenoptimierung zum Erfolg im Web. Werden sie von Ihren potenziellen
+                                                    Kunden gefunden!</br>
                                                     <a href="">
-                                                        <span class="more">Mehr erfahren...</span>
+                                                        <span class="more">Erfahren Sie mehr...</span>
                                                     </a>
                                                 </p>
                                             </div>
@@ -99,89 +82,213 @@
                                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                         <div class="why-me-info-block">
                                             <div class="ci-icon">
-                                                <i class="fa fa-list-ol"></i>
+                                                <i class="icon-happy2"></i>
                                             </div>
                                             <div class="ci-text">
-                                                <h4 class="h4-home">Stehen Sie auf der 1. Seite bei Google!</h4>
-                                                <p class="p-teasertxt">Mit Suchmaschinenoptimierung zum Erfolg. Werden sie von Ihren potenziellen
-                                                    Kunden gefunden!</br>
-                                                    <a href="">
-                                                        <span class="more">Mehr erfahren...</span>
-                                                    </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <!-- <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="fa fa-money"></i>
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Steigern Sie Ihre Umsätze!</h4>
-                                                <p class="p-teasertxt">Beeinflussen Sie Kaufentscheidungen potenzieller Kunden zu Ihren Gunsten!
-                                                    !
-                                                </p>
-                                            </div>
-                                        </div> -->
-                                        <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="fa fa-smile-o"></i>
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Verbessern Sie das Image Ihres Unternehmens!</h4>
+                                                <h4 class="h4-home">Begeistern Sie Ihre Besucher und verbessern Sie das Image Ihres Unternehmens!</h4>
                                                 <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt! Begeistern Sie Ihre Besucher und hinterlassen
                                                     Sie den besten ersten Eindruck!
                                                     </br>
                                                     <a href="">
-                                                        <span class="more">Mehr erfahren...</span>
+                                                        <span class="more">Erfahren Sie mehr...</span>
                                                     </a>
                                                 </p>
                                             </div>
                                         </div>
-                                        <!-- <div class="why-me-info-block">
+                                        <div class="why-me-info-block">
                                             <div class="ci-icon">
-                                                <i class="fa fa-check-square-o"></i>
+                                                <i class="fa fa-line-chart" aria-hidden="true"></i>
                                             </div>
                                             <div class="ci-text">
-                                                <h4 class="h4-home">Machen Sie Ihre Besucher glücklich!
-                                                </h4>
-                                                <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt mit Strategie!
+                                                <h4 class="h4-home">Sparen Sie langfristig Kosten, Zeit und vor </br>allem Nerven!</h4>
+                                                <p class="p-teasertxt">Werden Sie flexibler mit einer Website, deren Inhalt Sie selber ändern! Dank
+                                                    WordPress als kostenoses CMS!</br>
+                                                    <a href="">
+                                                        <span class="more">Erfahren Sie mehr...</span>
+                                                    </a>
                                                 </p>
                                             </div>
-                                        </div> -->
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            <div class="col-sm-12 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>Hi, ich bin Bora. Ich plane, baue &amp; analysiere Websites.
-                                        <span>Ach ja, und erfolgreich machen ich sie auch!</span>
-                                    </h3>
-                                    <stropg>Fehlende Qualität ist teuer!</stropg>
-                                    <p>Optimieren Sie Ihren Webauftritt für alle Endgeräte und begeistern Sie Ihre Kunden! Der
-                                        erste Eindruck entscheidet! Verschaffen Sie einen Wettbewerbsvorteil und beeinflussen
-                                        Sie Kaufentscheidungen potenzieller Kunden zu Ihren Gunsten ! Verschaffen Sie sich
-                                        einen Wettbewerbsvorteil gegenüber den Websites der Mitbewerber. Heben Sie Sich von
-                                        der Masse ab!</p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block-title">
-                                    <h3>Webdesign zu fairen Preisen für die Region
-                                        <span>Karlsruhe / Pforzheim & Stuttgart</span>
+                                    <h3>Professionelle Websites nach </br>
+                                        <span>Ihren Wünschen</span>
                                     </h3>
                                 </div>
-                                <p>Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
-                                    Sie brauchen einen zuverlässigen und kompetenten Partner in Sachen Internet? Dann sind
-                                    Sie bei mir in guten Händen. Ich konzipiere und programmiere zeitgemäße und benutzerfreundliche
-                                    Webseiten für meine Kunden im Großraum Pforzheim, Karlsruhe und Stuttgart. </br>
-                                    </br>Seit 10 Jahren unterstütze ich erfolgreich Unternehmen bei der Neuentwicklung und Optimierung
-                                    bestehender Webseiten zur Realisierung ihrer Ideen und Ziele. Ich biete verschiedene
-                                    Lösungen für Ihren optimalen Auftritt im World Wide Web. </p>
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive-default.png"
+                                    alt="blog-post-1">
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            <div class="col-sm-12 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>WordPress Freelancer</br>
-                                        <span>individuell, nachhaltig und professionell</span>
+                                    <h3>Bei mir sind Sie ganz richtig,</br>
+                                        <span>wenn... </span>
+                                    </h3>
+                                    <ul class="leist_ul">
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie noch kein Website oder Online-Shop haben,
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie eine neuen Webauftritt wünschen, der Ihren Besuchern einen Merhwert bietet,
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie Ihre aktuelle Homepage aktualisieren oder komplett neu aufbauen müssen,
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie moderne, schnelle und sichere TOP-Webseiten wünschen,
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie Ihren aktuellen Auftritt im Internet optimieren oder
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie in Suchmaschinen besser gefunden werden möchten.
+                                        </li>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
+                                <div class="block-title">
+                                    <h3 class="hdl-my-service">Mein Service für
+                                        <span>Sie</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="fa fa-wordpress blue-icons" aria-hidden="true"></i>
+                                    </div>
+                                    <h3 class="center">WordPress CMS
+                                    </h3>
+                                    <p class="center">Ich entwickle individuelle Websites und Webshops mit WordPress</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="fa fa-tablet blue-icons" aria-hidden="true"></i>
+                                        <i class="fa fa-desktop blue-icons" aria-hidden="true"></i>
+                                        <i class="fa fa-mobile blue-icons" aria-hidden="true"></i>
+                                    </div>
+                                    <h3 class="center">Responsive Webdesign
+                                    </h3>
+                                </div>
+                                <p class="center">Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
+                                </p>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <span class="glyphicon glyphicon-send blue-icons"></span>
+                                    </div>
+                                    <h3 class="center">Online-Marketing
+                                    </h3>
+                                </div>
+                                <p class="center">Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
+                                </p>
+                            </div>
+                            <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
+                                <div class="block-title">
+                                    <h3 class="hdl-my-service">Warum
+                                        <span>Ich</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                                
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="icon-star-empty"> </i>
+                                    </div>
+                                    <h3 class="center">Professionell
+                                    </h3>
+                                    <p class="center">Zuverlässig. Hochwertig. Ansprechend. Zeitgemäß. Sympathisch.</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="icon-coin-euro"></i>
+                                    </div>
+                                    <h3 class="center">Günstig
+                                    </h3>
+                                    <p class="center">Konkurrenzlos effizient und kostengünstig.</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="icon-rocket"> </i>
+                                    </div>
+                                    <h3 class="center">Schnell
+                                    </h3>
+                                    <p class="center">Überraschend schnell, einfach und unkompliziert.</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="icon-checkbox-checked"> </i>
+                                    </div>
+                                    <h3 class="center">Optimiert
+                                    </h3>
+                                    <p class="center">Für Google. Für Kunden. Für Ihren Erfolg.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Test  for why-my -->
+                        <div class="row">
+                            <!-- Versuch -->
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3 class="hdl-my-service2">Warum
+                                        <span>Bora Önal</span>
+                                    </h3>
+                                </div>
+                                <div class="block-title">
+                                    <div class="ci-icon my-service-2">
+                                        <i class="icon-star-empty"></i>
+                                    </div>
+                                    <h3 class="h3-why-me-2">Professionell
+                                    </h3>
+                                    <p>Zuverlässig. Hochwertig. Ansprechend. Zeitgemäß. Sympathisch.</p>
+                                </div>
+                                <div class="block-title">
+                                    <div class="ci-icon my-service-2">
+                                        <i class="icon-coin-euro"></i>
+                                    </div>
+                                    <h3 class="h3-why-me-2">Günstig
+                                    </h3>
+                                    <p>Konkurrenzlos effizient und kostengünstig.</p>
+                                </div>
+                                <div class="block-title">
+                                    <div class="ci-icon my-service-2">
+                                        <i class="icon-rocket"> </i>
+                                    </div>
+                                    <h3 class="h3-why-me-2">Schnell
+                                    </h3>
+                                    <p>Überraschend schnell, einfach und unkompliziert.</p>
+                                </div>
+                                <div class="block-title">
+                                    <div class="ci-icon my-service-2">
+                                    <i class="icon-checkbox-checked"> </i>
+                                    </div>
+                                    <h3 class="h3-why-me-2">Optimiert
+                                    </h3>
+                                    <p>Für Google. Für Kunden. Für Ihren Erfolg.</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>WordPress
+                                        <span>Freelancer</span>
                                     </h3>
                                 </div>
                                 <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
@@ -195,646 +302,22 @@
                                     </br>
                                 </p>
                             </div>
+                        </div>
+
+                        <!-- About Me Startpage-->
+                        <div class="row">
+                            <!-- Portrait Startpage -->
                             <div class="col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
-                                    <h3>WordPress Freelancer</br>
-                                        <span>individuell, nachhaltig und professionell</span>
+                                    <h3>Bora
+                                        <span>Önal</span>
                                     </h3>
                                 </div>
-                                <img class="post-image img-responsive" src="<?php bloginfo('template_url');?>/images/responsive-default.png" alt="webdesign-pforzheim">
+                                <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
                             </div>
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block-title">
-                                    <h3>Webdesign zu fairen Preisen für die Region</br>
-                                        <span>Karlsruhe / Pforzheim & Stuttgart</span>
-                                    </h3>
-                                </div>
-                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive.png"
-                                    alt="blog-post-1">
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block-title">
-                                    <h3>Meine
-                                        <span>Arbeiten</span>
-                                    </h3>
-                                </div>
-                                <!-- Meine Arbeiten -->
-                                <section id="projects" class="c-section   o-section">
-                                    <div class="c-section__wrap   o-section__wrap">
-                                        <div class="o-section__content">
-                                            <div class="c-project-list   o-grid   u-text--center" data-accordion="" data-accordion-show-multiple="false">
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg" alt="ubeybi Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
-                                                                    src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">ubeybi.com</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress
-                                                                und WooCommerce</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
-                                                                und Support </p>
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong>ubeybi mit Sitz in Istanbul produziert
-                                                                und bietet Eltern eine Auswahl an Babyartikeln. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Southside Rockers</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für
-                                                                die legendären Southside Rockers</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Konzeption, Web-Programmierung, Contenterstellung
-                                                                und Wartung </p>
-                                                            <p>
-                                                                <strong>Über ubeybi:</strong>Mit ihren Shows begeisterten die B-Boys
-                                                                der Southside Rockers weltweit das Publikum. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Naturheilpraxis Pforzheim</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory : Bereits
-                                                                nach wenigen Wochen konnte Herr Temizer mit dem Relaunch
-                                                                die Reichweite und Anzahl der Patienten erhöhen.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
-                                                                und Support </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Hypnosetherapie Temizer</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer
-                                                                konnte mit dem Web-Auftritt neue Kunden von seinem Service
-                                                                überzeugen. </p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
-                                                                und Support </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Merk Personalservice</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive
-                                                                Design. Anpassung der Website für alle Endgeräte, von Desktop-
-                                                                bis Smartphone-Ansicht.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Konzeption, Webdesign, Programmierung und
-                                                                Support </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">mobile lounge</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und
-                                                                WordPress-Integration </p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Programmierung,
-                                                                Performance-Service </p>
-                                                            <p>
-                                                                <strong>Über mobile lounge:</strong>Der Fachmarkt für Telekommunikation
-                                                                und Mobilfunk mit Top-Service </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Güven Al GmbH</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
-                                                                WordPress und Online-Strategie</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Dauer-Support </p>
-                                                            <p>
-                                                                <strong>Über Güven Al GmbH:</strong>Die Güven Al Lebensmittel & Fleisch
-                                                                Großhandel GmbH beliefert viele Kunden innerhalb von Hessen,
-                                                                BaWü & Nordrhein-Westfalen. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Mythos Istanbul</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
-                                                                WordPress und mobile Apps</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
-                                                            <p>
-                                                                <strong>Über Mythos Istanbul:</strong>Das historische Restaurant
-                                                                in Istanbul im ehemaligem Haydarpasa-Bahnhof </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Hacamat Tedavi Pforzheim</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und
-                                                                Optimierungen bestehender Komponenten.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung
-                                                                und Support </br>
-                                                                </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Happy People Project</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
-                                                                WordPress und mobile Apps</p>
-                                                            </br>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
-                                                            </br>
-                                                            <span class="span-my-works">
-                                                                <a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a>
-                                                            </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Felicithy</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
-                                                                mit Bootstrap</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Konzeption, Web-Programmierung und Support
-                                                            </p>
-                                                            <p>
-                                                                <strong>Über felicithy:</strong>Blog von felicithy zu den Themen
-                                                                Fashion, Food und Lifestyle </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://felicithy.de/" target="_blank">www.felicithy.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">D&T Pizza</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
-                                                                WordPress und mobile Apps</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung, Konzeption und Support </p>
-                                                            <p>
-                                                                <strong>Über D&T Pizza:</strong>Der schnelle Lieferdienst mit der
-                                                                besten Pizza aus Pforzheim </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">BA-Carcenter</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Konzeption und Programmierung der Website auf Basis von Wordpress.
-                                                                Ziel war die Programierung und Anbindung zur mobile.de-Shop.
-                                                            </p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Web-Programmierung
-                                                                und Wartung </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Artistik World</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops
-                                                                von Artsitik World.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Web-Programmierung und Support </p>
-                                                            <p>
-                                                                <strong>Über Artistk World:</strong>Urban und Hip Hop Artworks diverser
-                                                                Textiledesigners, Tattoo- and Airbrushartists. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg" alt="Website Lotus Bags"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Lotus Bags</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Contenterstellung,
-                                                                Web-Programmierung und Support </p>
-                                                            <p>
-                                                                <strong>Über Lotus Bags:</strong>LOTUS BAGS GMBH erfolgreich als
-                                                                Hersteller von hochwertigen Papiertragetaschen auf dem Europäischen
-                                                                Markt etabliert. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg" alt="Website Scotty76"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">Scotty76</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>Website-Konzeption und -Programmierung für Scotty76.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Web-Programmierung
-                                                                und Support </p>
-                                                            <p>
-                                                                <strong>Über Scotty76:</strong>Scotty76 ist ein namhafter und berühmter
-                                                                Graffiti- und Tattoo-Artist. </br>
-                                                                <span class="span-my-works">
-                                                                    <a href="https://www.facebook.com/ScottyTPM/" target="_blank">www.scotty76.com</a>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                                <div class="c-project-list__item   o-grid__item">
-                                                    <div class="c-project" data-accordion-item="collapsed">
-                                                        <a href="#" class="c-project__teaser" data-accordion-handle="">
-                                                            <figure class="c-project__media">
-                                                                <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte"
-                                                                    class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
-                                                            </figure>
-                                                            <div class="c-project__header">
-                                                                <h3 class="c-project__title">ÜBER 200 WEITERE PROJEKTE</h3>
-                                                            </div>
-                                                        </a>
-                                                        <div class="c-project__content" data-accordion-content="">
-                                                            <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten
-                                                                gearbeitet. Über Agenturen arbeite ich auch für namhafte
-                                                                und börsennotierte Unternehmen, die ich an dieser Stelle
-                                                                leider nicht nennen darf.</p>
-                                                            <p>
-                                                                <strong>Aufgaben:</strong>Web-Beratung, Web-Konzeption, Web-Entwicklung
-                                                                & Web-Services </p>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /portfolio-item -->
-                                                </div>
-                                            </div>
-                                            <!-- /portfolio-items -->
-                                        </div>
-                                    </div>
-                                </section>
-                                <!-- END Meine Arbeiten -->
-                            </div>
-                            <!-- Testimonials -->
-                            <div class="row">
-                                <div class="col-sm-12 col-md-12">
-                                    <div class="block-title">
-                                        <h3>Testimonials</h3>
-                                    </div>
-                                    <div class="testimonials owl-carousel block">
-                                        <!-- Testimonial 1 -->
-                                        <div class="testimonial-item">
-                                            <!-- Testimonial Author -->
-                                            <div class="testimonial-credits">
-                                                <!-- Picture -->
-                                                <div class="testimonial-picture">
-                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/cihan-erkan-foto.jpg" alt="cihan-erkan-mobile-lounge">
-                                                </div>
-                                                <!-- /Picture -->
-                                                <!-- Testimonial author information -->
-                                                <div class="testimonial-author-info">
-                                                    <p class="testimonial-author">Cihan Erkan</p>
-                                                    <p class="testimonial-firm">Mobile-Lounge</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial author information -->
-                                            <!-- Testimonial Content -->
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-text">
-                                                    <p>"Die Zusammenarbeit mit Bora war ein voller Erfolg und die Umsetzung
-                                                        der Website erfolgte in kürzsester Zeit. Neben einer professionellen
-                                                        Beratung haben besonders die schnellen Reaktionszeiten einen positiven
-                                                        und bleibenden Eindruck hinterlassen. "
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial Content -->
-                                        </div>
-                                        <!-- End of Testimonial 1 -->
-                                        <!-- Testimonial 2 -->
-                                        <div class="testimonial-item">
-                                            <!-- Testimonial Author -->
-                                            <div class="testimonial-credits">
-                                                <!-- Picture -->
-                                                <div class="testimonial-picture">
-                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/julia-merk-foto.jpg" alt="julia-merk">
-                                                </div>
-                                                <!-- /Picture -->
-                                                <!-- Testimonial author information -->
-                                                <div class="testimonial-author-info">
-                                                    <p class="testimonial-author">Julia Merk</p>
-                                                    <p class="testimonial-firm">Merk-Presonalservice</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial author information -->
-                                            <!-- Testimonial Content -->
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-text">
-                                                    <p>" Bora kann ich wärmstens empfehlen. Ein zuverlässiger Partner, mit dem
-                                                        man gerne weitere Projekte ausführt. Ich war mit der gelieferten
-                                                        Arbeit und insbesondere auch mit dem sehr schnellen, freundlichen
-                                                        und kompetenten Kontakt sehr zufrieden. Gerne immer wieder!"</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial Content -->
-                                        </div>
-                                        <!-- End of Testimonial 2 -->
-                                        <!-- Testimonial 3 -->
-                                        <div class="testimonial-item">
-                                            <!-- Testimonial Author -->
-                                            <div class="testimonial-credits">
-                                                <!-- Picture -->
-                                                <div class="testimonial-picture">
-                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/devrim-ördek-foto.jpg" alt="devrim-ördek">
-                                                </div>
-                                                <!-- /Picture -->
-                                                <!-- Testimonial author information -->
-                                                <div class="testimonial-author-info">
-                                                    <p class="testimonial-author">Devrim Ördek</p>
-                                                    <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial author information -->
-                                            <!-- Testimonial Content -->
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-text">
-                                                    <p>" Bereits seit 2010 wissen wir mit Bora einen verlässlichen und kompetenten
-                                                        Partner an unserer Seite. Ein kreativer Kopf der sein Handwerk versteht.
-                                                        Problemlösungen werden gleich angeboten, besprochen und sofort in
-                                                        die Tat umgesetzt. "
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial Content -->
-                                        </div>
-                                        <!-- End of Testimonial 3 -->
-                                        <!-- Testimonial 4 -->
-                                        <div class="testimonial-item">
-                                            <!-- Testimonial Author -->
-                                            <div class="testimonial-credits">
-                                                <!-- Picture -->
-                                                <div class="testimonial-picture">
-                                                    <img src="<?php bloginfo('template_url');?>/images/testimonials/hakan-temizer-foto.jpg" alt="hakan-temizer">
-                                                </div>
-                                                <!-- /Picture -->
-                                                <!-- Testimonial author information -->
-                                                <div class="testimonial-author-info">
-                                                    <p class="testimonial-author">Hakan Temizer</p>
-                                                    <p class="testimonial-firm">Naturheilpraxis Pforzheim & Hypnosetherapie Pforzheim</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial author information -->
-                                            <!-- Testimonial Content -->
-                                            <div class="testimonial-content">
-                                                <div class="testimonial-text">
-                                                    <p>"Bora war ein absoluter Glücksgriff für mich. Er hat drei Webprojekte
-                                                        zu meinem vollsten Zufriedenheit umgesetzt. Seit dem Relaunch und
-                                                        Optimierung der Webseiten konnte ich mehr Kunden über das Internet
-                                                        generien, Bora sei Dank und gerne immer wieder!"</p>
-                                                </div>
-                                            </div>
-                                            <!-- /Testimonial Content -->
-                                        </div>
-                                        <!-- End of Testimonial 4 -->
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End of Tesimonials -->
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="about-me">
-                                    <div class="block-title">
-                                        <h3>Mein
-                                            <span>Service</span>
-                                        </h3>
-                                    </div>
-                                    <p>Hallo, mein Name ist
-                                        <span class="highline">Bora Önal </span>und ich rocke das Internet! Ich bin
-                                        <span class="highline">freier Web-Berater </span>und
-                                        <span class="highline">Web-Entwickler aus Pforzheim. </span>
-                                        </br>Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
-                                        ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten. </br>
-                                        <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
-                                        <span class="highline">Webseiten für alle Ausgabegeräte</span>, sei es auf einem Smartphone oder einem Desktop-PC.
-                                        <br>
-                                        <br>Seit über 10 Jahren greifen Agenturen und mittelständische Unternehmen auf mich als
-                                        Freelancer zurück und profitieren dabei von meiner Expertise in den Bereichen Frontend-Entwicklung
-                                        und WordPress.
-                                        <br>
-                                        <br>
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            <!-- End Portrait Startpage -->
+                            <!-- Kurz & Bündig Startpage-->
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <div class="about-me">
                                     <div class="block-title">
                                         <h3>Kurz
@@ -876,16 +359,791 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block-title phone-number">
-                                    <h3 class="h3-phone-number">
-                                        <i class="fa fa-phone" aria-hidden="true"></i>
-                                        </i>
-                                        <span class="marg-bottom">0176-64343412</span>
+                            <!-- END Kurz & Bündig Startpage-->
+                        </div>
+
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>Fehlende Qualität ist </br>
+                                        <span>teuer</span>
                                     </h3>
+                                </div>
+                                <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
+                                    dem Open Source Content Management System WordPress.</br>
+                                    </br>Sie wollen das Image Ihres Unternehmens verbessern? </br>Sie wollen neue Kunden gewinnen,
+                                    diese langfristig binden und somit auch Ihren Umsatz steigern?
+                                    <br>
+                                    <br>Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und diese
+                                    mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller Kunden
+                                    zu Ihren Gunsten! </br>
+                                    </br>
+                                </p>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>WordPress Freelancer</br>
+                                        <span>individuell, nachhaltig und professionell</span>
+                                    </h3>
+                                </div>
+                                <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
+                                    dem Open Source Content Management System WordPress.</br>
+                                    </br>Sie wollen das Image Ihres Unternehmens verbessern? </br>Sie wollen neue Kunden gewinnen,
+                                    diese langfristig binden und somit auch Ihren Umsatz steigern?
+                                    <br>
+                                    <br>Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und diese
+                                    mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller Kunden
+                                    zu Ihren Gunsten! </br>
+                                    </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Testimonials -->
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12">
+                                <div class="block-title">
+                                    <h3>Testimonials</h3>
+                                </div>
+                                <div class="testimonials owl-carousel block">
+                                    <!-- Testimonial 1 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/cihan-erkan-foto.jpg" alt="cihan-erkan-mobile-lounge">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Cihan Erkan</p>
+                                                <p class="testimonial-firm">Mobile-Lounge</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"Die Zusammenarbeit mit Bora war ein voller Erfolg und die Umsetzung der
+                                                    Website erfolgte in kürzsester Zeit. Neben einer professionellen Beratung
+                                                    haben besonders die schnellen Reaktionszeiten einen positiven und bleibenden
+                                                    Eindruck hinterlassen. "
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 1 -->
+                                    <!-- Testimonial 2 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/julia-merk-foto.jpg" alt="julia-merk">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Julia Merk</p>
+                                                <p class="testimonial-firm">Merk-Presonalservice</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>" Bora kann ich wärmstens empfehlen. Ein zuverlässiger Partner, mit dem man
+                                                    gerne weitere Projekte ausführt. Ich war mit der gelieferten Arbeit und
+                                                    insbesondere auch mit dem sehr schnellen, freundlichen und kompetenten
+                                                    Kontakt sehr zufrieden. Gerne immer wieder!"</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 2 -->
+                                    <!-- Testimonial 3 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/devrim-ördek-foto.jpg" alt="devrim-ördek">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Devrim Ördek</p>
+                                                <p class="testimonial-firm">E-Commerce-Leiter Trendfabrik</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>" Bereits seit 2010 wissen wir mit Bora einen verlässlichen und kompetenten
+                                                    Partner an unserer Seite. Ein kreativer Kopf der sein Handwerk versteht.
+                                                    Problemlösungen werden gleich angeboten, besprochen und sofort in die
+                                                    Tat umgesetzt. "
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 3 -->
+                                    <!-- Testimonial 4 -->
+                                    <div class="testimonial-item">
+                                        <!-- Testimonial Author -->
+                                        <div class="testimonial-credits">
+                                            <!-- Picture -->
+                                            <div class="testimonial-picture">
+                                                <img src="<?php bloginfo('template_url');?>/images/testimonials/hakan-temizer-foto.jpg" alt="hakan-temizer">
+                                            </div>
+                                            <!-- /Picture -->
+                                            <!-- Testimonial author information -->
+                                            <div class="testimonial-author-info">
+                                                <p class="testimonial-author">Hakan Temizer</p>
+                                                <p class="testimonial-firm">Naturheilpraxis Pforzheim & Hypnosetherapie Pforzheim</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial author information -->
+                                        <!-- Testimonial Content -->
+                                        <div class="testimonial-content">
+                                            <div class="testimonial-text">
+                                                <p>"Bora war ein absoluter Glücksgriff für mich. Er hat drei Webprojekte zu
+                                                    meinem vollsten Zufriedenheit umgesetzt. Seit dem Relaunch und Optimierung
+                                                    der Webseiten konnte ich mehr Kunden über das Internet generien, Bora
+                                                    sei Dank und gerne immer wieder!"</p>
+                                            </div>
+                                        </div>
+                                        <!-- /Testimonial Content -->
+                                    </div>
+                                    <!-- End of Testimonial 4 -->
                                 </div>
                             </div>
                         </div>
+                        <!-- Kunden -->
+                        <div class="col-sm-12 col-md-12">
+                            <div class="block-title">
+                                <h3>Kunden</h3>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-temizer.png" alt="kunde-temizer" title="Fachpraxis Temizer"
+                                            class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-merk.png" alt="kunde-merk" title="Personalservice Merk"
+                                            class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-ssr.png" alt="kunde-ssr" title="Southside Rockers"
+                                            class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-mobile-lounge.png" alt="kunde-mobile-lounge"
+                                            title="Mobile Lounge Pforzheim" class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-ubeybi.png" alt="kunde-ubeybi" title="ubeybi.com.tr"
+                                            class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-md-2 subpage-block">
+                                <div class="client-block">
+                                    <a href="#" target="_blank">
+                                        <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/clients/kunde-mythos.png" alt="kunde-mythos" title="mythos Istanbul"
+                                            class="mCS_img_loaded">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End of Tesimonials -->
+                        <!-- Meine Arbeiten -->
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="block-title">
+                                <h3>Meine
+                                    <span>Arbeiten</span>
+                                </h3>
+                            </div>
+                            <!-- Meine Arbeiten -->
+                            <section id="projects" class="c-section   o-section">
+                                <div class="c-section__wrap   o-section__wrap">
+                                    <div class="o-section__content">
+                                        <div class="c-project-list   o-grid   u-text--center" data-accordion="" data-accordion-show-multiple="false">
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg" alt="ubeybi Istanbul" class="c-project__thumbnail   image-lazy is-not-loaded"
+                                                                src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ubeybi.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">ubeybi.com</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress
+                                                            und WooCommerce</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
+                                                            Support </p>
+                                                        <p>
+                                                            <strong>Über ubeybi:</strong>ubeybi mit Sitz in Istanbul produziert und
+                                                            bietet Eltern eine Auswahl an Babyartikeln. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="https://www.ubeybi.com/" target="_blank">www.ubeybi.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg" alt="Website Southside Rockers"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ssr.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Southside Rockers</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Website-Entwicklung und Einrichtung der Social-Media-Kanäle für die
+                                                            legendären Southside Rockers</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Konzeption, Web-Programmierung, Contenterstellung
+                                                            und Wartung </p>
+                                                        <p>
+                                                            <strong>Über ubeybi:</strong>Mit ihren Shows begeisterten die B-Boys
+                                                            der Southside Rockers weltweit das Publikum. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.southside-rockers.com/" target="_blank">www.southside-rockers.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg" alt="Website Naturheilpraxis Temizer"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-naturheilpraxis-temizer.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Naturheilpraxis Pforzheim</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>SEO-Konzept und Relaunch der Webseite. Eine Erfolgsstory : Bereits
+                                                            nach wenigen Wochen konnte Herr Temizer mit dem Relaunch die
+                                                            Reichweite und Anzahl der Patienten erhöhen.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
+                                                            Support </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg" alt="Webseite Hypnosetherapie Temizer"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hypnosetherapie-temizer.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Hypnosetherapie Temizer</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Webseite für die Praxis auf Basis von WordPress. Herr Temizer konnte
+                                                            mit dem Web-Auftritt neue Kunden von seinem Service überzeugen.
+                                                        </p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
+                                                            Support </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg" alt="Webseite Merk-Personalservice"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-merk-personalservice.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Merk Personalservice</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Relaunch der Webseite nach dem Mobile-First-Prinzip und Responsive
+                                                            Design. Anpassung der Website für alle Endgeräte, von Desktop-
+                                                            bis Smartphone-Ansicht.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Konzeption, Webdesign, Programmierung und Support
+                                                            </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.merk-personalservice.de/" target="_blank">www.merk-personalservice.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg" alt="Webseite von mobile-lounge-pforzheim"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mobile-lounge.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">mobile lounge</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Planung und Umsetzung der Website mit Social-Media-Kanäle- und WordPress-Integration
+                                                        </p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Programmierung,
+                                                            Performance-Service </p>
+                                                        <p>
+                                                            <strong>Über mobile lounge:</strong>Der Fachmarkt für Telekommunikation
+                                                            und Mobilfunk mit Top-Service </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://mobile-lounge-pforzheim.de/" target="_blank">www.mobile-lounge-pforzheim.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg" alt="Website Gueven Al GmbH"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-gueven-al.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Güven Al GmbH</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                            WordPress und Online-Strategie</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Dauer-Support </p>
+                                                        <p>
+                                                            <strong>Über Güven Al GmbH:</strong>Die Güven Al Lebensmittel & Fleisch
+                                                            Großhandel GmbH beliefert viele Kunden innerhalb von Hessen,
+                                                            BaWü & Nordrhein-Westfalen. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg" alt="Website Mythos Istanbul"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-mythos.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Mythos Istanbul</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                            WordPress und mobile Apps</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
+                                                        <p>
+                                                            <strong>Über Mythos Istanbul:</strong>Das historische Restaurant in Istanbul
+                                                            im ehemaligem Haydarpasa-Bahnhof </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://mythos.com.tr/en/welcome/" target="_blank">www.mythos.com.tr</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg" alt="Website Hacamat Tedavi"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-hacamat-tedavi.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Hacamat Tedavi Pforzheim</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Website-Entwicklung mit WordPress-Integration. SEO-Beratung und Optimierungen
+                                                            bestehender Komponenten.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
+                                                            Support </br>
+                                                            </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg" alt="Website HappyPeople Istanbul"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-happypeople-project.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Happy People Project</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                            WordPress und mobile Apps</p>
+                                                        </br>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption und Support </p>
+                                                        </br>
+                                                        <span class="span-my-works">
+                                                            <a href="http://www.happypeople.com.tr" target="_blank">www.happypeople.com</a>
+                                                        </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg" alt="Website felicithy.de"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-felicithy.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Felicithy</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
+                                                            mit Bootstrap</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Konzeption, Web-Programmierung und Support
+                                                        </p>
+                                                        <p>
+                                                            <strong>Über felicithy:</strong>Blog von felicithy zu den Themen Fashion,
+                                                            Food und Lifestyle </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://felicithy.de/" target="_blank">www.felicithy.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg" alt="Website d&t Pizza"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-delicios-and-tasty.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">D&T Pizza</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Beratung und Erstellung einer Online-Strategie. Beratung zu SEO,
+                                                            WordPress und mobile Apps</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung, Konzeption und Support </p>
+                                                        <p>
+                                                            <strong>Über D&T Pizza:</strong>Der schnelle Lieferdienst mit der besten
+                                                            Pizza aus Pforzheim </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.dandtpizza-shop.de/" target="_blank">www.dandtpizza.de</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg" alt="Website BA-Carcenter"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-ba-carcenter.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">BA-Carcenter</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Konzeption und Programmierung der Website auf Basis von Wordpress.
+                                                            Ziel war die Programierung und Anbindung zur mobile.de-Shop.
+                                                        </p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Design, Web-Programmierung
+                                                            und Wartung </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://ba-carcenter.com/" target="_blank">www.ba-carcenter.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg" alt="Webshop Artistik World"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-artitikworld.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Artistik World</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops von
+                                                            Artsitik World.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Web-Programmierung und Support </p>
+                                                        <p>
+                                                            <strong>Über Artistk World:</strong>Urban und Hip Hop Artworks diverser
+                                                            Textiledesigners, Tattoo- and Airbrushartists. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://www.artistikworld.com/" target="_blank">www.artistikworld.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg" alt="Website Lotus Bags"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-lotus-bags.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Lotus Bags</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Website-Relaunch mit SEO-Konzept und Redesign und Support.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Contenterstellung,
+                                                            Web-Programmierung und Support </p>
+                                                        <p>
+                                                            <strong>Über Lotus Bags:</strong>LOTUS BAGS GMBH erfolgreich als Hersteller
+                                                            von hochwertigen Papiertragetaschen auf dem Europäischen Markt
+                                                            etabliert. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg" alt="Website Scotty76"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-scotty76.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">Scotty76</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>Website-Konzeption und -Programmierung für Scotty76.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Beratung, Konzeption, Design, Web-Programmierung
+                                                            und Support </p>
+                                                        <p>
+                                                            <strong>Über Scotty76:</strong>Scotty76 ist ein namhafter und berühmter
+                                                            Graffiti- und Tattoo-Artist. </br>
+                                                            <span class="span-my-works">
+                                                                <a href="https://www.facebook.com/ScottyTPM/" target="_blank">www.scotty76.com</a>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                            <div class="c-project-list__item   o-grid__item">
+                                                <div class="c-project" data-accordion-item="collapsed">
+                                                    <a href="#" class="c-project__teaser" data-accordion-handle="">
+                                                        <figure class="c-project__media">
+                                                            <img data-src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg" alt="Über 200 weitere Web-Projekte"
+                                                                class="c-project__thumbnail   image-lazy is-not-loaded" src="<?php bloginfo('template_url');?>/images/meine-arbeiten/meine-arbeiten-200.jpg">
+                                                        </figure>
+                                                        <div class="c-project__header">
+                                                            <h3 class="c-project__title">ÜBER 200 WEITERE PROJEKTE</h3>
+                                                        </div>
+                                                    </a>
+                                                    <div class="c-project__content" data-accordion-content="">
+                                                        <p>In den letzten 10 Jahren habe ich an über 200 weiteren Projekten
+                                                            gearbeitet. Über Agenturen arbeite ich auch für namhafte und
+                                                            börsennotierte Unternehmen, die ich an dieser Stelle leider nicht
+                                                            nennen darf.</p>
+                                                        <p>
+                                                            <strong>Aufgaben:</strong>Web-Beratung, Web-Konzeption, Web-Entwicklung
+                                                            & Web-Services </p>
+                                                    </div>
+                                                </div>
+                                                <!-- /portfolio-item -->
+                                            </div>
+                                        </div>
+                                        <!-- /portfolio-items -->
+                                    </div>
+                                </div>
+                            </section>
+                            <!-- END Meine Arbeiten -->
+                        </div>
+                        <!-- End of Meine Arbeiten -->
+                        <!-- Preise-->
+                        <div class="col-sm-12 col-md-12">
+                            <div class="block-title">
+                                <h3>Preise</h3>
+                            </div>
+                            <div class="lm-pricing row clearfix">
+                                <div class="lm-package-wrap col-md-4 default-col">
+                                    <div class="lm-package">
+                                        <div class="lm-heading-row">
+                                            <span>Plan 1</span>
+                                        </div>
+                                        <div class="lm-pricing-row">
+                                            <span>$64</span>
+                                            <small>per month</small>
+                                        </div>
+                                        <div class="lm-button-row">
+                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                        </div>
+                                        <div class="lm-default-row">Lorem ipsum dolor </div>
+                                        <div class="lm-default-row">Pellentesque scelerisque </div>
+                                        <div class="lm-default-row">Morbi eu sagittis </div>
+                                        <div class="lm-default-row"></div>
+                                    </div>
+                                </div>
+                                <div class="lm-package-wrap col-md-4 highlight-col ">
+                                    <div class="lm-package">
+                                        <div class="lm-heading-row">
+                                            <span>Plan 2</span>
+                                        </div>
+                                        <div class="lm-pricing-row">
+                                            <span>$128</span>
+                                            <small>per month</small>
+                                        </div>
+                                        <div class="lm-button-row">
+                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                        </div>
+                                        <div class="lm-default-row">Lorem ipsum dolor </div>
+                                        <div class="lm-default-row">Pellentesque scelerisque </div>
+                                        <div class="lm-default-row">Morbi eu sagittis </div>
+                                        <div class="lm-default-row">Donec non diam </div>
+                                        <div class="lm-default-row"></div>
+                                    </div>
+                                </div>
+                                <div class="lm-package-wrap col-md-4 default-col ">
+                                    <div class="lm-package">
+                                        <div class="lm-heading-row">
+                                            <span>Plan 3</span>
+                                        </div>
+                                        <div class="lm-pricing-row">
+                                            <span>$256</span>
+                                            <small>per month</small>
+                                        </div>
+                                        <div class="lm-button-row">
+                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                        </div>
+                                        <div class="lm-default-row">Lorem ipsum dolor </div>
+                                        <div class="lm-default-row">Pellentesque scelerisque </div>
+                                        <div class="lm-default-row">Morbi eu sagittis </div>
+                                        <div class="lm-default-row">Donec non diam </div>
+                                        <div class="lm-default-row">Aenean nec libero </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End of Preise-->
+                        <!-- Footer Phone -->
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="block-title phone-number">
+                                <div class="social-links marg-bottom">
+                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                        <i class="fa fa-xing"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
+                                <h3 class="h3-phone-number">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    </span>
+                                    <a href="tel:017664343412">
+                                        <span class="marg-bottom">0176-64343412</span>
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                        <!-- End of Footer Phone -->
                     </div>
                 </div>
             </section>
@@ -909,7 +1167,7 @@
                                         <span class="highline">Bora Önal </span>und ich bin
                                         <span class="highline">freier Web-Berater </span>und
                                         <span class="highline">Web-Entwickler aus Pforzheim.</span>
-                                        </br>Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
+                                        <br>Seit über 10 Jahren helfe ich Unternehmen Ihre Web-Ideen zu realiseren. Meine Mission
                                         ist es das World Wide Web täglich schöner und qualitativ besser zu gestalten.
                                         <br>
                                         <br>Mit großer Leidenschaft entwickle ich benutzerorientierte und kreative
@@ -927,16 +1185,14 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="about-me">
-                                        <div class="block-title">
-                                            <h3>Bora
-                                                <span>Önal</span>
-                                            </h3>
-                                        </div>
-                                        <img src="<?php bloginfo('template_url');?>/images/Bora_2017.png" alt="Bora76 Pforzheim" class="mCS_img_loaded img-portrait-resume">
-                                    </div>
+                                <div class="block-title">
+                                    <h3>Webdesign zu fairen Preisen für die Region
+                                        <br>
+                                        <span>Karlsruhe / Pforzheim &amp; Stuttgart</span>
+                                    </h3>
                                 </div>
+                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/ich-erstelle-webseiten-pforzheim-sw.png"
+                                    alt="webdesign-pforzheim">
                             </div>
                         </div>
                         <div class="row">
@@ -1092,22 +1348,33 @@
                                 </div>
                             </div>
                             <!-- END Coding Skills -->
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block">
-                                    <div class="center download-resume">
-                                        <a href="<?php bloginfo('template_url');?>/docs/bora-oenal-cv.pdf" target="_blank" class="btn btn-secondary">Download Resume</a>
-                                    </div>
-                                </div>
-                            </div>
+                            <!-- Footer Phone -->
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
+                                    <div class="social-links marg-bottom">
+                                        <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                            <i class="fa fa-instagram"></i>
+                                        </a>
+                                        <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                            <i class="fa fa-xing"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                            <i class="fa fa-linkedin"></i>
+                                        </a>
+                                    </div>
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span class="marg-bottom">0176-64343412</span>
+                                        <a href="tel:017664343412">
+                                            <span class="marg-bottom">0176-64343412</span>
+                                        </a>
                                     </h3>
                                 </div>
                             </div>
+                            <!-- End of Footer Phone -->
                         </div>
                     </div>
                 </div>
@@ -1531,15 +1798,33 @@
                         <!-- Ende Preise-->
                         <!-- image-service -->
                         <div class="row">
+                            <!-- Footer Phone -->
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="block-title phone-number">
+                                    <div class="social-links marg-bottom">
+                                        <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                            <i class="fa fa-facebook"></i>
+                                        </a>
+                                        <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                            <i class="fa fa-instagram"></i>
+                                        </a>
+                                        <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                            <i class="fa fa-xing"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                            <i class="fa fa-linkedin"></i>
+                                        </a>
+                                    </div>
                                     <h3 class="h3-phone-number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                         </i>
-                                        <span class="marg-bottom">0176-64343412</span>
+                                        <a href="tel:017664343412">
+                                            <span class="marg-bottom">0176-64343412</span>
+                                        </a>
                                     </h3>
                                 </div>
                             </div>
+                            <!-- End of Footer Phone -->
                         </div>
                         <!-- end image-service -->
                     </div>
@@ -1887,15 +2172,33 @@
                             <!-- /Portfolio Grid -->
                         </div>
                         <!-- /Portfolio Content -->
+                        <!-- Footer Phone -->
                         <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="block-title phone-number">
+                                <div class="social-links marg-bottom">
+                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                        <i class="fa fa-xing"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span class="marg-bottom">0176-64343412</span>
+                                    <a href="tel:017664343412">
+                                        <span class="marg-bottom">0176-64343412</span>
+                                    </a>
                                 </h3>
                             </div>
                         </div>
+                        <!-- End of Footer Phone -->
                     </div>
                 </div>
             </section>
@@ -2136,15 +2439,33 @@
                             <!-- End of Blog Post 8 -->
                         </div>
                         <!-- Blog Posts Grid -->
+                        <!-- Footer Phone -->
                         <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="block-title phone-number">
+                                <div class="social-links marg-bottom">
+                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                        <i class="fa fa-xing"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
                                 <h3 class="h3-phone-number">
                                     <i class="fa fa-phone" aria-hidden="true"></i>
                                     </i>
-                                    <span class="marg-bottom">0176-64343412</span>
+                                    <a href="tel:017664343412">
+                                        <span class="marg-bottom">0176-64343412</span>
+                                    </a>
                                 </h3>
                             </div>
                         </div>
+                        <!-- End of Footer Phone -->
                     </div>
                 </div>
             </section>
@@ -2206,8 +2527,8 @@
                                         <div id='gmap_canvas' class="gmap_canv" style='height:210px;width:400px'></div>
                                         <style>
                                             #gmap_canvas img {
-                                                max-width: none!important;
-                                                background: none!important
+                                                max-width: none !important;
+                                                background: none !important
                                             }
                                         </style>
                                     </div>

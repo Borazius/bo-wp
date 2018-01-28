@@ -13,9 +13,24 @@
 /* custom-pages */
 
 .block-title h3 {
-    font-size: 21px;
-    margin: 15px 0 5px;
+    font-size: 1.4rem;
+    margin: 15px 0 20px;
 }
+
+h3.hdl-my-service {
+    margin-bottom: 0;
+}
+
+h3.hdl-my-service2 {
+    margin: 15px 0 20px;
+}
+
+.ci-icon.my-service-2 i, span.glyphicon.blue-icons {
+    font-size: 1.8rem;
+    color: #2196F3;
+    line-height: 36px;
+}
+
 
 .block-title h3 span {
     color: #2196F3;
