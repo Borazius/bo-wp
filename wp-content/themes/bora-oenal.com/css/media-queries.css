@@ -203,7 +203,32 @@
 }
 
 @media only screen and (max-width: 769px) {
-    .portfolio-grid figure {
+    .h2-upline {
+    	position: relative;
+		font-size: 1.1em !important;
+		margin: 0 !important;
+		top: 4px !important;
+		line-height: 0.5em !important;
+	}
+	.marg-top {
+		margin-top: 16px;
+	}
+	.h2-subline {
+		font-size: 1.1em !important;
+	}
+	.job {
+    	margin-top: 4px !important;
+	}
+	.start-page-content .page-header {
+		padding: 20px !important;
+	}
+	.start-page-content .page-header .title-block h1 {
+		    margin: 15px 0 0 !important;
+	}
+	.contact-btn-div {
+		margin-top: 20px !important;
+	}
+	.portfolio-grid figure {
         width: 50%;
     }
     .home-page-block h2 {
@@ -223,10 +248,9 @@
         max-width: 200px;
         margin: 0 auto;
     }
-    .start-page-content .page-header .title-block h1 {
-        margin-top: 40px;
-        margin-bottom: 20px;
-        font-size: 36px;
+    .start-page-content .page-header .title-block h1 {    
+		margin: 0;
+        font-size: 32px;
         line-height: 1.2em;
     }
     .start-page-content .page-header .title-block .sp-subtitle {
@@ -258,6 +282,20 @@
     .home-page-description {
         font-size: 16px;
     }
+	.h2-subline {
+		display: block !important;
+		margin: 0 !important;
+	}
+	.jobtitel {
+		font-size: 0.7rem !important;
+		top: 12px !important;
+	}
+	p.center {
+		margin-bottom: 25px !important;
+	}
+	.ci-icon.my-service-2 {
+		left: 6px !important;
+	}
 }
 
 @media only screen and (max-width: 1400px) {

@@ -13,7 +13,7 @@
 /* custom-pages */
 
 .block-title h3 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     margin: 15px 0 20px;
 }
 
@@ -22,7 +22,7 @@ h3.hdl-my-service {
 }
 
 h3.hdl-my-service2 {
-    margin: 15px 0 20px;
+    margin: 15px 0 30px;
 }
 
 .ci-icon.my-service-2 i, span.glyphicon.blue-icons {

@@ -100,6 +100,8 @@ Text Domain: Bora Önal
 
 @import url('css/form-control.css');
 
+
+
 /* buttons.css */
 
 @import url('css/buttons.css');
@@ -241,6 +243,8 @@ PopUp after reaching bottom of page
     margin-top: -20px;
     position: relative;
     top: 10px;
+	width: auto;
+    display: inline-block;
 }
 
 .h3-subline {
@@ -330,7 +334,7 @@ div.test-unten {
 }
 
 .marg-bottom {
-	margin-bottom: 22px;
+	margin-bottom: 20px;
 	display:block;
 }
 
@@ -362,7 +366,7 @@ div.test-unten {
 .my-service i,
 span.glyphicon.blue-icons{
     font-size: 3rem;
-    color: #000;
+    color: #2196F3;
     text-align: center;
     line-height: 36px;
 }
@@ -377,16 +381,37 @@ h4.h4-home {
 }
 
 p.p-teasertxt {
-    border-bottom: 1px solid #eee;
 	color: #000;
 	padding-bottom: 0.5em;
 	font-weight: 400;
 	font-family: 'Roboto', Helvetica, sans-serif;
 	font-size: 1rem;
+	min-height: 70px;
 }
 
 .ci-icon.my-service-2 {
 	display: inline-block;
+}
+
+.block-title.why-me-left {
+    display: inline-block;
+	width: 100%;
+}
+
+img.mCS_img_loaded.why-me-img.sml-img-icon {
+    width: 30px;
+}
+
+.why-me-text-float {
+    width: 80%;
+    float: right;	
+    top: -6px;
+	left: -10px;
+    position: relative;
+}
+
+h3.center  {
+    color: #333;
 }
 
 h3.h3-why-me, h3-why-me-2 {
@@ -396,15 +421,17 @@ h3.h3-why-me, h3-why-me-2 {
 
 h3.h3-why-me-2 {
 	display:inline-block;
-	margin:0;
-	margin-left: 10px;
+	margin:0; 
+	color: #333;
+	line-height: 1.2em;
+	font-size: 1.1rem;
 }
 
 
 li.start-li{
 	font-size:1rem;
 	list-style-type: none;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 
 i.fa.fa-check-square-o {
@@ -413,6 +440,14 @@ i.fa.fa-check-square-o {
     font-size: 1.5rem;
     color: #2196F3;
     float: left;
+}
+
+i.fa.fa-check-square {
+	position: relative;
+    left: -15px;
+    font-size: 1.5rem;
+    color: #2196F3;
+    float: left;	
 }
 
 ul.leist_ul {
@@ -461,4 +496,57 @@ i {
 .contact-btn-div {
 	margin-top: 26px;
     text-align: center;
+}
+
+.btn-primary:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
+    background-color: #fff;
+	color:#2196F3;
+}
+
+a.btn.btn-primary.wht {
+	color:#fff;
+}
+
+a.btn.btn-primary.wht:hover {
+	background-color: #f5f5f5;;
+	color: #2196F3;
+}
+
+.row.flexbox-start {	
+    display: flex;
+    flex-wrap: wrap;
+}    
+a.btn-more-bottom {
+     position: absolute;
+    bottom: 30px;
+    right: 0;
+}
+img.mCS_img_loaded.why-me-img {
+    width: 100px;
+}
+
+h3.why-title-top {
+    margin: 1px;
+    color: #36444a;
+    width: auto;
+    display: inline-block;
+    border-bottom: 2px solid #2196F3;
+    padding-bottom: 1px;
+}
+
+p.why-p-top {
+    margin: 1px;
+}
+
+.whe-me-div {
+    margin-bottom:20px;
+}
+
+.site-title-block.mobile-hidden {
+    width: 100%;
+}
+
+.ci-icon.my-service-2 {
+    position: relative;
+    left: 10px;
 }

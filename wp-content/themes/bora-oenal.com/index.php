@@ -12,19 +12,21 @@
                         <div class="row">
                             <div class="col-sm-4 col-md-4 col-lg-4">
                                 <div class="photo">
-                                    <img src="<?php bloginfo('template_url');?>/images/photo.png" alt="">
+                                    <img src="<?php bloginfo('template_url');?>/images/bora-oenal-webdeveloper.png" alt="Webentwickler aus Pforzheim - Bora Önal">
                                 </div>
                             </div>
-                            <div class="col-sm-8 col-md-8 col-lg-8">
+                            <div class="col-sm-8 col-md-8 col-lg-8 marg-top">
                                 <div class="title-block">
                                     <h2 class="h2-upline">Moderne Webseiten für
                                         <span class="txt-rotate" data-period="1500" data-rotate='[ " Ihr Unternehmen ", " Ihr Business  ", " Ihr Produkt ", " Ihre Veranstaltung ", " Ihre Praxis ", " Ihr Hotel ", " Ihr Restaurant ", " Ihren Verein ", " und, und ,und...!" ]'></span>
                                     </h2>
-                                    <h1>WORDPRESS FREELANCER
+                                    <h1>WORDPRESS-ENTWICKLER
                                     </h1>
                                     <div>
                                         <div class="item">
-                                            <h2 class="h2-subline">Beratung &#10004; Webdesign &#10004; Web-Programmierung &#10004; </h2>
+                                            <h2 class="h2-subline">Webdesign &#10004; </h2>
+                                            <h2 class="h2-subline"> Web-Programmierung &#10004; </h2>
+                                            <h2 class="h2-subline" >Web-Optimierung &#10004; </h2>
                                         </div>
                                     </div>
                                     <div class="job">
@@ -47,83 +49,173 @@
                                         <span>Besucher zu Kunden </span> machen und
                                         <span>auf Seite 1 bei Google </span> erscheinen!
                                     </h3>
-                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                        <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="icon-users"></i>
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Gewinnen Sie online neue Kunden und steigern Sie Ihren Umsatz!</h4>
-                                                <p class="p-teasertxt">Machen Sie Ihre Webseiten-Besucher zu neue Kunden! Beeinflussen Sie Kaufentscheidungen
-                                                    zu Ihren Gunsten!
-                                                    </br>
-                                                    <a href="">
-                                                        <span class="more">Erfahren Sie mehr...</span>
-                                                    </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="icon-google3"></i>
-                                                <!-- <i class="icon-list-numbered"></i> -->
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Stehen Sie auf der 1. Seite bei Google und werden Sie gefunden!</h4>
-                                                <p class="p-teasertxt">Mit Suchmaschinenoptimierung zum Erfolg im Web. Werden sie von Ihren potenziellen
-                                                    Kunden gefunden!</br>
-                                                    <a href="">
-                                                        <span class="more">Erfahren Sie mehr...</span>
-                                                    </a>
-                                                </p>
-                                            </div>
-                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row flexbox-start">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="why-me-info-block">
+                                    <div class="ci-icon">
+                                        <i class="icon-users"></i>
                                     </div>
-                                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                        <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="icon-happy2"></i>
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Begeistern Sie Ihre Besucher und verbessern Sie das Image Ihres Unternehmens!</h4>
-                                                <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt! Begeistern Sie Ihre Besucher und hinterlassen
-                                                    Sie den besten ersten Eindruck!
-                                                    </br>
-                                                    <a href="">
-                                                        <span class="more">Erfahren Sie mehr...</span>
-                                                    </a>
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <div class="why-me-info-block">
-                                            <div class="ci-icon">
-                                                <i class="fa fa-line-chart" aria-hidden="true"></i>
-                                            </div>
-                                            <div class="ci-text">
-                                                <h4 class="h4-home">Sparen Sie langfristig Kosten, Zeit und vor </br>allem Nerven!</h4>
-                                                <p class="p-teasertxt">Werden Sie flexibler mit einer Website, deren Inhalt Sie selber ändern! Dank
-                                                    WordPress als kostenoses CMS!</br>
-                                                    <a href="">
-                                                        <span class="more">Erfahren Sie mehr...</span>
-                                                    </a>
-                                                </p>
-                                            </div>
-                                        </div>
+                                    <div class="ci-text">
+                                        <h4 class="h4-home">Gewinnen Sie online neue Kunden und steigern Sie Ihren Umsatz!</h4>
+                                        <p class="p-teasertxt">Machen Sie Ihre Webseiten-Besucher zu neue Kunden! Beeinflussen Sie Kaufentscheidungen
+                                            zu Ihren Gunsten!
+                                            </br>
+                                            <!-- <a href="" class="btn-more-bottom">
+                                                <span class="more">Erfahren Sie mehr...</span>
+                                            </a> -->
+                                        </p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-6">
-                                <div class="block-title">
-                                    <h3>Professionelle Websites nach </br>
-                                        <span>Ihren Wünschen</span>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="why-me-info-block">
+                                    <div class="ci-icon">
+                                        <i class="icon-google3"></i>
+                                        <!-- <i class="icon-list-numbered"></i> -->
+                                    </div>
+                                    <div class="ci-text">
+                                        <h4 class="h4-home">Stehen Sie auf der 1. Seite bei Google und werden Sie gefunden!</h4>
+                                        <p class="p-teasertxt">Mit Suchmaschinenoptimierung zum Erfolg im Web. Werden sie von Ihren potenziellen
+                                            Kunden gefunden!</br>
+                                            <!-- <a href="" class="btn-more-bottom">
+                                                <span class="more">Erfahren Sie mehr...</span>
+                                            </a> -->
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row flexbox-start">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="why-me-info-block">
+                                    <div class="ci-icon">
+                                        <i class="icon-happy2"></i>
+                                    </div>
+                                    <div class="ci-text">
+                                        <h4 class="h4-home">Begeistern Sie Ihre Besucher und verbessern Sie das Image Ihres Unternehmens!</h4>
+                                        <p class="p-teasertxt">Optimieren Sie Ihren Webauftritt! Begeistern Sie Ihre Besucher und hinterlassen Sie
+                                            den besten ersten Eindruck!
+                                            </br>
+                                            <!-- <a href="" class="btn-more-bottom">
+                                                <span class="more">Erfahren Sie mehr...</span>
+                                            </a> -->
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="why-me-info-block">
+                                    <div class="ci-icon">
+                                        <i class="fa fa-line-chart" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="ci-text">
+                                        <h4 class="h4-home">Sparen Sie langfristig Kosten, Zeit und vor </br>allem Nerven!</h4>
+                                        <p class="p-teasertxt">Werden Sie flexibler mit einer Website, deren Inhalt Sie selber ändern! Dank WordPress
+                                            als kostenoses CMS!</br>
+                                            <!-- <a href="" class="btn-more-bottom">
+                                                <span class="more">Erfahren Sie mehr...</span>
+                                            </a> -->
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row marg-bottom">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 marg-bottom">
+                                <div class="block-title marg-bottom">
+                                    <h3 class="hdl-my-service">Mein Service
+                                        <span>Für Sie</span>
                                     </h3>
                                 </div>
-                                <img class="post-image img-responsive" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive-default.png"
-                                    alt="blog-post-1">
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-6">
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="block-title">
-                                    <h3>Bei mir sind Sie ganz richtig,</br>
+                                    <div class="ci-icon my-service">
+                                        <i class="fa fa-tablet blue-icons" aria-hidden="true"></i>
+                                        <i class="fa fa-desktop blue-icons" aria-hidden="true"></i>
+                                        <i class="fa fa-mobile blue-icons" aria-hidden="true"></i>
+                                    </div>
+                                    <h3 class="center">Webdesign
+                                    </h3>
+                                </div>
+                                <p class="center">Natürlich Responsive! </br> Modernes Webdesign für </br> alle Endgeräte, egal ob Desktop,
+                                    </br>Tablet oder Smartphone
+                                </p>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="fa fa-wordpress blue-icons" aria-hidden="true"></i>
+                                    </div>
+                                    <h3 class="center">Web-Programmierung
+                                    </h3>
+                                    <p class="center">Frontend-Entwicklung, Websites, Online-Shops, Landingspages und Blogs mit WordPress CMS.
+                                        WordPress-Services: Installation, Theme-Entwicklung, Optimierung & Support.</br>
+                                        Pflegen Sie selbst kinderleicht die Inhalte Ihrer Website!</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="block-title">
+                                    <div class="ci-icon my-service">
+                                        <i class="icon-binoculars"></i>
+                                    </div>
+                                    <h3 class="center">Web-Optimierung
+                                    </h3>
+                                </div>
+                                <p class="center">Suchmaschinenoptimerung (SEO), Web-Qualitxy-check, Usability, Performance, Sicherheit und
+                                    Fehlerbhebungen. Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein
+                                    oder private Zwecke?
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row flexbox-start marg-bottom">
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <div class="block-title">
+                                    <h3>Begeistern Sie Ihre Besucher mit einem </br>
+                                        <span> TOP-Webauftritt </span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="whe-me-div">
+                                    <h3 class="why-title-top">
+                                        Zeitgemäß</h3>
+                                    <p class="why-p-top">Individuell, modern und nutzerfreundlich! Faktoren für Ihren Erfolg im Web!</p>
+                                </div>
+                                <div class="whe-me-div-2">
+                                    <h3 class="why-title-top">
+                                        Responsive</h3>
+                                    <p class="why-p-top">Optimierte Darstellung Ihrer Website, sowohl auf dem Desktop & auf Mobilgeräten!</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="whe-me-div-img">
+                                    <img class="post-image img-responsive top-position" src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/responsive-default.png"
+                                        alt="Websites für alle Endgeräte">
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                                <div class="whe-me-div">
+                                    <h3 class="why-title-top">
+                                        Suchmaschinenfreundlich</h3>
+                                    <p class="why-p-top">Mit Technik und Konzept die Garantie für ein besseres Ranking auf Google!</p>
+                                </div>
+                                <div class="whe-me-div-2">
+                                    <h3 class="why-title-top">
+                                        Schnell & Sicher</h3>
+                                    <p class="why-p-top">Sichere Webseiten mit kürzeren Ladezeiten die Ihre Web-Besucher beeindrucken!</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row marg-bottom">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="block-title">
+                                    <h3>Bei mir sind Sie ganz richtig,
                                         <span>wenn... </span>
                                     </h3>
                                     <ul class="leist_ul">
@@ -141,110 +233,22 @@
                                         </li>
                                         <li class="start-li">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
-                                            Sie moderne, schnelle und sichere TOP-Webseiten wünschen,
+                                            Sie moderne, schnelle und sichere Webseiten wünschen,
                                         </li>
                                         <li class="start-li">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
-                                            Sie Ihren aktuellen Auftritt im Internet optimieren oder
+                                            Sie Ihren aktuellen Auftritt im Internet optimieren,
                                         </li>
                                         <li class="start-li">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
-                                            Sie in Suchmaschinen besser gefunden werden möchten.
+                                            Sie in Suchmaschinen besser gefunden werden möchten oder
+                                        </li>
+                                        <li class="start-li">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            Sie eine Website wünschen, deren Inhalte Sie kinderleicht pflegen.
                                         </li>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
-                                <div class="block-title">
-                                    <h3 class="hdl-my-service">Mein Service für
-                                        <span>Sie</span>
-                                    </h3>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="fa fa-wordpress blue-icons" aria-hidden="true"></i>
-                                    </div>
-                                    <h3 class="center">WordPress CMS
-                                    </h3>
-                                    <p class="center">Ich entwickle individuelle Websites und Webshops mit WordPress</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="fa fa-tablet blue-icons" aria-hidden="true"></i>
-                                        <i class="fa fa-desktop blue-icons" aria-hidden="true"></i>
-                                        <i class="fa fa-mobile blue-icons" aria-hidden="true"></i>
-                                    </div>
-                                    <h3 class="center">Responsive Webdesign
-                                    </h3>
-                                </div>
-                                <p class="center">Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
-                                </p>
-                            </div>
-                            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <span class="glyphicon glyphicon-send blue-icons"></span>
-                                    </div>
-                                    <h3 class="center">Online-Marketing
-                                    </h3>
-                                </div>
-                                <p class="center">Sie benötigen eine neue Internetpräsenz für Ihr Unternehmen, Verein oder private Zwecke?
-                                </p>
-                            </div>
-                            <div class="col-sm-12 col-md-12 col-lg-12 marg-bottom">
-                                <div class="block-title">
-                                    <h3 class="hdl-my-service">Warum
-                                        <span>Ich</span>
-                                    </h3>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                                
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="icon-star-empty"> </i>
-                                    </div>
-                                    <h3 class="center">Professionell
-                                    </h3>
-                                    <p class="center">Zuverlässig. Hochwertig. Ansprechend. Zeitgemäß. Sympathisch.</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="icon-coin-euro"></i>
-                                    </div>
-                                    <h3 class="center">Günstig
-                                    </h3>
-                                    <p class="center">Konkurrenzlos effizient und kostengünstig.</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="icon-rocket"> </i>
-                                    </div>
-                                    <h3 class="center">Schnell
-                                    </h3>
-                                    <p class="center">Überraschend schnell, einfach und unkompliziert.</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
-                                <div class="block-title">
-                                    <div class="ci-icon my-service">
-                                        <i class="icon-checkbox-checked"> </i>
-                                    </div>
-                                    <h3 class="center">Optimiert
-                                    </h3>
-                                    <p class="center">Für Google. Für Kunden. Für Ihren Erfolg.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Test  for why-my -->
-                        <div class="row">
                             <!-- Versuch -->
                             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
@@ -252,62 +256,86 @@
                                         <span>Bora Önal</span>
                                     </h3>
                                 </div>
-                                <div class="block-title">
+                                <div class="block-title why-me-left">
                                     <div class="ci-icon my-service-2">
-                                        <i class="icon-star-empty"></i>
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/medal.svg" alt="Web Konzeption Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
                                     </div>
-                                    <h3 class="h3-why-me-2">Professionell
-                                    </h3>
-                                    <p>Zuverlässig. Hochwertig. Ansprechend. Zeitgemäß. Sympathisch.</p>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">Top-Qualität
+                                        </h3>
+                                        <p class="h3-why-me-p">Top-Websites - schnell, sicher, responsive, suchmaschinenfreundlich, modern & hochwertig</p>
+                                    </div>
                                 </div>
-                                <div class="block-title">
+                                <div class="block-title why-me-left">
                                     <div class="ci-icon my-service-2">
-                                        <i class="icon-coin-euro"></i>
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/piggy-bank.svg" alt="Web Freelancer Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
                                     </div>
-                                    <h3 class="h3-why-me-2">Günstig
-                                    </h3>
-                                    <p>Konkurrenzlos effizient und kostengünstig.</p>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">Gutes Preis-/ Leistungsverhältnis
+                                        </h3>
+                                        <p class="h3-why-me-p">Konkurrenzlos effizient und kostengünstig. </br>
+                                        </p>
+                                    </div>
                                 </div>
-                                <div class="block-title">
+                                <div class="block-title why-me-left">
                                     <div class="ci-icon my-service-2">
-                                        <i class="icon-rocket"> </i>
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/rocket.svg" alt="Web Konzeption Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
                                     </div>
-                                    <h3 class="h3-why-me-2">Schnell
-                                    </h3>
-                                    <p>Überraschend schnell, einfach und unkompliziert.</p>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">100% verlässliche Liefertermine!
+                                        </h3>
+                                        <p class="h3-why-me-p">Überraschend schnell, einfach und unkompliziert.</br>
+                                        </p>
+                                    </div>
                                 </div>
-                                <div class="block-title">
+                                <div class="block-title why-me-left">
                                     <div class="ci-icon my-service-2">
-                                    <i class="icon-checkbox-checked"> </i>
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/optimized.svg" alt="Web Freelancer Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
                                     </div>
-                                    <h3 class="h3-why-me-2">Optimiert
-                                    </h3>
-                                    <p>Für Google. Für Kunden. Für Ihren Erfolg.</p>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">Kostenloses Beratungsgespräch
+                                        </h3>
+                                        <p class="h3-why-me-p">Für Ihren Webauftritt mit Mehrwert für Ihre Kunden</p>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                <div class="block-title">
-                                    <h3>WordPress
-                                        <span>Freelancer</span>
-                                    </h3>
+                                <div class="block-title why-me-left">
+                                    <div class="ci-icon my-service-2">
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/optimized.svg" alt="Web Freelancer Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
+                                    </div>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">Garantiert mehr Erfolg für Ihr Unternehmen
+                                        </h3>
+                                        <p class="h3-why-me-p">Vervielfachen Sie Ihren Einsatz!</p>
+                                    </div>
                                 </div>
-                                <p>Wenn Sie Ihre Website ganz einfach selber aktualisieren möchten, erfolgt die Umsetzung mit
-                                    dem Open Source Content Management System WordPress.</br>
-                                    </br>Sie wollen das Image Ihres Unternehmens verbessern? </br>Sie wollen neue Kunden gewinnen,
-                                    diese langfristig binden und somit auch Ihren Umsatz steigern?
-                                    <br>
-                                    <br>Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und diese
-                                    mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller Kunden
-                                    zu Ihren Gunsten! </br>
-                                    </br>
-                                </p>
+                                <div class="block-title why-me-left">
+                                    <div class="ci-icon my-service-2">
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/optimized.svg" alt="Web Freelancer Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
+                                    </div>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">10+ Jahre Erfahrung
+                                        </h3>
+                                        <p class="h3-why-me-p">Auf dem neuesten Stand durch Weiterbildung</p>
+                                    </div>
+                                </div>
+                                <div class="block-title why-me-left">
+                                    <div class="ci-icon my-service-2">
+                                        <img src="<?php bloginfo('template_url');?>/images/icon-fonts/svg/optimized.svg" alt="Web Freelancer Pforzheim" class="mCS_img_loaded why-me-img sml-img-icon">
+                                    </div>
+                                    <div class="why-me-text-float">
+                                        <h3 class="h3-why-me-2">Zufriedene Kunden!
+                                        </h3>
+                                        <p class="h3-why-me-p">Für mehr Informationen bitte
+                                            <a>hier</a>
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-
                         <!-- About Me Startpage-->
                         <div class="row">
                             <!-- Portrait Startpage -->
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <div class="block-title">
                                     <h3>Bora
                                         <span>Önal</span>
@@ -321,7 +349,7 @@
                                 <div class="about-me">
                                     <div class="block-title">
                                         <h3>Kurz
-                                            <span>&</span>Bündig </h3>
+                                            <span> & </span> Bündig </h3>
                                     </div>
                                     <ul class="info-list">
                                         <p class="p-numbers">
@@ -377,7 +405,8 @@
                                     <br>Das geht vor allem, wenn Sie von Ihren potenziellen Kunden auch gefunden werden und diese
                                     mit Ihrem Webauftritt begeistern. Beeinflussen Sie Kaufentscheidungen potenzieller Kunden
                                     zu Ihren Gunsten! </br>
-                                    </br>
+                                    </br>Ansprechendes Webdesign, modernste Webtechnologien und hohe Benutzerfreundlichkeit auf
+                                    allen Geräten.
                                 </p>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
@@ -525,7 +554,9 @@
                         <!-- Kunden -->
                         <div class="col-sm-12 col-md-12">
                             <div class="block-title">
-                                <h3>Kunden</h3>
+                                <h3>Meine
+                                    <span>Kunden</span>
+                                </h3>
                             </div>
                             <div class="col-sm-4 col-md-2 subpage-block">
                                 <div class="client-block">
@@ -602,10 +633,12 @@
                                                     </a>
                                                     <div class="c-project__content" data-accordion-content="">
                                                         <p>Konzeption und Programmierung ubeybi-Webshop auf Basis von Wordpress
-                                                            und WooCommerce</p>
+                                                            und WooCommerce
+                                                        </p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
-                                                            Support </p>
+                                                            Support
+                                                        </p>
                                                         <p>
                                                             <strong>Über ubeybi:</strong>ubeybi mit Sitz in Istanbul produziert und
                                                             bietet Eltern eine Auswahl an Babyartikeln. </br>
@@ -662,7 +695,8 @@
                                                             Reichweite und Anzahl der Patienten erhöhen.</p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
-                                                            Support </br>
+                                                            Support
+                                                            </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://www.naturheilpraxis-temizer.de/" target="_blank">www.naturheilpraxis-temizer.de</a>
                                                             </span>
@@ -688,7 +722,8 @@
                                                         </p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
-                                                            Support </br>
+                                                            Support
+                                                            </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://www.hypnosetherapie-temizer.de/" target="_blank">www.hypnosetherapie-temizer.de</a>
                                                             </span>
@@ -770,7 +805,8 @@
                                                         <p>
                                                             <strong>Über Güven Al GmbH:</strong>Die Güven Al Lebensmittel & Fleisch
                                                             Großhandel GmbH beliefert viele Kunden innerhalb von Hessen,
-                                                            BaWü & Nordrhein-Westfalen. </br>
+                                                            BaWü & Nordrhein-Westfalen.
+                                                            </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://guven-al.de/de/" target="_blank">www.guven-al.de</a>
                                                             </span>
@@ -822,7 +858,8 @@
                                                             bestehender Komponenten.</p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Beratung & Konzeption, Web-Programmierung und
-                                                            Support </br>
+                                                            Support
+                                                            </br>
                                                             </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://www.hacamat-tedavi.de/" target="_blank">www.hacamat-tedavi.de</a>
@@ -871,7 +908,8 @@
                                                     </a>
                                                     <div class="c-project__content" data-accordion-content="">
                                                         <p>Erstellung eines Blogs auf Basis von WoordPress und Theme-Entwicklung
-                                                            mit Bootstrap</p>
+                                                            mit Bootstrap
+                                                        </p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Konzeption, Web-Programmierung und Support
                                                         </p>
@@ -952,7 +990,8 @@
                                                     </a>
                                                     <div class="c-project__content" data-accordion-content="">
                                                         <p>Unterstützung bei der Umsetzung und Entwicklung des Webshops von
-                                                            Artsitik World.</p>
+                                                            Artsitik World.
+                                                        </p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Web-Programmierung und Support </p>
                                                         <p>
@@ -985,7 +1024,8 @@
                                                         <p>
                                                             <strong>Über Lotus Bags:</strong>LOTUS BAGS GMBH erfolgreich als Hersteller
                                                             von hochwertigen Papiertragetaschen auf dem Europäischen Markt
-                                                            etabliert. </br>
+                                                            etabliert.
+                                                            </br>
                                                             <span class="span-my-works">
                                                                 <a href="http://bora76.hol.es/" target="_blank">www.lotus-bags.com</a>
                                                             </span>
@@ -1039,7 +1079,8 @@
                                                             nennen darf.</p>
                                                         <p>
                                                             <strong>Aufgaben:</strong>Web-Beratung, Web-Konzeption, Web-Entwicklung
-                                                            & Web-Services </p>
+                                                            & Web-Services
+                                                        </p>
                                                     </div>
                                                 </div>
                                                 <!-- /portfolio-item -->
@@ -1068,7 +1109,7 @@
                                             <small>per month</small>
                                         </div>
                                         <div class="lm-button-row">
-                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                            <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                         </div>
                                         <div class="lm-default-row">Lorem ipsum dolor </div>
                                         <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1086,7 +1127,7 @@
                                             <small>per month</small>
                                         </div>
                                         <div class="lm-button-row">
-                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                            <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                         </div>
                                         <div class="lm-default-row">Lorem ipsum dolor </div>
                                         <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1105,7 +1146,7 @@
                                             <small>per month</small>
                                         </div>
                                         <div class="lm-button-row">
-                                            <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                            <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                         </div>
                                         <div class="lm-default-row">Lorem ipsum dolor </div>
                                         <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1196,81 +1237,84 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-6 col-md-6 col-lg-6">
+                            <!-- Timeline-->
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                 <div class="block">
                                     <div class="block-title">
-                                        <h3>Studium & Schulbildung</h3>
-                                    </div>
-                                    <div class="timeline">
-                                        <!-- Studium 2 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">Diplom-Wirtschaftsinformatik (FH)</h4>
-                                            <span class="item-period">2006</span>
-                                            <span class="item-small">Hochschule für Wirtschaft Gestaltung und Technik Pforzheim</span>
-                                            <p class="item-description">Schwerpunkte: Web-Development, E-Commerce, Prozess - und Projektmanagement</p>
-                                        </div>
-                                        <!-- / Studium 2 -->
-                                        <!-- Studium 3 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">AIESEC - Rio de Janeiro / Brasilien</h4>
-                                            <span class="item-period">2002</span>
-                                            <span class="item-small">UFRJ - Universidade Federal do Rio de Janeiro-</span>
-                                            <p class="item-description">Auslandsstudium und CEED-Projekt über AIESEC International</p>
-                                        </div>
-                                        <!-- / Studium 3 -->
-                                        <!-- Studium 4 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">Abitur</h4>
-                                            <span class="item-period">1997</span>
-                                            <span class="item-small">Fritz-Erler-Wirtschaftsgymnasium / Pforzheim</span>
-                                            <p class="item-description"></p>
-                                        </div>
-                                        <!-- / Studium 4 -->
+                                        <h3>Meine
+                                            <span>Stationen</span>
+                                        </h3>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6">
-                                <div class="block">
-                                    <div class="block-title">
-                                        <h3>Berufserfahrung</h3>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="timeline">
+                                    <!-- Studium 2 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">Diplom-Wirtschaftsinformatik (FH)</h4>
+                                        <span class="item-period">2006</span>
+                                        <span class="item-small">Hochschule für Wirtschaft Gestaltung und Technik Pforzheim</span>
+                                        <p class="item-description">Schwerpunkte: Web-Development, E-Commerce, Prozess - und Projektmanagement</p>
                                     </div>
-                                    <div class="timeline">
-                                        <!-- Experience 1 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">Frontend-Developer</h4>
-                                            <span class="item-period">Seit Januar 2017</span>
-                                            <span class="item-small">IT-Dienstleistung</span>
-                                            <p class="item-description">Begleiter von Großkonzernen und mittelständischen Unternehmen bei der Digital
-                                                Business Transformation. Frontend-Development in agilen Projekten</p>
-                                        </div>
-                                        <!-- / Experience 1 -->
-                                        <!-- Experience 2 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">Web Designer</h4>
-                                            <span class="item-period">Dec 2011 - Nov 2012</span>
-                                            <span class="item-small">Apple Inc.</span>
-                                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
-                                            </p>
-                                        </div>
-                                        <!-- / Experience 2 -->
-                                        <!-- Experience 3 -->
-                                        <div class="timeline-item">
-                                            <h4 class="item-title">Graphic Designer</h4>
-                                            <span class="item-period">Jan 2010 - Dec 2011</span>
-                                            <span class="item-small">Apple Inc.</span>
-                                            <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
-                                            </p>
-                                        </div>
-                                        <!-- / Experience 3 -->
+                                    <!-- / Studium 2 -->
+                                    <!-- Studium 3 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">AIESEC - Rio de Janeiro / Brasilien</h4>
+                                        <span class="item-period">2002</span>
+                                        <span class="item-small">UFRJ - Universidade Federal do Rio de Janeiro-</span>
+                                        <p class="item-description">Auslandsstudium und CEED-Projekt über AIESEC International</p>
                                     </div>
+                                    <!-- / Studium 3 -->
+                                    <!-- Studium 4 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">Abitur</h4>
+                                        <span class="item-period">1997</span>
+                                        <span class="item-small">Fritz-Erler-Wirtschaftsgymnasium / Pforzheim</span>
+                                        <p class="item-description"></p>
+                                    </div>
+                                    <!-- / Studium 4 -->
                                 </div>
                             </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="timeline t-right">
+                                    <!-- Experience 1 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">Frontend-Developer</h4>
+                                        <span class="item-period">Seit Januar 2017</span>
+                                        <span class="item-small">IT-Dienstleistung</span>
+                                        <p class="item-description">Begleiter von Großkonzernen und mittelständischen Unternehmen bei der Digital Business
+                                            Transformation. Frontend-Development in agilen Projekten</p>
+                                    </div>
+                                    <!-- / Experience 1 -->
+                                    <!-- Experience 2 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">Web Designer</h4>
+                                        <span class="item-period">Dec 2011 - Nov 2012</span>
+                                        <span class="item-small">Apple Inc.</span>
+                                        <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
+                                        </p>
+                                    </div>
+                                    <!-- / Experience 2 -->
+                                    <!-- Experience 3 -->
+                                    <div class="timeline-item">
+                                        <h4 class="item-title">Graphic Designer</h4>
+                                        <span class="item-period">Jan 2010 - Dec 2011</span>
+                                        <span class="item-small">Apple Inc.</span>
+                                        <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
+                                        </p>
+                                    </div>
+                                    <!-- / Experience 3 -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
                             <!-- Design Skills -->
                             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="block">
+
                                     <div class="block-title">
-                                        <h3>Design
-                                            <span>Skills</span>
+                                        <h3>Design &
+                                            <span> Skills</span>
                                         </h3>
                                     </div>
                                     <div class="skills-info">
@@ -1289,7 +1333,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Design Skills -->
                             <!-- Technology Skills -->
                             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="block">
@@ -1318,7 +1361,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- End Technology Skills -->
                             <!-- Coding Skills -->
                             <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
                                 <div class="block">
@@ -1347,35 +1389,34 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- END Coding Skills -->
-                            <!-- Footer Phone -->
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                                <div class="block-title phone-number">
-                                    <div class="social-links marg-bottom">
-                                        <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
-                                            <i class="fa fa-facebook"></i>
-                                        </a>
-                                        <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
-                                            <i class="fa fa-instagram"></i>
-                                        </a>
-                                        <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
-                                            <i class="fa fa-xing"></i>
-                                        </a>
-                                        <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
-                                            <i class="fa fa-linkedin"></i>
-                                        </a>
-                                    </div>
-                                    <h3 class="h3-phone-number">
-                                        <i class="fa fa-phone" aria-hidden="true"></i>
-                                        </i>
-                                        <a href="tel:017664343412">
-                                            <span class="marg-bottom">0176-64343412</span>
-                                        </a>
-                                    </h3>
-                                </div>
-                            </div>
-                            <!-- End of Footer Phone -->
                         </div>
+                        <!-- Footer Phone -->
+                        <div class="col-sm-12 col-md-12 col-lg-12">
+                            <div class="block-title phone-number">
+                                <div class="social-links marg-bottom">
+                                    <a href="https://www.facebook.com/webmundo-115597331823156/" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>
+                                    <a href="https://www.instagram.com/bora76/?hl=de" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                    <a href="https://www.xing.com/profile/Bora_Oenal?sc_o=mxb_p" target="_blank">
+                                        <i class="fa fa-xing"></i>
+                                    </a>
+                                    <a href="https://www.linkedin.com/in/bora-%C3%B6nal-5a596813/?trk=public-profile-join-page" target="_blank">
+                                        <i class="fa fa-linkedin"></i>
+                                    </a>
+                                </div>
+                                <h3 class="h3-phone-number">
+                                    <i class="fa fa-phone" aria-hidden="true"></i>
+                                    </i>
+                                    <a href="tel:017664343412">
+                                        <span class="marg-bottom">0176-64343412</span>
+                                    </a>
+                                </h3>
+                            </div>
+                        </div>
+                        <!-- End of Footer Phone -->
                     </div>
                 </div>
             </section>
@@ -1400,7 +1441,8 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/concept.png" alt="Web Konzeption Pforzheim" class="mCS_img_loaded">
+                                            <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/icon-fonts/svg/brainstorming.svg" alt="Web Konzeption Pforzheim"
+                                                class="mCS_img_loaded">
                                         </div>
                                         <h4>Konzeption</h4>
                                         <p>Jedes Webprojekt gehört gründlich geplant. Daher ist ein solides Konzept die Basis
@@ -1413,7 +1455,8 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/web_design_icon.png" alt="Webdesigner Pforzheim" class="mCS_img_loaded">
+                                            <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/icon-fonts/svg/content.svg" alt="Webdesigner Pforzheim"
+                                                class="mCS_img_loaded">
                                         </div>
                                         <h4>Webdesign</h4>
                                         <p>Gutes Design will gelernt sein. Ich habe einen ausgeprägten Sinn für gestalterische
@@ -1426,9 +1469,10 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/creativity_icon.png" alt="Webprogrammierung Pforzheim" class="mCS_img_loaded">
+                                            <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/icon-fonts/svg/html.svg" alt="Webprogrammierung Pforzheim"
+                                                class="mCS_img_loaded">
                                         </div>
-                                        <h4>Programmierung</h4>
+                                        <h4>Programmierung & SEO</h4>
                                         <p>Die Programmierung von individuellen und leistungsfähigen Spezial-Lösungen für das
                                             Internet gehört zu meinen Schwerpunkten. Ich biete Webentwicklung u.a. auf Basis
                                             von JavaScript, PHP und MySQL sowie Frameworks wie Laravel, jQuery und Bootstrap.
@@ -1440,9 +1484,10 @@
                                 <div class="service-block">
                                     <div class="service-info">
                                         <div class="service-image">
-                                            <img src="<?php bloginfo('template_url');?>/images/leistungen/advetising_icon.png" alt="Online Marketing Pforzheim" class="mCS_img_loaded">
+                                            <img src="http://boraoenal.com/wp-content/themes/bora-oenal.com/images/icon-fonts/svg/promotion.svg" alt="Online Marketing Pforzheim"
+                                                class="mCS_img_loaded">
                                         </div>
-                                        <h4>Online Marketing</h4>
+                                        <h4>Website-Analyse</h4>
                                         <p>Sie möchten Ihre Sichtbarkeit in den Ergebnislisten der großen Suchmaschinen verbessern?
                                             Dann fragen Sie nach Unterstützung im Bereich von Suchmaschinenoptimierung. Ich
                                             analysiere Ihre Website, zeige Ihnen Optimierungsansätze auf und realisiere diese.
@@ -1746,7 +1791,7 @@
                                                 <small>per month</small>
                                             </div>
                                             <div class="lm-button-row">
-                                                <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                                <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                             </div>
                                             <div class="lm-default-row">Lorem ipsum dolor </div>
                                             <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1764,7 +1809,7 @@
                                                 <small>per month</small>
                                             </div>
                                             <div class="lm-button-row">
-                                                <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                                <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                             </div>
                                             <div class="lm-default-row">Lorem ipsum dolor </div>
                                             <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1783,7 +1828,7 @@
                                                 <small>per month</small>
                                             </div>
                                             <div class="lm-button-row">
-                                                <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                                                <a href="#" target="_self" class="btn btn-primary wht">Free Trial</a>
                                             </div>
                                             <div class="lm-default-row">Lorem ipsum dolor </div>
                                             <div class="lm-default-row">Pellentesque scelerisque </div>
@@ -1897,7 +1942,8 @@
                                                 <p>" Bora kann ich wärmstens empfehlen. Ein zuverlässiger Partner, mit dem man
                                                     gerne weitere Projekte ausführt. Ich war mit der gelieferten Arbeit und
                                                     insbesondere auch mit dem sehr schnellen, freundlichen und kompetenten
-                                                    Kontakt sehr zufrieden. Gerne immer wieder!"</p>
+                                                    Kontakt sehr zufrieden. Gerne immer wieder!"
+                                                </p>
                                             </div>
                                         </div>
                                         <!-- /Testimonial Content -->
@@ -2797,7 +2843,8 @@
                                         <br>Quellverweis :
                                         <br>Disclaimer eRecht24, eRecht24 Datenschutzerklärung für Facebook, Datenschutzerklärung
                                         für Google Analytics, Datenschutzerklärung für Google Adsense, Datenschutzerklärung
-                                        Google+1, Twitter Bedingungen </p>
+                                        Google+1, Twitter Bedingungen
+                                    </p>
                                 </div>
                             </div>
                         </div>
