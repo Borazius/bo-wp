@@ -24,9 +24,9 @@
                                     </h1>
                                     <div>
                                         <div class="item">
-                                            <h2 class="h2-subline">Webdesign &#10004; </h2>
-                                            <h2 class="h2-subline"> Web-Programmierung &#10004; </h2>
-                                            <h2 class="h2-subline" >Web-Optimierung &#10004; </h2>
+                                            <h2 class="h2-subline">Webdesign &#10004;</h2>
+                                            <h2 class="h2-subline">&nbsp; Web-Programmierung &#10004; </h2>
+                                            <h2 class="h2-subline">&nbsp;Web-Optimierung &#10004; </h2>
                                         </div>
                                     </div>
                                     <div class="job">
